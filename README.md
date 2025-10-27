@@ -55,8 +55,9 @@ Business Insight Communication
 Contact
 
 Zac Jackson
-London, UK 
-zacliamjackson@gmail.com
-LinkedIn Profile (https://www.linkedin.com/in/zac-jackson-17a39b1b3/)
+
+Location: London, UK 
+email: zacliamjackson@gmail.com
+LinkedIn Profile: (https://www.linkedin.com/in/zac-jackson-17a39b1b3/)
 
 
