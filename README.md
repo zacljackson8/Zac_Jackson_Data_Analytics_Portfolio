@@ -62,6 +62,6 @@ Location: London, UK
 
 Email: zacliamjackson@gmail.com
 
-LinkedIn Profile: (https://www.linkedin.com/in/zac-jackson-17a39b1b3/)
+LinkedIn Profile: https://www.linkedin.com/in/zac-jackson-17a39b1b3/
 
 
