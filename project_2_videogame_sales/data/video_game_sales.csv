@@ -1,0 +1,1501 @@
+OrderDate,Region,Platform,Genre,GameTitle,UnitsSold,Price,Revenue,Cost,Profit
+01/01/2024,Europe,PC,Simulation,Turbo Racer,784,62.6,49078.4,32.11,23904.16
+01/01/2024,Europe,PC,Action,StarBattle V,837,75.83,63469.71,44.28,26407.35
+01/01/2024,Asia,Xbox,Puzzle,StarBattle V,862,45.57,39281.34,17.73,23998.08
+01/01/2024,North America,PC,Puzzle,Fishing Frenzy,787,65.15,51273.05,40.79,19171.32
+01/01/2024,North America,Xbox,Action,Galaxy Wars,210,31.75,6667.5,20.06,2454.9
+01/01/2024,South America,Xbox,Action,GoalMaster 24,265,54.31,14392.15,42.6,3103.15
+01/01/2024,Asia,PC,Sports,Mech Arena,263,79.87,21005.81,30.61,12955.38
+01/01/2024,Europe,Switch,Sports,Galaxy Wars,523,67.81,35464.63,33.1,18153.33
+01/01/2024,Europe,Switch,Racing,Fishing Frenzy,702,51.5,36153,16.32,24696.36
+01/01/2024,South America,PC,RPG,Mech Arena,836,46.71,39049.56,19.33,22889.68
+01/01/2024,Europe,PC,Adventure,City Architect,740,77.9,57646,16.13,45709.8
+01/01/2024,Europe,PC,Action,Galaxy Wars,421,49.46,20822.66,15.69,14217.17
+01/01/2024,Europe,PS5,Simulation,GoalMaster 24,478,55.75,26648.5,30.97,11844.84
+01/01/2024,North America,PS5,Adventure,Mech Arena,889,55.6,49428.4,30.44,22367.24
+02/01/2024,Europe,PC,Adventure,Mech Arena,65,46.04,2992.6,40.54,357.5
+02/01/2024,Asia,Xbox,Shooter,Fishing Frenzy,375,78.76,29535,33.11,17118.75
+02/01/2024,South America,Switch,Shooter,Brain Blox,142,31.71,4502.82,16.9,2103.02
+02/01/2024,North America,Xbox,Action,Brain Blox,961,69.69,66972.09,32.86,35393.63
+02/01/2024,Europe,PC,Puzzle,Football Hero,587,36.16,21225.92,26,5963.92
+02/01/2024,North America,Xbox,Simulation,FarmLife Sim,919,44.09,40518.71,36.76,6736.27
+03/01/2024,South America,PC,Shooter,Fishing Frenzy,932,47.99,44726.68,25.7,20774.28
+03/01/2024,North America,PC,Puzzle,Lost Odyssey,756,78.21,59126.76,25.92,39531.24
+03/01/2024,South America,PS5,Racing,GoalMaster 24,324,35.89,11628.36,40.63,-1535.76
+03/01/2024,Europe,PC,Sports,StarBattle V,240,46.76,11222.4,41.85,1178.4
+03/01/2024,North America,PS5,Sports,Brain Blox,572,73.98,42316.56,27.32,26689.52
+03/01/2024,Europe,Switch,Sports,FarmLife Sim,897,54.71,49074.87,27.29,24595.74
+03/01/2024,Asia,Switch,Action,StarBattle V,50,63.8,3190,30.55,1662.5
+04/01/2024,North America,Switch,RPG,Final Combat,839,33.41,28030.99,43.98,-8868.23
+04/01/2024,Europe,PS5,Action,Final Combat,968,67.37,65214.16,22.25,43676.16
+04/01/2024,Europe,Switch,Racing,Fishing Frenzy,201,51.12,10275.12,40.49,2136.63
+04/01/2024,Asia,Switch,Adventure,Shadow Strike,557,51.03,28423.71,18.4,18174.91
+04/01/2024,South America,Switch,Simulation,Lost Odyssey,56,40.57,2271.92,28.65,667.52
+04/01/2024,South America,Xbox,RPG,Lost Odyssey,500,47.39,23695,22.88,12255
+04/01/2024,North America,Switch,Puzzle,FarmLife Sim,963,79.52,76577.76,29.72,47957.4
+04/01/2024,South America,Switch,Racing,Brain Blox,701,67.02,46981.02,24.04,30128.98
+05/01/2024,North America,PC,Simulation,Football Hero,359,62.4,22401.6,31.29,11168.49
+05/01/2024,North America,Switch,RPG,StarBattle V,660,42.17,27832.2,40.6,1036.2
+05/01/2024,Europe,PS5,Shooter,FarmLife Sim,748,69.91,52292.68,31.62,28640.92
+05/01/2024,Europe,PC,Puzzle,GoalMaster 24,346,67.82,23465.72,23.48,15341.64
+05/01/2024,South America,Switch,Puzzle,Shadow Strike,151,55.96,8449.96,28.26,4182.7
+05/01/2024,Asia,PS5,Action,Fishing Frenzy,677,71.26,48243.02,18.49,35725.29
+05/01/2024,North America,Xbox,RPG,Mech Arena,428,36.46,15604.88,32.17,1836.12
+05/01/2024,South America,Xbox,Simulation,Lost Odyssey,781,34.06,26600.86,44.53,-8177.07
+05/01/2024,Europe,PS5,Action,City Architect,534,52.74,28163.16,33.28,10391.64
+05/01/2024,South America,Xbox,Action,Brain Blox,57,36.06,2055.42,40.25,-238.83
+05/01/2024,Asia,Xbox,Adventure,City Architect,413,42.93,17730.09,42.95,-8.26
+06/01/2024,Europe,Switch,Puzzle,Dragon Realms,118,36.51,4308.18,41.85,-630.12
+06/01/2024,Asia,PC,Action,Lost Odyssey,160,51.59,8254.4,30.55,3366.4
+06/01/2024,North America,Xbox,Racing,GoalMaster 24,488,52.76,25746.88,36.13,8115.44
+06/01/2024,South America,PC,Adventure,Galaxy Wars,427,34.34,14663.18,30.35,1703.73
+06/01/2024,North America,PS5,Adventure,City Architect,393,40.28,15830.04,43.87,-1410.87
+06/01/2024,North America,Xbox,Adventure,FarmLife Sim,309,53.75,16608.75,27.24,8191.59
+07/01/2024,Asia,PS5,Racing,City Architect,478,55.18,26376.04,25.74,14072.32
+07/01/2024,South America,PC,Shooter,Fishing Frenzy,397,36.51,14494.47,37.33,-325.54
+07/01/2024,South America,PS5,Racing,Brain Blox,631,78.86,49760.66,29.62,31070.44
+07/01/2024,North America,Switch,Shooter,Football Hero,982,40.46,39731.72,25.32,14867.48
+07/01/2024,Europe,Switch,Shooter,Mystic Legends,228,65.15,14854.2,44.9,4617
+07/01/2024,North America,PC,Adventure,Fishing Frenzy,936,35.69,33405.84,25.69,9360
+08/01/2024,Asia,PC,Action,Galaxy Wars,919,61.86,56849.34,21.44,37145.98
+08/01/2024,Europe,PS5,Adventure,Fishing Frenzy,451,71.81,32386.31,30.83,18481.98
+08/01/2024,Europe,Switch,Action,Football Hero,327,78.5,25669.5,29.47,16032.81
+08/01/2024,Europe,Xbox,Puzzle,Dragon Realms,204,30.52,6226.08,18.32,2488.8
+08/01/2024,Europe,Xbox,Puzzle,StarBattle V,341,63.23,21561.43,28.79,11744.04
+08/01/2024,Asia,PS5,RPG,Shadow Strike,987,64.12,63286.44,29.2,34466.04
+08/01/2024,Europe,PS5,Action,Mech Arena,877,66.16,58022.32,35.08,27257.16
+08/01/2024,Asia,PC,Adventure,FarmLife Sim,543,72.18,39193.74,24.3,25998.84
+08/01/2024,North America,PC,Action,Football Hero,547,50.88,27831.36,39.62,6159.22
+08/01/2024,Asia,Xbox,Racing,Brain Blox,138,50.25,6934.5,16.61,4642.32
+08/01/2024,Europe,Xbox,Adventure,Turbo Racer,985,63.16,62212.6,33.68,29037.8
+08/01/2024,South America,Switch,Sports,Football Hero,471,34.12,16070.52,20.92,6217.2
+08/01/2024,South America,PS5,Shooter,Football Hero,396,62.77,24856.92,33.4,11630.52
+09/01/2024,Europe,Xbox,Adventure,Lost Odyssey,407,75.65,30789.55,30.83,18241.74
+09/01/2024,North America,PC,Shooter,Fishing Frenzy,607,46.09,27976.63,36.81,5632.96
+09/01/2024,North America,PS5,Action,Mech Arena,758,79.36,60154.88,24.1,41887.08
+09/01/2024,North America,PC,Racing,Final Combat,754,68.78,51860.12,40.97,20968.74
+09/01/2024,South America,PS5,Simulation,City Architect,404,42.6,17210.4,36.42,2496.72
+09/01/2024,Europe,PS5,Shooter,Football Hero,172,79.22,13625.84,24.14,9473.76
+09/01/2024,Europe,PS5,Action,FarmLife Sim,59,73.33,4326.47,34.96,2263.83
+10/01/2024,Europe,Xbox,Racing,FarmLife Sim,608,55.25,33592,27.33,16975.36
+10/01/2024,Europe,Xbox,Sports,Mech Arena,196,65.89,12914.44,29.75,7083.44
+10/01/2024,Europe,Switch,Action,Fishing Frenzy,396,37.46,14834.16,35.06,950.4
+10/01/2024,North America,Switch,Puzzle,GoalMaster 24,986,51.89,51163.54,17.11,34293.08
+10/01/2024,North America,Xbox,RPG,Turbo Racer,261,48.61,12687.21,30.01,4854.6
+10/01/2024,South America,Xbox,Racing,City Architect,84,57.14,4799.76,35.72,1799.28
+10/01/2024,North America,Switch,RPG,Final Combat,496,77.24,38311.04,19.09,28842.4
+11/01/2024,North America,PC,Shooter,Shadow Strike,914,32.01,29257.14,28.26,3427.5
+11/01/2024,Asia,Switch,Racing,Turbo Racer,124,72.01,8929.24,33.79,4739.28
+11/01/2024,North America,PC,RPG,Brain Blox,146,41.91,6118.86,30.01,1737.4
+11/01/2024,Asia,PS5,Simulation,Dragon Realms,302,30.97,9352.94,19.03,3605.88
+11/01/2024,Asia,PS5,Action,StarBattle V,439,47.79,20979.81,18.58,12823.19
+11/01/2024,South America,PC,Adventure,City Architect,904,45.98,41565.92,34.57,10314.64
+11/01/2024,Asia,Switch,Puzzle,Football Hero,635,70.15,44545.25,43.62,16846.55
+11/01/2024,North America,Switch,Puzzle,Dragon Realms,595,74.05,44059.75,15.02,35122.85
+12/01/2024,Europe,Xbox,Puzzle,FarmLife Sim,268,59.53,15954.04,25.03,9246
+12/01/2024,Europe,Switch,Adventure,Football Hero,418,63.83,26680.94,27.81,15056.36
+12/01/2024,Europe,Switch,Racing,Lost Odyssey,425,78.49,33358.25,41.09,15895
+12/01/2024,Europe,PC,Shooter,Final Combat,488,37.2,18153.6,21.84,7495.68
+12/01/2024,North America,Switch,Simulation,Brain Blox,180,38.3,6894,17.26,3787.2
+12/01/2024,Asia,PC,Adventure,Mech Arena,598,45.51,27214.98,28.33,10273.64
+12/01/2024,Europe,PC,Racing,Mystic Legends,839,78.74,66062.86,21.31,48183.77
+12/01/2024,North America,Switch,Sports,Lost Odyssey,248,30.36,7529.28,24.1,1552.48
+12/01/2024,North America,PS5,Adventure,Dragon Realms,868,31.87,27663.16,21.01,9426.48
+12/01/2024,North America,PC,Racing,Galaxy Wars,770,42.36,32617.2,32.05,7938.7
+12/01/2024,South America,Xbox,Shooter,Final Combat,729,47.75,34809.75,40.07,5598.72
+12/01/2024,South America,Switch,RPG,Fishing Frenzy,721,55.29,39864.09,18.79,26316.5
+13/01/2024,Asia,Xbox,Racing,City Architect,131,45.72,5989.32,38.88,896.04
+13/01/2024,South America,Xbox,Simulation,GoalMaster 24,591,31.08,18368.28,24.51,3882.87
+13/01/2024,South America,PS5,Puzzle,Shadow Strike,568,68.89,39129.52,44.12,14069.36
+13/01/2024,Europe,Switch,Simulation,Galaxy Wars,265,32.82,8697.3,44.68,-3142.9
+13/01/2024,Europe,PC,RPG,Mech Arena,499,34.56,17245.44,18.63,7949.07
+13/01/2024,Asia,Switch,Action,Shadow Strike,186,72.91,13561.26,25.87,8749.44
+13/01/2024,North America,PC,Sports,Brain Blox,676,30.59,20678.84,27.61,2014.48
+14/01/2024,North America,Switch,Action,Dragon Realms,650,59.86,38909,38.41,13942.5
+14/01/2024,South America,Switch,Shooter,Mystic Legends,51,62.53,3189.03,21.26,2104.77
+14/01/2024,North America,Xbox,Action,FarmLife Sim,938,60.02,56298.76,16.62,40709.2
+14/01/2024,South America,PS5,Shooter,Fishing Frenzy,336,65.35,21957.6,44.07,7150.08
+14/01/2024,South America,PS5,Sports,City Architect,781,55.13,43056.53,19.82,27577.11
+14/01/2024,Europe,PC,Simulation,StarBattle V,542,79.96,43338.32,43.45,19788.42
+14/01/2024,North America,Switch,Adventure,GoalMaster 24,464,78.27,36317.28,25.19,24629.12
+14/01/2024,Asia,Xbox,Action,Dragon Realms,825,54.18,44698.5,26.2,23083.5
+14/01/2024,Europe,PS5,Shooter,Turbo Racer,166,59.1,9810.6,44.19,2475.06
+14/01/2024,North America,PS5,Adventure,Final Combat,664,53.44,35484.16,33.56,13200.32
+15/01/2024,North America,PC,Sports,Mech Arena,712,75.95,54076.4,32.72,30779.76
+15/01/2024,South America,PS5,Puzzle,Mech Arena,544,61.73,33581.12,27.17,18800.64
+15/01/2024,South America,Xbox,Adventure,Lost Odyssey,390,67.5,26325,39.05,11095.5
+15/01/2024,Europe,PS5,Puzzle,City Architect,690,72.72,50176.8,29.23,30008.1
+15/01/2024,South America,Xbox,Simulation,Football Hero,806,70.88,57129.28,44.86,20972.12
+15/01/2024,South America,PC,Puzzle,Shadow Strike,103,56.76,5846.28,40.37,1688.17
+15/01/2024,North America,PS5,Sports,Mech Arena,237,51.8,12276.6,37.83,3310.89
+15/01/2024,South America,PC,Puzzle,Mystic Legends,241,34.41,8292.81,42.41,-1928
+15/01/2024,North America,Xbox,Action,Final Combat,732,79.93,58508.76,43.97,26322.72
+15/01/2024,Asia,PS5,Racing,GoalMaster 24,938,58.33,54713.54,27.63,28796.6
+16/01/2024,South America,Xbox,RPG,Dragon Realms,606,74.77,45310.62,16.57,35269.2
+16/01/2024,North America,PS5,Action,Final Combat,731,63.1,46126.1,22.1,29971
+16/01/2024,Asia,PS5,RPG,City Architect,926,72.84,67449.84,41.55,28974.54
+16/01/2024,South America,Xbox,Puzzle,Mech Arena,425,75.76,32198,18.64,24276
+16/01/2024,South America,Xbox,Action,Mystic Legends,764,63.67,48643.88,20.9,32676.28
+16/01/2024,Europe,PS5,Racing,Mech Arena,492,69.08,33987.36,25.21,21584.04
+17/01/2024,South America,PC,Simulation,Turbo Racer,516,50.8,26212.8,15.94,17987.76
+17/01/2024,North America,Switch,Action,Fishing Frenzy,602,34.2,20588.4,31.3,1745.8
+17/01/2024,Asia,PS5,Simulation,Football Hero,404,65.85,26603.4,29.31,14762.16
+17/01/2024,Asia,Xbox,Action,Final Combat,117,33.04,3865.68,16.82,1897.74
+17/01/2024,Europe,Xbox,Puzzle,FarmLife Sim,146,40.76,5950.96,20.89,2901.02
+17/01/2024,Europe,Xbox,Racing,Shadow Strike,81,67.23,5445.63,28.67,3123.36
+17/01/2024,Asia,Switch,Puzzle,Galaxy Wars,401,74.48,29866.48,16.34,23314.14
+17/01/2024,South America,Switch,Simulation,Lost Odyssey,192,35.22,6762.24,43.38,-1566.72
+17/01/2024,North America,Switch,RPG,Final Combat,152,76.66,11652.32,30.48,7019.36
+17/01/2024,Europe,PC,RPG,Fishing Frenzy,798,79.4,63361.2,25.65,42892.5
+17/01/2024,North America,PS5,Racing,Lost Odyssey,475,66.12,31407,20.3,21764.5
+18/01/2024,Asia,PS5,RPG,City Architect,896,51.35,46009.6,37.99,11970.56
+18/01/2024,Asia,Xbox,Puzzle,Shadow Strike,122,77.02,9396.44,29.77,5764.5
+18/01/2024,Europe,Xbox,Simulation,Mech Arena,983,38.4,37747.2,35.67,2683.59
+18/01/2024,South America,PC,Sports,Shadow Strike,636,43.58,27716.88,23.24,12936.24
+18/01/2024,South America,PC,Adventure,Mech Arena,157,78.58,12337.06,38.79,6247.03
+19/01/2024,North America,Xbox,Sports,Galaxy Wars,765,65.85,50375.25,27.4,29414.25
+19/01/2024,North America,PC,Sports,Lost Odyssey,841,45.19,38004.79,16.16,24414.23
+19/01/2024,South America,Xbox,Adventure,Mech Arena,920,47.93,44095.6,44.61,3054.4
+19/01/2024,Europe,PS5,Puzzle,Fishing Frenzy,532,71.4,37984.8,19.52,27600.16
+19/01/2024,South America,PS5,RPG,Brain Blox,460,69.15,31809,19.94,22636.6
+19/01/2024,Asia,PS5,Racing,Dragon Realms,616,79.76,49132.16,42.94,22681.12
+19/01/2024,Asia,PC,Adventure,Fishing Frenzy,392,36.77,14413.84,29.61,2806.72
+20/01/2024,South America,Xbox,RPG,Mystic Legends,512,65.06,33310.72,29.53,18191.36
+20/01/2024,South America,PS5,RPG,Shadow Strike,271,79.77,21617.67,31.83,12991.74
+20/01/2024,Asia,Xbox,Action,Galaxy Wars,679,31.35,21286.65,30.8,373.45
+20/01/2024,Europe,Xbox,Racing,Football Hero,938,37.56,35231.28,44.57,-6575.38
+21/01/2024,South America,Xbox,Sports,Lost Odyssey,760,72.24,54902.4,31.55,30924.4
+21/01/2024,North America,Switch,Simulation,Lost Odyssey,817,78.35,64011.95,31.14,38570.57
+21/01/2024,Asia,Switch,Racing,FarmLife Sim,684,50.53,34562.52,25.34,17229.96
+21/01/2024,South America,PS5,Adventure,GoalMaster 24,604,50.55,30532.2,15.21,21345.36
+21/01/2024,Europe,Xbox,Shooter,Football Hero,172,78.07,13428.04,41.45,6298.64
+21/01/2024,North America,PC,Adventure,Final Combat,979,46.3,45327.7,36.27,9819.37
+21/01/2024,South America,PC,Shooter,Brain Blox,322,30.82,9924.04,29.68,367.08
+21/01/2024,North America,PS5,Shooter,Football Hero,316,64.32,20325.12,39.37,7884.2
+22/01/2024,Europe,PC,Action,Football Hero,576,50.08,28846.08,27.91,12769.92
+22/01/2024,Asia,Xbox,Sports,Mystic Legends,300,69.69,20907,28.04,12495
+22/01/2024,Asia,Xbox,Adventure,Mech Arena,958,75.5,72329,24.62,48743.04
+22/01/2024,South America,PC,Sports,City Architect,506,49.99,25294.94,32.88,8657.66
+22/01/2024,South America,PS5,Sports,FarmLife Sim,534,57.2,30544.8,37.08,10744.08
+23/01/2024,Europe,Switch,Simulation,Mech Arena,915,69.56,63647.4,39.54,27468.3
+23/01/2024,Asia,PC,Racing,Fishing Frenzy,281,72.23,20296.63,34.81,10515.02
+23/01/2024,South America,PC,Racing,Mystic Legends,497,65.67,32637.99,38.67,13419
+23/01/2024,Asia,Xbox,Simulation,Mech Arena,398,59.15,23541.7,26.51,12990.72
+23/01/2024,North America,PS5,Action,Fishing Frenzy,461,78.86,36354.46,23.26,25631.6
+23/01/2024,Europe,Switch,Sports,FarmLife Sim,478,78.13,37346.14,24.43,25668.6
+24/01/2024,Asia,PS5,Adventure,GoalMaster 24,863,49.5,42718.5,31.27,15732.49
+24/01/2024,Europe,PC,Adventure,Fishing Frenzy,353,34.15,12054.95,17.59,5845.68
+24/01/2024,South America,PC,Racing,StarBattle V,304,36.44,11077.76,41.1,-1416.64
+24/01/2024,Asia,Xbox,RPG,Fishing Frenzy,636,72.37,46027.32,42.45,19029.12
+24/01/2024,Asia,Switch,Simulation,Mech Arena,615,48.84,30036.6,25.14,14575.5
+24/01/2024,Europe,Xbox,Puzzle,Football Hero,185,78.32,14489.2,21.93,10432.15
+25/01/2024,Europe,PS5,Shooter,Galaxy Wars,410,36.01,14764.1,16.18,8130.3
+25/01/2024,Europe,Xbox,Racing,Mystic Legends,317,55.62,17631.54,42.17,4263.65
+25/01/2024,Europe,PS5,Racing,GoalMaster 24,144,52.77,7598.88,28.02,3564
+25/01/2024,South America,PC,RPG,Mech Arena,880,58.96,51884.8,35.01,21076
+25/01/2024,Asia,Switch,Action,Dragon Realms,174,75.98,13220.52,33.11,7459.38
+25/01/2024,Asia,Xbox,Action,Final Combat,193,44.06,8503.58,25.88,3508.74
+25/01/2024,Asia,PC,Simulation,Dragon Realms,811,39.79,32269.69,25.09,11921.7
+25/01/2024,Europe,Switch,Shooter,GoalMaster 24,789,55.47,43765.83,26.43,22912.56
+25/01/2024,South America,PS5,Sports,City Architect,341,59.8,20391.8,18.55,14066.25
+25/01/2024,North America,Switch,RPG,GoalMaster 24,489,58.18,28450.02,41.84,7990.26
+26/01/2024,Europe,PS5,Sports,Mystic Legends,150,42,6300,15.28,4008
+26/01/2024,South America,Switch,Sports,GoalMaster 24,228,71.14,16219.92,37.75,7612.92
+26/01/2024,Asia,PS5,Racing,Mech Arena,181,73.73,13345.13,32.56,7451.77
+26/01/2024,South America,Xbox,Sports,Galaxy Wars,883,32.44,28644.52,18.79,12052.95
+26/01/2024,North America,Switch,Action,StarBattle V,621,43.39,26945.19,29.55,8594.64
+26/01/2024,Europe,Xbox,Shooter,Lost Odyssey,596,37.13,22129.48,31.47,3373.36
+26/01/2024,North America,Xbox,Sports,StarBattle V,150,34.82,5223,40.52,-855
+26/01/2024,Asia,Xbox,RPG,Fishing Frenzy,215,71.49,15370.35,33.13,8247.4
+26/01/2024,South America,Xbox,Adventure,FarmLife Sim,493,78.41,38656.13,27.63,25034.54
+26/01/2024,South America,PC,RPG,Mech Arena,740,59.76,44222.4,22.02,27927.6
+27/01/2024,Europe,PS5,Adventure,Football Hero,125,31.71,3963.75,29.8,238.75
+27/01/2024,North America,PS5,Action,GoalMaster 24,855,31.81,27197.55,28.62,2727.45
+27/01/2024,Europe,PS5,Puzzle,City Architect,984,65.99,64934.16,34.21,31271.52
+27/01/2024,South America,Switch,Action,Lost Odyssey,702,39.28,27574.56,32.57,4710.42
+27/01/2024,North America,PC,Simulation,Mech Arena,843,45.14,38053.02,18.09,22803.15
+27/01/2024,Asia,PS5,Action,Dragon Realms,805,65.04,52357.2,43,17742.2
+27/01/2024,Europe,PS5,Racing,Lost Odyssey,934,47.47,44336.98,22.94,22911.02
+27/01/2024,Asia,Switch,Sports,Shadow Strike,995,50.96,50705.2,21.71,29103.75
+28/01/2024,Asia,PS5,RPG,Mech Arena,161,56.61,9114.21,42.05,2344.16
+28/01/2024,South America,PC,RPG,Fishing Frenzy,586,41.25,24172.5,27.88,7834.82
+28/01/2024,Asia,Xbox,Adventure,Dragon Realms,582,63.53,36974.46,42.55,12210.36
+28/01/2024,South America,Xbox,Action,Final Combat,593,64.58,38295.94,43.31,12613.11
+28/01/2024,Asia,Switch,Sports,Dragon Realms,775,79.06,61271.5,23.93,42725.75
+28/01/2024,Asia,PC,Action,Dragon Realms,126,34.26,4316.76,41.44,-904.68
+28/01/2024,South America,Xbox,Sports,Football Hero,801,51.45,41211.45,32.07,15523.38
+28/01/2024,Asia,Switch,Simulation,Shadow Strike,600,33.73,20238,41.45,-4632
+28/01/2024,North America,PS5,Simulation,Turbo Racer,179,40.56,7260.24,40.27,51.91
+29/01/2024,Asia,Switch,Racing,Final Combat,579,46.65,27010.35,34.91,6797.46
+29/01/2024,Asia,Xbox,Shooter,FarmLife Sim,103,32.55,3352.65,40.22,-790.01
+29/01/2024,North America,Xbox,Sports,Final Combat,199,60.33,12005.67,32.98,5442.65
+29/01/2024,South America,Xbox,RPG,StarBattle V,909,51.74,47031.66,26.5,22943.16
+29/01/2024,Europe,PC,Sports,Shadow Strike,387,51.23,19826.01,22.34,11180.43
+29/01/2024,Europe,Switch,Racing,Shadow Strike,120,57.23,6867.6,26.92,3637.2
+29/01/2024,Asia,Switch,Action,FarmLife Sim,128,49.46,6330.88,21.58,3568.64
+29/01/2024,Europe,PC,Racing,Mech Arena,907,46.81,42456.67,31.8,13614.07
+29/01/2024,Asia,PC,RPG,Shadow Strike,671,60.36,40501.56,24.62,23981.54
+29/01/2024,Europe,Switch,Shooter,Final Combat,484,61.86,29940.24,16.69,21862.28
+29/01/2024,Europe,Xbox,Action,Shadow Strike,436,43.03,18761.08,24.65,8013.68
+29/01/2024,South America,Switch,Action,StarBattle V,186,45.07,8383.02,33.35,2179.92
+30/01/2024,Asia,PC,Adventure,Mech Arena,107,57.31,6132.17,24.74,3484.99
+30/01/2024,Asia,Switch,Action,Turbo Racer,565,38.43,21712.95,28.69,5503.1
+30/01/2024,Asia,PS5,Adventure,Mech Arena,247,48.07,11873.29,24.98,5703.23
+30/01/2024,Europe,PC,Adventure,Final Combat,488,39.74,19393.12,35.07,2278.96
+30/01/2024,Europe,Switch,Puzzle,GoalMaster 24,530,45.63,24183.9,33.05,6667.4
+30/01/2024,North America,PS5,Sports,Shadow Strike,860,55.22,47489.2,19.83,30435.4
+30/01/2024,South America,Xbox,Action,Football Hero,834,46.92,39131.28,31.72,12676.8
+30/01/2024,Asia,Xbox,Puzzle,Mystic Legends,323,42.61,13763.03,18.38,7826.29
+31/01/2024,South America,PS5,Sports,Mech Arena,183,37.18,6803.94,44.55,-1348.71
+31/01/2024,Asia,Switch,Racing,Mech Arena,597,47.49,28351.53,30.12,10369.89
+31/01/2024,South America,PC,Simulation,Fishing Frenzy,471,54.51,25674.21,30.24,11431.17
+01/02/2024,Asia,Xbox,Action,FarmLife Sim,531,37.27,19790.37,40.14,-1523.97
+01/02/2024,North America,Xbox,RPG,Football Hero,659,37.1,24448.9,25.27,7795.97
+01/02/2024,South America,PC,Sports,Final Combat,561,52.9,29676.9,21.94,17368.56
+01/02/2024,North America,Switch,Racing,Lost Odyssey,508,42.44,21559.52,38.34,2082.8
+01/02/2024,Asia,PS5,Adventure,Mech Arena,640,74.87,47916.8,26.51,30950.4
+01/02/2024,South America,PC,Racing,StarBattle V,74,44.3,3278.2,41.6,199.8
+01/02/2024,South America,Xbox,Puzzle,Mech Arena,210,74.69,15684.9,24.49,10542
+01/02/2024,North America,PC,Shooter,Mech Arena,302,68.99,20834.98,19.94,14813.1
+01/02/2024,South America,Xbox,Action,Dragon Realms,893,50.51,45105.43,24.8,22959.03
+02/02/2024,Asia,Switch,Shooter,Shadow Strike,562,44.99,25284.38,38.17,3832.84
+02/02/2024,South America,PS5,Action,Brain Blox,952,48.36,46038.72,40.64,7349.44
+02/02/2024,South America,Xbox,Sports,Galaxy Wars,599,55.15,33034.85,17.18,22744.03
+02/02/2024,South America,Xbox,Sports,Dragon Realms,64,45.77,2929.28,42.33,220.16
+02/02/2024,Asia,PS5,Sports,Shadow Strike,901,32.63,29399.63,40.06,-6694.43
+02/02/2024,South America,Switch,RPG,Shadow Strike,131,71.12,9316.72,39.22,4178.9
+02/02/2024,Europe,Xbox,Adventure,Mystic Legends,549,50.86,27922.14,43.32,4139.46
+02/02/2024,North America,Xbox,Shooter,City Architect,343,58.45,20048.35,42.02,5635.49
+02/02/2024,North America,Xbox,RPG,Galaxy Wars,380,39.32,14941.6,35.14,1588.4
+02/02/2024,North America,Switch,Puzzle,Shadow Strike,724,60.85,44055.4,35.08,18657.48
+02/02/2024,Europe,PC,Racing,StarBattle V,998,77.37,77215.26,17.96,59291.18
+03/02/2024,South America,PS5,Action,Mech Arena,869,37.06,32205.14,24.07,11288.31
+03/02/2024,North America,Xbox,Adventure,Football Hero,569,52.89,30094.41,15.11,21496.82
+03/02/2024,South America,PC,Shooter,Brain Blox,94,71.8,6749.2,41.75,2824.7
+03/02/2024,Asia,PS5,RPG,City Architect,577,62.01,35779.77,26.35,20575.82
+03/02/2024,Asia,PS5,Action,Lost Odyssey,122,77.03,9397.66,35.1,5115.46
+03/02/2024,Asia,Switch,Action,Football Hero,994,38.69,38457.86,17.04,21520.1
+03/02/2024,North America,PS5,Simulation,Galaxy Wars,711,79.5,56524.5,24.1,39389.4
+03/02/2024,Asia,Switch,Shooter,Fishing Frenzy,150,74.42,11163,44.76,4449
+04/02/2024,Europe,PS5,Simulation,GoalMaster 24,150,35.08,5262,42.22,-1071
+04/02/2024,Europe,Xbox,Puzzle,Mystic Legends,300,57.52,17256,20.85,11001
+04/02/2024,South America,PS5,Shooter,FarmLife Sim,462,55.09,25451.58,32.11,10616.76
+04/02/2024,Europe,PS5,Sports,GoalMaster 24,175,47.96,8393,36.83,1947.75
+04/02/2024,North America,PS5,Sports,Shadow Strike,941,30.34,28549.94,22.68,7208.06
+04/02/2024,Asia,PC,Action,City Architect,52,79.39,4128.28,21.31,3020.16
+04/02/2024,North America,Xbox,RPG,Fishing Frenzy,514,40.54,20837.56,24.52,8234.28
+04/02/2024,South America,Xbox,Sports,Mystic Legends,674,68.78,46357.72,40.2,19262.92
+04/02/2024,North America,Xbox,RPG,Mech Arena,936,70.12,65632.32,38.04,30026.88
+04/02/2024,North America,Switch,Simulation,Galaxy Wars,122,61.16,7461.52,29.84,3821.04
+05/02/2024,Europe,Switch,Sports,Dragon Realms,278,60.28,16757.84,24.39,9977.42
+05/02/2024,South America,PS5,Simulation,Football Hero,801,76.02,60892.02,26.59,39593.43
+05/02/2024,South America,PC,Action,Football Hero,490,70,34300,30.94,19139.4
+05/02/2024,South America,PS5,Puzzle,Dragon Realms,666,56.29,37489.14,22.71,22364.28
+05/02/2024,Europe,PC,Shooter,Shadow Strike,175,30.99,5423.25,20.91,1764
+05/02/2024,Europe,Switch,Sports,Shadow Strike,246,41.74,10268.04,33.18,2105.76
+05/02/2024,Europe,PS5,Puzzle,Final Combat,179,43.12,7718.48,33.38,1743.46
+05/02/2024,North America,Switch,Sports,Shadow Strike,110,50.1,5511,31.12,2087.8
+05/02/2024,North America,Switch,Adventure,Football Hero,660,35.33,23317.8,38.52,-2105.4
+05/02/2024,Asia,Switch,Sports,Final Combat,974,78.32,76283.68,15.73,60962.66
+06/02/2024,North America,Xbox,Action,Fishing Frenzy,867,67.12,58193.04,26.82,34940.1
+06/02/2024,North America,PC,Simulation,Shadow Strike,584,65.35,38164.4,42.92,13099.12
+06/02/2024,Asia,Switch,RPG,City Architect,389,66,25674,24.08,16306.88
+06/02/2024,North America,PS5,Simulation,Fishing Frenzy,600,64.85,38910,24.13,24432
+06/02/2024,Europe,Xbox,Sports,Galaxy Wars,376,54.61,20533.36,39.31,5752.8
+06/02/2024,Europe,PC,Simulation,Brain Blox,266,34.33,9131.78,22.6,3120.18
+06/02/2024,Asia,PC,Sports,Turbo Racer,204,43.33,8839.32,23.94,3955.56
+06/02/2024,North America,Xbox,RPG,GoalMaster 24,775,56.77,43996.75,34.86,16980.25
+06/02/2024,North America,PC,Action,Lost Odyssey,253,68.1,17229.3,20.65,12004.85
+07/02/2024,North America,PC,RPG,Football Hero,935,70.79,66188.65,41.63,27264.6
+07/02/2024,North America,Switch,Sports,City Architect,162,32.6,5281.2,21.28,1833.84
+07/02/2024,South America,PC,Sports,Brain Blox,934,59.28,55367.52,36.42,21351.24
+07/02/2024,Europe,PC,Simulation,Football Hero,167,78.17,13054.39,34.18,7346.33
+07/02/2024,North America,Switch,Adventure,StarBattle V,191,67.07,12810.37,29.53,7170.14
+07/02/2024,Europe,PS5,Adventure,FarmLife Sim,118,61.95,7310.1,40.21,2565.32
+07/02/2024,South America,PS5,Sports,Turbo Racer,617,78.11,48193.87,43.39,21422.24
+07/02/2024,Europe,PS5,Simulation,Football Hero,340,59.16,20114.4,25.12,11573.6
+07/02/2024,Asia,PS5,Puzzle,Turbo Racer,336,44.6,14985.6,43.42,396.48
+07/02/2024,North America,PS5,Puzzle,GoalMaster 24,108,59.3,6404.4,15.74,4704.48
+07/02/2024,South America,Xbox,RPG,Lost Odyssey,753,54.94,41369.82,32.08,17213.58
+08/02/2024,Europe,Switch,Action,Turbo Racer,830,58.78,48787.4,28.4,25215.4
+08/02/2024,South America,PC,RPG,Lost Odyssey,970,67.81,65775.7,24.62,41894.3
+08/02/2024,North America,Xbox,Simulation,Football Hero,784,49.79,39035.36,16.48,26115.04
+08/02/2024,South America,PC,Adventure,Brain Blox,647,79.18,51229.46,43.16,23304.94
+08/02/2024,North America,PS5,Simulation,Mech Arena,690,58.98,40696.2,44.75,9818.7
+08/02/2024,Asia,Switch,Adventure,Galaxy Wars,764,50.67,38711.88,30.11,15707.84
+08/02/2024,South America,Switch,RPG,StarBattle V,876,61.47,53847.72,38.68,19964.04
+08/02/2024,Europe,Xbox,RPG,Galaxy Wars,853,50.31,42914.43,42.41,6738.7
+08/02/2024,North America,PC,Action,StarBattle V,730,66.22,48340.6,22.01,32273.3
+08/02/2024,North America,Xbox,Adventure,Lost Odyssey,359,42.99,15433.41,41.35,588.76
+08/02/2024,South America,Xbox,Puzzle,StarBattle V,764,54.59,41706.76,38,12674.76
+08/02/2024,North America,PC,Action,GoalMaster 24,312,73.24,22850.88,37.92,11019.84
+08/02/2024,South America,PS5,RPG,StarBattle V,445,73.16,32556.2,30.3,19072.7
+08/02/2024,South America,Xbox,Action,Galaxy Wars,966,57.28,55332.48,27.36,28902.72
+09/02/2024,Europe,PS5,Racing,StarBattle V,334,30.42,10160.28,43.37,-4325.3
+09/02/2024,Europe,Xbox,Shooter,Football Hero,320,50.01,16003.2,29.38,6601.6
+09/02/2024,Europe,Xbox,Shooter,Dragon Realms,483,74.69,36075.27,17.36,27690.39
+09/02/2024,Asia,Switch,Puzzle,City Architect,567,43.87,24874.29,21.9,12456.99
+09/02/2024,North America,Switch,Action,Brain Blox,773,46.99,36323.27,15.3,24496.37
+09/02/2024,South America,PC,Shooter,Mystic Legends,376,54.59,20525.84,18.4,13607.44
+09/02/2024,Asia,Switch,Racing,Mech Arena,462,73.39,33906.18,36.81,16899.96
+09/02/2024,North America,PS5,Racing,Turbo Racer,736,66.62,49032.32,41.9,18193.92
+10/02/2024,Europe,Switch,Simulation,Lost Odyssey,345,42.22,14565.9,20.74,7410.6
+10/02/2024,Europe,Switch,Sports,Mystic Legends,944,58.63,55346.72,36.62,20777.44
+10/02/2024,Asia,PS5,Sports,Lost Odyssey,78,45.13,3520.14,31.64,1052.22
+10/02/2024,South America,Xbox,Simulation,City Architect,963,60.97,58714.11,22.86,36699.93
+10/02/2024,Europe,PC,Shooter,Mech Arena,393,38.26,15036.18,16.57,8524.17
+11/02/2024,Europe,Switch,Sports,StarBattle V,358,55.2,19761.6,31.01,8660.02
+11/02/2024,North America,PS5,Adventure,Galaxy Wars,128,48.43,6199.04,27.14,2725.12
+11/02/2024,South America,PC,Action,City Architect,247,50.01,12352.47,22.42,6814.73
+11/02/2024,Europe,Switch,Racing,Galaxy Wars,135,51.88,7003.8,25.99,3495.15
+11/02/2024,South America,Switch,Action,Shadow Strike,596,79.22,47215.12,37.7,24745.92
+11/02/2024,South America,PS5,Shooter,Mystic Legends,383,30.69,11754.27,35.36,-1788.61
+11/02/2024,Europe,PS5,Action,Football Hero,719,60.9,43787.1,25.63,25359.13
+11/02/2024,North America,PC,Shooter,Brain Blox,516,79.8,41176.8,21.46,30103.44
+12/02/2024,Asia,PC,RPG,Brain Blox,761,53.01,40340.61,36.88,12274.93
+12/02/2024,Europe,Switch,Action,StarBattle V,540,64.05,34587,35.94,15179.4
+12/02/2024,South America,Xbox,Simulation,GoalMaster 24,646,36.44,23540.24,31.43,3236.46
+12/02/2024,North America,PS5,Racing,Dragon Realms,837,34.87,29186.19,18.3,13869.09
+13/02/2024,Asia,PS5,Racing,StarBattle V,113,71.08,8032.04,33.7,4223.94
+13/02/2024,South America,PS5,Shooter,GoalMaster 24,996,73.34,73046.64,30.82,42349.92
+13/02/2024,South America,PC,Simulation,Fishing Frenzy,367,71.03,26068.01,24.1,17223.31
+13/02/2024,Europe,PS5,Adventure,Lost Odyssey,257,65.79,16908.03,34.14,8134.05
+13/02/2024,North America,Xbox,RPG,FarmLife Sim,829,71.86,59571.94,37.19,28741.43
+13/02/2024,Asia,Xbox,Action,City Architect,557,46.38,25833.66,15.78,17044.2
+13/02/2024,North America,Switch,RPG,Fishing Frenzy,769,55.43,42625.67,41.3,10865.97
+14/02/2024,North America,PC,Racing,Fishing Frenzy,86,56.4,4850.4,31.13,2173.22
+14/02/2024,South America,PC,Adventure,Final Combat,69,60.7,4188.3,42.6,1248.9
+14/02/2024,Europe,Xbox,Racing,City Architect,179,66.86,11967.94,17.38,8856.92
+14/02/2024,North America,PS5,Simulation,Dragon Realms,386,52.97,20446.42,18.14,13444.38
+14/02/2024,Asia,Xbox,Racing,GoalMaster 24,779,61.76,48111.04,38.97,17753.41
+15/02/2024,Asia,Switch,Racing,Fishing Frenzy,658,58.12,38242.96,15.92,27767.6
+15/02/2024,Europe,PC,Simulation,Brain Blox,993,54.02,53641.86,28.49,25351.29
+15/02/2024,Europe,PS5,Simulation,StarBattle V,709,39.61,28083.49,32.16,5282.05
+15/02/2024,North America,Xbox,Shooter,Mystic Legends,557,76.8,42777.6,20.71,31242.13
+15/02/2024,North America,PS5,Adventure,Football Hero,163,62.13,10127.19,41.43,3374.1
+15/02/2024,Europe,Xbox,Simulation,FarmLife Sim,181,39.95,7230.95,15.07,4503.28
+15/02/2024,Europe,Switch,Sports,Shadow Strike,666,73.32,48831.12,26.81,30975.66
+15/02/2024,Asia,Switch,Adventure,Fishing Frenzy,236,73.21,17277.56,17.22,13213.64
+15/02/2024,Asia,Switch,Puzzle,Football Hero,181,46.69,8450.89,16.65,5437.24
+15/02/2024,Asia,Xbox,Racing,Galaxy Wars,61,59.8,3647.8,43.43,998.57
+16/02/2024,North America,Switch,Shooter,Football Hero,771,46.73,36028.83,26,15982.83
+16/02/2024,Asia,PS5,Action,Brain Blox,114,47.53,5418.42,28.42,2178.54
+16/02/2024,North America,PC,Action,Turbo Racer,966,32.75,31636.5,15.55,16615.2
+16/02/2024,Europe,Xbox,Adventure,Mystic Legends,401,79.11,31723.11,34.12,18040.99
+16/02/2024,Asia,Switch,Adventure,Final Combat,840,75.6,63504,25.65,41958
+16/02/2024,Europe,Xbox,Sports,Mystic Legends,827,62.4,51604.8,43.3,15795.7
+16/02/2024,North America,PS5,Action,City Architect,333,44.3,14751.9,41.07,1075.59
+16/02/2024,South America,Switch,Puzzle,StarBattle V,450,32.43,14593.5,27.3,2308.5
+16/02/2024,Europe,PS5,Action,City Architect,797,75.47,60149.59,30.12,36143.95
+16/02/2024,South America,PS5,Sports,Dragon Realms,839,57.02,47839.78,27.32,24918.3
+16/02/2024,Europe,Xbox,RPG,Mech Arena,355,36.61,12996.55,23.56,4632.75
+16/02/2024,Asia,Xbox,Action,Football Hero,228,58.28,13287.84,17.84,9220.32
+16/02/2024,North America,Xbox,RPG,Fishing Frenzy,389,61.33,23857.37,33.2,10942.57
+16/02/2024,Europe,PS5,RPG,GoalMaster 24,577,73.67,42507.59,25.53,27776.78
+16/02/2024,Europe,PC,Simulation,Turbo Racer,695,41.63,28932.85,31.8,6831.85
+17/02/2024,Europe,Switch,Sports,Turbo Racer,758,78.48,59487.84,41.65,27917.14
+17/02/2024,North America,PC,Simulation,Dragon Realms,128,70.82,9064.96,40.76,3847.68
+17/02/2024,North America,Xbox,Racing,Turbo Racer,707,48.4,34218.8,43.15,3711.75
+17/02/2024,South America,Switch,Action,Final Combat,565,67.8,38307,39.71,15870.85
+17/02/2024,South America,PC,Racing,Dragon Realms,200,48.76,9752,41.25,1502
+17/02/2024,Europe,PS5,Simulation,StarBattle V,246,38.51,9473.46,43.74,-1286.58
+17/02/2024,South America,PC,Action,GoalMaster 24,296,53.66,15883.36,17.4,10732.96
+17/02/2024,Asia,Switch,Simulation,Brain Blox,608,36.67,22295.36,40.93,-2590.08
+18/02/2024,Europe,Xbox,Simulation,FarmLife Sim,602,42.15,25374.3,19.75,13484.8
+18/02/2024,Europe,PS5,Adventure,Final Combat,745,70.08,52209.6,15.72,40498.2
+18/02/2024,North America,PC,Puzzle,Turbo Racer,362,51.33,18581.46,34.62,6049.02
+18/02/2024,North America,Xbox,Action,City Architect,846,44.22,37410.12,37.52,5668.2
+18/02/2024,North America,PC,Shooter,Brain Blox,450,52.51,23629.5,42.2,4639.5
+18/02/2024,South America,Switch,Action,Galaxy Wars,999,58.98,58921.02,36.29,22667.31
+18/02/2024,Europe,Xbox,Shooter,GoalMaster 24,631,63.59,40125.29,28.14,22368.95
+18/02/2024,South America,Switch,RPG,Final Combat,533,62.39,33253.87,27.47,18612.36
+18/02/2024,North America,Switch,Sports,Turbo Racer,577,75.49,43557.73,40.86,19981.51
+19/02/2024,South America,PC,Adventure,City Architect,656,44.08,28916.48,39.78,2820.8
+19/02/2024,North America,PC,Simulation,Final Combat,694,60,41640,26.51,23242.06
+19/02/2024,South America,PS5,Sports,Fishing Frenzy,59,44.73,2639.07,26.07,1100.94
+19/02/2024,Asia,Xbox,Adventure,Galaxy Wars,921,40.58,37374.18,38.14,2247.24
+20/02/2024,South America,PS5,Shooter,Turbo Racer,270,71.71,19361.7,28.75,11599.2
+20/02/2024,Europe,PS5,Puzzle,Dragon Realms,814,37.58,30590.12,43.85,-5103.78
+20/02/2024,South America,Switch,Adventure,StarBattle V,658,50.17,33011.86,37.07,8619.8
+20/02/2024,North America,Xbox,Action,GoalMaster 24,418,31.99,13371.82,32.45,-192.28
+20/02/2024,North America,Switch,Simulation,Galaxy Wars,256,59.66,15272.96,43.13,4231.68
+20/02/2024,Europe,Xbox,RPG,Turbo Racer,769,73.38,56429.22,25.26,37004.28
+20/02/2024,Asia,PC,Racing,Shadow Strike,659,67.46,44456.14,25.42,27704.36
+20/02/2024,Europe,PS5,Shooter,FarmLife Sim,751,60.74,45615.74,16.56,33179.18
+20/02/2024,Asia,PC,Racing,Mech Arena,904,54.12,48924.48,39.34,13361.12
+20/02/2024,Europe,Xbox,Sports,Lost Odyssey,570,78.99,45024.3,40.88,21722.7
+20/02/2024,South America,Switch,Sports,GoalMaster 24,217,52.63,11420.71,23.02,6425.37
+21/02/2024,South America,PS5,Adventure,Mystic Legends,926,76.12,70487.12,24.71,47605.66
+21/02/2024,North America,PS5,Adventure,Mech Arena,796,68.01,54135.96,20.35,37937.36
+21/02/2024,South America,PS5,Simulation,City Architect,167,60.47,10098.49,19.72,6805.25
+21/02/2024,South America,Xbox,RPG,Shadow Strike,654,70.52,46120.08,42.44,18364.32
+21/02/2024,North America,PC,RPG,Galaxy Wars,992,78.3,77673.6,24.25,53617.6
+21/02/2024,South America,Xbox,Adventure,City Architect,378,35.16,13290.48,27.2,3008.88
+22/02/2024,Asia,Switch,Action,City Architect,234,62.63,14655.42,15.77,10965.24
+22/02/2024,Europe,PS5,RPG,StarBattle V,657,68.83,45221.31,38.14,20163.33
+22/02/2024,Europe,PC,RPG,StarBattle V,163,61.58,10037.54,33.65,4552.59
+22/02/2024,North America,Xbox,Racing,Lost Odyssey,870,42.48,36957.6,35.79,5820.3
+22/02/2024,Europe,Xbox,RPG,Fishing Frenzy,470,37.72,17728.4,21.41,7665.7
+22/02/2024,Asia,PS5,Puzzle,Mech Arena,742,35.28,26177.76,42.09,-5053.02
+22/02/2024,Asia,PS5,Puzzle,Brain Blox,994,61.41,61041.54,32.43,28806.12
+22/02/2024,Asia,PS5,Action,Fishing Frenzy,445,48.15,21426.75,15.97,14320.1
+22/02/2024,Asia,PS5,Sports,Football Hero,305,77.6,23668,29.92,14542.4
+22/02/2024,Asia,PS5,Simulation,Mystic Legends,513,42.16,21628.08,31.04,5704.56
+22/02/2024,Asia,PC,Action,Brain Blox,296,62.16,18399.36,44.16,5328
+22/02/2024,Asia,Switch,Racing,City Architect,525,36.16,18984,30.51,2966.25
+23/02/2024,Europe,Xbox,Puzzle,Mech Arena,990,74.86,74111.4,18.92,55380.6
+23/02/2024,North America,Switch,Adventure,Turbo Racer,515,33.29,17144.35,35.68,-1230.85
+23/02/2024,Asia,Switch,Racing,GoalMaster 24,271,44.53,12067.63,44.25,75.88
+23/02/2024,Asia,PS5,Action,Mech Arena,855,40.37,34516.35,43.34,-2539.35
+23/02/2024,Europe,PC,RPG,City Architect,458,47.07,21558.06,27.32,9045.5
+23/02/2024,Europe,Switch,Adventure,StarBattle V,712,45.57,32445.84,22.9,16141.04
+23/02/2024,Asia,Xbox,Action,Fishing Frenzy,791,48.85,38640.35,39.54,7364.21
+23/02/2024,Europe,PS5,RPG,Fishing Frenzy,771,32.74,25242.54,21.46,8696.88
+23/02/2024,South America,PC,Shooter,Mystic Legends,293,63.82,18699.26,26.18,11028.52
+23/02/2024,Asia,Xbox,Action,Mystic Legends,451,67.94,30640.94,42.67,11396.77
+23/02/2024,Asia,Switch,Puzzle,Mech Arena,701,76.22,53430.22,27.19,34370.03
+23/02/2024,North America,Xbox,Racing,Football Hero,447,39.87,17821.89,17.21,10129.02
+24/02/2024,South America,PC,Sports,Brain Blox,526,42.16,22176.16,27.43,7747.98
+24/02/2024,North America,Xbox,Shooter,FarmLife Sim,942,63.75,60052.5,18.12,42983.46
+24/02/2024,North America,Xbox,Simulation,Football Hero,716,53.03,37969.48,26.49,19002.64
+24/02/2024,North America,Switch,Adventure,Galaxy Wars,564,52.12,29395.68,18.69,18854.52
+24/02/2024,Asia,PC,RPG,City Architect,158,40.19,6350.02,35.58,728.38
+24/02/2024,South America,Xbox,Puzzle,Shadow Strike,969,73.18,70911.42,31.33,40552.65
+24/02/2024,South America,PS5,Sports,Dragon Realms,545,73.66,40144.7,39.09,18840.65
+24/02/2024,Europe,Switch,Shooter,Lost Odyssey,930,75.47,70187.1,19.78,51791.7
+24/02/2024,Europe,PS5,Simulation,StarBattle V,623,71.79,44725.17,34.27,23374.96
+24/02/2024,Europe,PC,Puzzle,Shadow Strike,603,32.79,19772.37,41.13,-5029.02
+24/02/2024,North America,PS5,Shooter,Turbo Racer,154,57.58,8867.32,42.5,2322.32
+25/02/2024,Europe,PC,Puzzle,FarmLife Sim,258,70.97,18310.26,23.51,12244.68
+25/02/2024,South America,Xbox,Adventure,StarBattle V,970,64.82,62875.4,16.03,47326.3
+25/02/2024,Europe,PS5,Action,Football Hero,155,69.75,10811.25,44.35,3937
+25/02/2024,North America,PS5,Action,Dragon Realms,586,47.11,27606.46,23.34,13929.22
+25/02/2024,North America,PC,RPG,City Architect,92,48.8,4489.6,36.58,1124.24
+25/02/2024,North America,PC,Racing,Mech Arena,857,66.04,56596.28,43.92,18956.84
+26/02/2024,Asia,Xbox,Racing,GoalMaster 24,146,61.9,9037.4,36.57,3698.18
+26/02/2024,Europe,PC,Shooter,Mystic Legends,623,39.49,24602.27,35.76,2323.79
+26/02/2024,North America,Xbox,Puzzle,Turbo Racer,394,75.58,29778.52,26.4,19376.92
+26/02/2024,North America,Switch,Adventure,Fishing Frenzy,931,40.29,37509.99,36.92,3137.47
+26/02/2024,South America,PC,Simulation,Football Hero,488,41.63,20315.44,39.94,824.72
+26/02/2024,South America,Switch,RPG,Mystic Legends,593,45.34,26886.62,15.25,17843.37
+26/02/2024,North America,Switch,Simulation,Dragon Realms,82,53.38,4377.16,43.85,781.46
+26/02/2024,South America,PS5,Shooter,Fishing Frenzy,171,56.34,9634.14,32.34,4104
+27/02/2024,North America,PC,Racing,FarmLife Sim,493,65.51,32296.43,18.59,23131.56
+27/02/2024,South America,PC,Adventure,Turbo Racer,536,43.92,23541.12,22.07,11711.6
+27/02/2024,South America,Xbox,Simulation,Turbo Racer,934,77.93,72786.62,42.98,32643.3
+27/02/2024,North America,PS5,Racing,Mech Arena,183,61,11163,21.86,7162.62
+27/02/2024,Asia,PC,Sports,Mech Arena,676,33.25,22477,27.97,3569.28
+27/02/2024,Europe,Switch,Adventure,Brain Blox,193,56.9,10981.7,38.44,3562.78
+27/02/2024,Asia,PC,Sports,Galaxy Wars,849,32.55,27634.95,44.91,-10493.64
+27/02/2024,South America,Switch,Simulation,GoalMaster 24,853,53.46,45601.38,21.97,26860.97
+27/02/2024,South America,PC,Sports,Fishing Frenzy,482,57.18,27560.76,43.73,6482.9
+28/02/2024,North America,PC,RPG,FarmLife Sim,658,75.6,49744.8,41.76,22266.72
+28/02/2024,North America,PC,Shooter,Brain Blox,552,46.33,25574.16,38.24,4465.68
+28/02/2024,North America,Xbox,Puzzle,Galaxy Wars,730,67.44,49231.2,20.74,34091
+28/02/2024,North America,PC,Action,Brain Blox,771,50.54,38966.34,23.06,21187.08
+28/02/2024,North America,Xbox,Simulation,Mech Arena,65,38.71,2516.15,39.3,-38.35
+28/02/2024,Europe,Switch,Action,Football Hero,320,31.87,10198.4,38.71,-2188.8
+28/02/2024,Asia,PS5,Action,Final Combat,626,58.54,36646.04,25.98,20382.56
+29/02/2024,Europe,PC,Simulation,FarmLife Sim,144,47.07,6778.08,36.24,1559.52
+29/02/2024,Asia,Switch,Simulation,Shadow Strike,294,56.24,16534.56,34.43,6412.14
+29/02/2024,Europe,PC,Puzzle,Fishing Frenzy,810,68.71,55655.1,29.02,32148.9
+29/02/2024,South America,Switch,Puzzle,Shadow Strike,874,52.96,46287.04,27.48,22269.52
+29/02/2024,North America,PS5,Sports,Shadow Strike,883,35.28,31152.24,38.39,-2746.13
+29/02/2024,Asia,PC,Action,Football Hero,165,41.94,6920.1,23.39,3060.75
+29/02/2024,South America,Switch,Sports,Dragon Realms,463,58.26,26974.38,39.23,8810.89
+29/02/2024,Europe,Switch,Puzzle,Turbo Racer,235,51.97,12212.95,35.28,3922.15
+01/03/2024,South America,PS5,Action,Galaxy Wars,426,31.91,13593.66,22.14,4162.02
+01/03/2024,North America,PS5,Shooter,Mystic Legends,607,66.79,40541.53,22.41,26938.66
+01/03/2024,Asia,PC,Sports,FarmLife Sim,415,64.58,26800.7,16.41,19990.55
+01/03/2024,South America,Switch,Puzzle,Dragon Realms,632,58.85,37193.2,43.22,9878.16
+01/03/2024,North America,Xbox,Racing,Lost Odyssey,718,61.33,44034.94,24.04,26774.22
+01/03/2024,Asia,Xbox,RPG,Dragon Realms,968,62.5,60500,32.22,29311.04
+01/03/2024,North America,Xbox,RPG,Football Hero,347,69.02,23949.94,42.12,9334.3
+02/03/2024,Asia,Switch,Adventure,Galaxy Wars,748,65.87,49270.76,26.03,29800.32
+02/03/2024,North America,Switch,Simulation,StarBattle V,298,30.48,9083.04,31.4,-274.16
+02/03/2024,Europe,PS5,RPG,StarBattle V,333,40.53,13496.49,35.23,1764.9
+02/03/2024,Europe,PS5,Shooter,FarmLife Sim,767,32.23,24720.41,41.14,-6833.97
+02/03/2024,South America,PC,Racing,City Architect,881,62.25,54842.25,28.19,30006.86
+02/03/2024,Europe,Switch,Sports,City Architect,413,76.12,31437.56,33.21,17721.83
+02/03/2024,Europe,Switch,Action,Shadow Strike,480,35.11,16852.8,16.32,9019.2
+02/03/2024,North America,PC,Simulation,StarBattle V,595,55.29,32897.55,43.22,7181.65
+02/03/2024,South America,PC,Simulation,StarBattle V,489,41.82,20449.98,23.12,9144.3
+02/03/2024,Asia,PS5,Puzzle,Mech Arena,935,68.32,63879.2,43.1,23580.7
+02/03/2024,South America,PC,Action,Fishing Frenzy,728,38.45,27991.6,33.84,3356.08
+02/03/2024,South America,PC,RPG,Fishing Frenzy,453,49.27,22319.31,35.42,6274.05
+02/03/2024,North America,Xbox,Sports,Football Hero,933,43.11,40221.63,22.56,19173.15
+03/03/2024,Europe,PS5,Shooter,Dragon Realms,217,58.63,12722.71,43.37,3311.42
+03/03/2024,South America,Switch,Shooter,StarBattle V,279,65.51,18277.29,22.62,11966.31
+03/03/2024,North America,PS5,Puzzle,Dragon Realms,160,47.34,7574.4,43.66,588.8
+03/03/2024,Europe,PC,Sports,Fishing Frenzy,132,39.36,5195.52,37.57,236.28
+03/03/2024,North America,Switch,Puzzle,Final Combat,537,40.04,21501.48,16.15,12828.93
+03/03/2024,North America,Xbox,Racing,City Architect,486,51.76,25155.36,21.35,14779.26
+03/03/2024,North America,PC,Action,Dragon Realms,333,46.15,15367.95,32.42,4572.09
+03/03/2024,North America,PC,RPG,Lost Odyssey,320,78.09,24988.8,38.87,12550.4
+03/03/2024,South America,Xbox,Simulation,Mech Arena,931,44.99,41885.69,28.21,15622.18
+03/03/2024,South America,PC,Sports,Final Combat,297,43.48,12913.56,22.36,6272.64
+03/03/2024,Europe,PC,Adventure,Fishing Frenzy,62,46.93,2909.66,36.75,631.16
+03/03/2024,South America,Xbox,Adventure,Shadow Strike,134,66.65,8931.1,21.8,6009.9
+03/03/2024,North America,PS5,Adventure,Final Combat,902,31.4,28322.8,27.91,3147.98
+04/03/2024,Europe,PC,RPG,StarBattle V,844,44.59,37633.96,43.46,953.72
+04/03/2024,Europe,Switch,Puzzle,Brain Blox,897,68.1,61085.7,41.38,23967.84
+04/03/2024,South America,PS5,Sports,StarBattle V,319,44.05,14051.95,18.82,8048.37
+04/03/2024,North America,Xbox,Racing,Dragon Realms,633,74.32,47044.56,16.49,36606.39
+04/03/2024,Asia,PS5,Racing,Turbo Racer,495,64.23,31793.85,21.32,21240.45
+04/03/2024,South America,PC,Simulation,Turbo Racer,775,65.92,51088,34.5,24350.5
+05/03/2024,Europe,PC,Puzzle,Shadow Strike,741,38.16,28276.56,28.37,7254.39
+05/03/2024,North America,Switch,Racing,FarmLife Sim,204,37.84,7719.36,22.82,3064.08
+05/03/2024,South America,Switch,RPG,Fishing Frenzy,577,39.81,22970.37,30.25,5516.12
+05/03/2024,North America,PS5,Puzzle,Brain Blox,808,55.59,44916.72,30.53,20248.48
+05/03/2024,Europe,PS5,Puzzle,FarmLife Sim,513,76.32,39152.16,28.4,24582.96
+05/03/2024,Asia,Switch,Shooter,Turbo Racer,162,52.23,8461.26,33.47,3039.12
+05/03/2024,North America,PC,Action,City Architect,911,69.17,63013.87,16.71,47791.06
+05/03/2024,North America,PC,Shooter,StarBattle V,599,39.2,23480.8,29.59,5756.39
+06/03/2024,North America,PS5,Puzzle,FarmLife Sim,590,74.36,43872.4,25.01,29116.5
+06/03/2024,Europe,Xbox,Racing,Mystic Legends,913,67.73,61837.49,39.38,25883.55
+06/03/2024,Asia,PS5,Puzzle,Final Combat,441,54.25,23924.25,21.39,14491.26
+06/03/2024,North America,Switch,Simulation,Football Hero,898,55.89,50189.22,28.62,24488.46
+06/03/2024,Europe,PC,Shooter,Dragon Realms,973,78.61,76487.53,17.34,59615.71
+07/03/2024,Europe,PS5,Adventure,FarmLife Sim,520,45.93,23883.6,16.6,15251.6
+07/03/2024,Europe,Switch,RPG,Brain Blox,495,78.01,38614.95,28.18,24665.85
+07/03/2024,Asia,Xbox,Racing,City Architect,322,58.07,18698.54,37.48,6629.98
+07/03/2024,North America,Xbox,Action,Brain Blox,252,57.87,14583.24,19.92,9563.4
+07/03/2024,South America,Xbox,RPG,FarmLife Sim,579,72.88,42197.52,41.44,18203.76
+07/03/2024,Asia,PC,Adventure,Football Hero,266,54.83,14584.78,43.47,3021.76
+07/03/2024,Asia,Switch,RPG,Fishing Frenzy,457,50.55,23101.35,31.98,8486.49
+08/03/2024,Europe,Xbox,Puzzle,Dragon Realms,797,39.02,31098.94,42.1,-2454.76
+08/03/2024,South America,PS5,Action,Football Hero,233,61.33,14289.89,20.24,9573.97
+08/03/2024,South America,Switch,Adventure,Brain Blox,373,59.03,22018.19,34.65,9093.74
+08/03/2024,Asia,PC,RPG,Turbo Racer,683,57.34,39163.22,22.18,24014.28
+08/03/2024,Europe,Xbox,Sports,Mystic Legends,318,55.73,17722.14,19.15,11632.44
+08/03/2024,Europe,Xbox,Shooter,Football Hero,661,76.8,50764.8,36.12,26889.48
+09/03/2024,Europe,Switch,Racing,Final Combat,531,35.05,18611.55,22.78,6515.37
+09/03/2024,South America,PS5,Shooter,Mech Arena,214,42.26,9043.64,29.08,2820.52
+09/03/2024,South America,PS5,Racing,Final Combat,646,42.37,27371.02,34.3,5213.22
+09/03/2024,North America,Xbox,Adventure,Brain Blox,116,48.59,5636.44,41.89,777.2
+09/03/2024,Europe,Switch,Sports,City Architect,938,69.77,65444.26,18.95,47669.16
+09/03/2024,Asia,PC,RPG,Football Hero,388,30.44,11810.72,28.96,574.24
+09/03/2024,Europe,Switch,Racing,City Architect,379,54.2,20541.8,40.68,5124.08
+09/03/2024,North America,PC,Racing,Lost Odyssey,643,52.15,33532.45,18.21,21823.42
+09/03/2024,Europe,Switch,RPG,FarmLife Sim,862,43.72,37686.64,17.5,22601.64
+09/03/2024,North America,PS5,Adventure,GoalMaster 24,165,60.15,9924.75,42.21,2960.1
+10/03/2024,South America,Xbox,Puzzle,Shadow Strike,752,73.67,55399.84,30.38,32554.08
+10/03/2024,South America,PC,Shooter,Turbo Racer,184,50.24,9244.16,44.26,1100.32
+10/03/2024,South America,PC,Simulation,City Architect,425,61.52,26146,16.52,19125
+10/03/2024,South America,PS5,Adventure,FarmLife Sim,415,68.31,28348.65,41.84,10985.05
+10/03/2024,Europe,PC,Adventure,Fishing Frenzy,737,52.39,38611.43,32.66,14541.01
+10/03/2024,North America,PS5,Shooter,Dragon Realms,659,62.47,41167.73,26.84,23480.17
+10/03/2024,North America,PC,Simulation,Football Hero,487,53.18,25898.66,19.75,16280.41
+11/03/2024,Europe,PC,Action,StarBattle V,581,32.06,18626.86,40.36,-4822.3
+11/03/2024,North America,Switch,RPG,StarBattle V,226,73.85,16690.1,28.46,10258.14
+11/03/2024,Europe,Xbox,Puzzle,Galaxy Wars,966,48.79,47131.14,29.66,18479.58
+11/03/2024,Europe,Switch,Simulation,Football Hero,968,67.02,64875.36,15.18,50181.12
+12/03/2024,North America,PS5,Sports,Final Combat,417,41.71,17393.07,17.25,10199.82
+12/03/2024,Asia,PS5,Puzzle,Brain Blox,343,38.53,13215.79,43.94,-1855.63
+12/03/2024,Asia,PC,RPG,Mystic Legends,327,49.7,16251.9,28.95,6785.25
+12/03/2024,North America,Xbox,Simulation,City Architect,611,77.35,47260.85,26.02,31362.63
+12/03/2024,South America,PS5,Racing,Dragon Realms,169,76.77,12974.13,43.21,5671.64
+12/03/2024,North America,Switch,Action,StarBattle V,890,31.66,28177.4,29.28,2118.2
+12/03/2024,North America,PC,Simulation,FarmLife Sim,722,60.02,43334.44,15.27,32309.5
+12/03/2024,South America,PS5,Puzzle,Dragon Realms,926,47.1,43614.6,43.24,3574.36
+13/03/2024,Asia,PC,Sports,GoalMaster 24,785,43.46,34116.1,27.95,12175.35
+13/03/2024,Asia,PC,Adventure,Shadow Strike,873,33.35,29114.55,26.59,5901.48
+13/03/2024,South America,Switch,Sports,Fishing Frenzy,136,55.85,7595.6,29.56,3575.44
+13/03/2024,Europe,Xbox,Simulation,City Architect,940,65.75,61805,17.12,45712.2
+14/03/2024,South America,PS5,Adventure,Football Hero,612,70.39,43078.68,22.24,29467.8
+14/03/2024,Europe,Switch,Action,FarmLife Sim,642,69.44,44580.48,21.74,30623.4
+14/03/2024,South America,PC,Simulation,StarBattle V,315,42.07,13252.05,34.47,2394
+14/03/2024,South America,PC,Action,Brain Blox,484,64.12,31034.08,16.31,23140.04
+14/03/2024,North America,Xbox,Action,Galaxy Wars,576,38.4,22118.4,33.17,3012.48
+14/03/2024,Asia,PC,Action,FarmLife Sim,370,33.62,12439.4,23.32,3811
+14/03/2024,South America,PC,Puzzle,Lost Odyssey,258,73.61,18991.38,18.75,14153.88
+14/03/2024,Europe,PS5,Simulation,Mystic Legends,321,37.18,11934.78,42.37,-1665.99
+15/03/2024,Asia,PS5,Adventure,StarBattle V,571,45.99,26260.29,36.2,5590.09
+15/03/2024,South America,Switch,Puzzle,FarmLife Sim,178,34.3,6105.4,34.87,-101.46
+15/03/2024,North America,PC,Shooter,Turbo Racer,74,36.27,2683.98,15.6,1529.58
+15/03/2024,South America,PC,Adventure,Turbo Racer,735,30.36,22314.6,31.22,-632.1
+15/03/2024,South America,Switch,RPG,Dragon Realms,743,67.09,49847.87,44.71,16628.34
+15/03/2024,Asia,PC,Action,City Architect,477,73.38,35002.26,23.39,23845.23
+15/03/2024,Europe,Switch,Puzzle,Mystic Legends,501,47.57,23832.57,31.86,7870.71
+15/03/2024,Asia,PS5,Racing,GoalMaster 24,266,65.03,17297.98,21.53,11571
+15/03/2024,South America,Xbox,Shooter,Football Hero,828,55.24,45738.72,27.31,23126.04
+15/03/2024,Europe,Switch,RPG,Mech Arena,922,45.46,41914.12,31.25,13101.62
+16/03/2024,Europe,PS5,Shooter,City Architect,939,47.09,44217.51,20.73,24752.04
+16/03/2024,North America,PC,RPG,GoalMaster 24,273,42.4,11575.2,20.8,5896.8
+16/03/2024,North America,Xbox,Puzzle,Mech Arena,510,78.73,40152.3,36.4,21588.3
+16/03/2024,Europe,Switch,Simulation,City Architect,177,57.3,10142.1,38.61,3308.13
+16/03/2024,South America,PC,Shooter,Mystic Legends,318,64.64,20555.52,40.28,7746.48
+16/03/2024,Europe,PS5,RPG,Dragon Realms,282,35.3,9954.6,30.13,1457.94
+17/03/2024,Asia,PS5,Action,City Architect,718,75.73,54374.14,19.87,40107.48
+18/03/2024,Asia,Switch,Puzzle,Brain Blox,714,43.25,30880.5,36.67,4698.12
+18/03/2024,North America,PS5,Shooter,StarBattle V,258,63.66,16424.28,24.29,10157.46
+18/03/2024,South America,Switch,Puzzle,Mech Arena,99,69.49,6879.51,23.04,4598.55
+18/03/2024,North America,Switch,Action,Fishing Frenzy,989,36.77,36365.53,24.19,12441.62
+18/03/2024,Asia,PS5,RPG,Brain Blox,114,54.36,6197.04,21,3803.04
+18/03/2024,South America,Xbox,Sports,Galaxy Wars,394,60.9,23994.6,36.33,9680.58
+18/03/2024,South America,Xbox,Action,Mystic Legends,248,73.73,18285.04,39.18,8568.4
+19/03/2024,North America,PC,RPG,Mech Arena,380,65.89,25038.2,29.4,13866.2
+19/03/2024,South America,Xbox,Puzzle,City Architect,649,75.75,49161.75,43.02,21241.77
+19/03/2024,North America,PS5,Action,GoalMaster 24,64,75.34,4821.76,38.84,2336
+19/03/2024,South America,PS5,Shooter,Mystic Legends,215,47.83,10283.45,20.81,5809.3
+19/03/2024,Asia,Switch,Shooter,Shadow Strike,948,41.83,39654.84,34,7422.84
+20/03/2024,North America,PC,Racing,FarmLife Sim,819,47.69,39058.11,28.27,15904.98
+20/03/2024,South America,PC,Racing,Galaxy Wars,638,51.95,33144.1,37.15,9442.4
+20/03/2024,North America,Xbox,Action,Turbo Racer,543,62.54,33959.22,17.02,24717.36
+20/03/2024,South America,PC,Racing,Mystic Legends,904,52.16,47152.64,39.06,11842.4
+21/03/2024,North America,PS5,RPG,Shadow Strike,501,58.92,29518.92,30.82,14078.1
+21/03/2024,North America,PC,Racing,Turbo Racer,773,37.65,29103.45,29.74,6114.43
+21/03/2024,North America,Switch,Puzzle,Mech Arena,749,72.07,53980.43,37.99,25525.92
+21/03/2024,North America,PC,Racing,Mystic Legends,179,43.67,7816.93,39.96,664.09
+21/03/2024,Asia,PC,Racing,Lost Odyssey,519,32.59,16914.21,40.83,-4276.56
+21/03/2024,Asia,PS5,Adventure,Turbo Racer,622,48.08,29905.76,21.69,16414.58
+21/03/2024,Asia,PC,Shooter,Galaxy Wars,255,37.29,9508.95,17.84,4959.75
+21/03/2024,South America,PS5,Simulation,Football Hero,178,65.95,11739.1,20.61,8070.52
+21/03/2024,Europe,Switch,Action,City Architect,570,77.28,44049.6,30.27,26795.7
+21/03/2024,South America,Switch,Shooter,Dragon Realms,957,54.09,51764.13,26.14,26748.15
+22/03/2024,Asia,PC,Racing,Brain Blox,706,40.46,28564.76,31.07,6629.34
+22/03/2024,Asia,PC,Shooter,Football Hero,355,78.82,27981.1,28.78,17764.2
+22/03/2024,South America,PC,Shooter,Galaxy Wars,103,53.7,5531.1,19.05,3568.95
+22/03/2024,Europe,Switch,Action,Fishing Frenzy,729,54.82,39963.78,16,28299.78
+22/03/2024,South America,PC,Action,City Architect,805,58.22,46867.1,30.55,22274.35
+22/03/2024,North America,Xbox,RPG,Dragon Realms,989,73.47,72661.83,17.54,55314.77
+22/03/2024,Asia,Switch,Shooter,Final Combat,678,71.02,48151.56,31.02,27120
+23/03/2024,Asia,Switch,Adventure,Mystic Legends,591,56.73,33527.43,32.2,14497.23
+23/03/2024,Europe,PC,Adventure,FarmLife Sim,899,75.74,68090.26,15.93,53769.19
+23/03/2024,Europe,Switch,Adventure,Football Hero,964,36.66,35340.24,23.53,12657.32
+23/03/2024,South America,Switch,RPG,Lost Odyssey,712,37.32,26571.84,31.09,4435.76
+23/03/2024,South America,PS5,Adventure,StarBattle V,236,71.22,16807.92,28.94,9978.08
+23/03/2024,Europe,PS5,RPG,Fishing Frenzy,175,35.27,6172.25,27.33,1389.5
+24/03/2024,North America,PC,Adventure,Dragon Realms,780,50.31,39241.8,27.73,17612.4
+24/03/2024,Asia,PC,RPG,Mech Arena,771,66.92,51595.32,34.86,24718.26
+24/03/2024,South America,PC,RPG,Football Hero,254,43.1,10947.4,17.39,6530.34
+24/03/2024,Asia,PS5,Simulation,Final Combat,372,50.45,18767.4,28.08,8321.64
+24/03/2024,North America,PC,Shooter,Football Hero,159,30.04,4776.36,30.85,-128.79
+24/03/2024,Asia,PC,Puzzle,Final Combat,555,35.67,19796.85,31.98,2047.95
+24/03/2024,North America,PS5,Action,Galaxy Wars,256,41.98,10746.88,17.6,6241.28
+24/03/2024,Asia,Switch,Shooter,Shadow Strike,545,43.66,23794.7,44.34,-370.6
+24/03/2024,Europe,Xbox,Adventure,Galaxy Wars,660,51.14,33752.4,22.34,19008
+25/03/2024,North America,Xbox,Shooter,Turbo Racer,567,58.55,33197.85,19.48,22152.69
+25/03/2024,Europe,Switch,Sports,Shadow Strike,703,30.86,21694.58,35.07,-2959.63
+25/03/2024,South America,PC,RPG,Football Hero,107,30.89,3305.23,27.76,334.91
+25/03/2024,Asia,PC,Racing,City Architect,531,58.93,31291.83,35.98,12186.45
+25/03/2024,North America,Switch,Puzzle,FarmLife Sim,838,62.5,52375,25.66,30871.92
+25/03/2024,Europe,Switch,Action,Fishing Frenzy,683,64.16,43821.28,30.15,23228.83
+26/03/2024,South America,PC,Shooter,Football Hero,76,34.86,2649.36,26.34,647.52
+26/03/2024,Asia,PC,Puzzle,Brain Blox,896,79.29,71043.84,27.74,46188.8
+26/03/2024,Europe,PC,Simulation,Final Combat,101,55.48,5603.48,41.69,1392.79
+26/03/2024,Asia,PC,Racing,Galaxy Wars,943,38.32,36135.76,44.01,-5365.67
+26/03/2024,Europe,PS5,Adventure,Mystic Legends,928,55.22,51244.16,21.18,31589.12
+26/03/2024,North America,PS5,Puzzle,Shadow Strike,348,54.24,18875.52,17.36,12834.24
+26/03/2024,North America,Switch,Shooter,Football Hero,953,64.66,61620.98,39.84,23653.46
+26/03/2024,South America,PC,Action,Shadow Strike,820,70.96,58187.2,18.98,42623.6
+26/03/2024,North America,PS5,Adventure,Dragon Realms,63,68.25,4299.75,40.51,1747.62
+26/03/2024,North America,PS5,Action,Mystic Legends,432,41.36,17867.52,23.62,7663.68
+26/03/2024,Asia,PC,Action,Lost Odyssey,796,46.78,37236.88,38.22,6813.76
+26/03/2024,Europe,Switch,Puzzle,Dragon Realms,302,35.21,10633.42,40.08,-1470.74
+26/03/2024,Asia,Xbox,Simulation,Turbo Racer,221,37.13,8205.73,40.79,-808.86
+26/03/2024,South America,PC,Sports,Dragon Realms,225,53.48,12033,33.82,4423.5
+27/03/2024,South America,PC,Sports,GoalMaster 24,440,72.12,31732.8,34.78,16429.6
+27/03/2024,Asia,PC,Adventure,Galaxy Wars,474,79.32,37597.68,35.78,20637.96
+27/03/2024,Asia,PS5,Adventure,Final Combat,988,32.8,32406.4,29.55,3211
+28/03/2024,Europe,PS5,Sports,FarmLife Sim,710,75.47,53583.7,31.58,31161.9
+28/03/2024,South America,PC,RPG,Mystic Legends,875,78.81,68958.75,24.4,47608.75
+28/03/2024,South America,Switch,Adventure,Football Hero,242,57.98,14031.16,44.42,3281.52
+28/03/2024,Asia,Switch,Shooter,City Architect,386,77.04,29737.44,31.18,17701.96
+28/03/2024,South America,PS5,Racing,Mech Arena,618,44.85,27717.3,24.35,12669
+29/03/2024,Europe,Switch,Racing,Final Combat,384,45.44,17448.96,33.23,4688.64
+29/03/2024,Asia,Switch,Racing,Football Hero,660,40.58,26782.8,21.99,12269.4
+29/03/2024,South America,Xbox,RPG,Lost Odyssey,914,74.89,68449.46,39.72,32145.38
+29/03/2024,North America,PC,Sports,StarBattle V,603,49.22,29679.66,30.09,11535.39
+29/03/2024,North America,Switch,Sports,Fishing Frenzy,631,68.48,43210.88,21.76,29480.32
+29/03/2024,North America,Switch,Action,Final Combat,605,63.68,38526.4,24.61,23637.35
+29/03/2024,South America,Xbox,Simulation,Mech Arena,163,65.48,10673.24,15.41,8161.41
+30/03/2024,Asia,Xbox,Simulation,Turbo Racer,986,36.68,36166.48,35.19,1469.14
+30/03/2024,North America,PC,Sports,Shadow Strike,715,31.51,22529.65,29.94,1122.55
+30/03/2024,South America,Switch,Sports,Final Combat,769,68.44,52630.36,18.91,38088.57
+30/03/2024,Asia,PS5,Action,Dragon Realms,478,36.55,17470.9,40.77,-2017.16
+30/03/2024,South America,Xbox,Racing,Lost Odyssey,868,36.33,31534.44,27.14,7976.92
+30/03/2024,North America,Switch,Sports,Mech Arena,161,70.03,11274.83,23.59,7476.84
+30/03/2024,South America,PC,Simulation,Lost Odyssey,687,42.86,29444.82,21.16,14907.9
+30/03/2024,North America,PC,Sports,Fishing Frenzy,123,68.1,8376.3,22.69,5585.43
+30/03/2024,Europe,Switch,Adventure,FarmLife Sim,67,40.24,2696.08,18.53,1454.57
+30/03/2024,Europe,Xbox,Sports,Final Combat,912,56.66,51673.92,15.58,37464.96
+30/03/2024,South America,Xbox,Action,Lost Odyssey,490,62.91,30825.9,36.39,12994.8
+30/03/2024,North America,PC,Adventure,Galaxy Wars,834,52.33,43643.22,42.74,7998.06
+30/03/2024,South America,Xbox,Racing,Brain Blox,294,74.53,21911.82,22.34,15343.86
+30/03/2024,North America,PC,Shooter,Mech Arena,131,77.45,10145.95,26.02,6737.33
+31/03/2024,North America,Xbox,RPG,FarmLife Sim,805,43.27,34832.35,20.51,18321.8
+31/03/2024,Europe,PS5,RPG,Lost Odyssey,238,47.62,11333.56,35.04,2994.04
+31/03/2024,Europe,Xbox,RPG,Final Combat,894,32.46,29019.24,15.61,15063.9
+01/04/2024,South America,Switch,Puzzle,Final Combat,91,33.09,3011.19,16.47,1512.42
+01/04/2024,Asia,Xbox,Shooter,Final Combat,999,31.95,31918.05,18.81,13126.86
+01/04/2024,South America,Switch,Shooter,Dragon Realms,231,45.7,10556.7,37.49,1896.51
+01/04/2024,North America,PC,RPG,Brain Blox,843,43.95,37049.85,38.36,4712.37
+01/04/2024,North America,Switch,Action,Lost Odyssey,396,59.87,23708.52,17.01,16972.56
+01/04/2024,Europe,Xbox,Simulation,Turbo Racer,893,53.84,48079.12,37.18,14877.38
+01/04/2024,North America,Switch,RPG,Lost Odyssey,489,35.81,17511.09,33.45,1154.04
+01/04/2024,South America,Switch,Simulation,Mech Arena,812,44.37,36028.44,42.25,1721.44
+01/04/2024,Asia,PS5,Action,FarmLife Sim,534,69.92,37337.28,42.43,14679.66
+01/04/2024,North America,PC,Sports,Brain Blox,206,53.59,11039.54,20.66,6783.58
+02/04/2024,Europe,Switch,Adventure,Shadow Strike,490,45.21,22152.9,32.14,6404.3
+02/04/2024,Europe,PS5,Action,Lost Odyssey,161,32.72,5267.92,41.49,-1411.97
+02/04/2024,Europe,PC,RPG,Mystic Legends,116,71.61,8306.76,18.59,6150.32
+02/04/2024,Europe,Switch,RPG,Brain Blox,856,58.81,50341.36,20.79,32545.12
+02/04/2024,Europe,PC,Simulation,Brain Blox,496,50.55,25072.8,34.18,8119.52
+02/04/2024,South America,PS5,Puzzle,Final Combat,991,73.14,72481.74,15.04,57577.1
+02/04/2024,Asia,PC,Puzzle,Galaxy Wars,244,67.19,16394.36,23.05,10770.16
+02/04/2024,South America,PC,Simulation,GoalMaster 24,683,50.31,34361.73,23.03,18632.24
+02/04/2024,Europe,PS5,Racing,Galaxy Wars,417,53.01,22105.17,39.36,5692.05
+02/04/2024,South America,PC,Simulation,Football Hero,744,43.88,32646.72,40.46,2544.48
+03/04/2024,Europe,PS5,Action,Mech Arena,204,66.79,13625.16,29.12,7684.68
+03/04/2024,Europe,Switch,Puzzle,Dragon Realms,397,55.54,22049.38,42.95,4998.23
+03/04/2024,North America,PC,Shooter,Football Hero,940,77.23,72596.2,19.7,54078.2
+03/04/2024,North America,PS5,Shooter,Brain Blox,881,42.85,37750.85,34.25,7576.6
+03/04/2024,Asia,PS5,Action,City Architect,943,70.65,66622.95,20.67,47131.14
+03/04/2024,South America,Xbox,Sports,GoalMaster 24,739,78.28,57848.92,35.7,31466.62
+03/04/2024,Asia,Switch,Shooter,Mystic Legends,597,38.12,22757.64,24.88,7904.28
+04/04/2024,Asia,Switch,Puzzle,Mech Arena,624,38.73,24167.52,26.71,7500.48
+04/04/2024,Asia,PS5,Puzzle,Galaxy Wars,121,49.67,6010.07,21.04,3464.23
+04/04/2024,North America,Xbox,Action,Brain Blox,654,62.78,41058.12,16.38,30345.6
+04/04/2024,Asia,PS5,Action,FarmLife Sim,897,72.8,65301.6,31.81,36768.03
+04/04/2024,Asia,Switch,Shooter,Football Hero,798,47.61,37992.78,41.71,4708.2
+04/04/2024,Europe,PS5,Simulation,Final Combat,538,57.48,30924.24,32.17,13616.78
+04/04/2024,South America,PC,Simulation,Mystic Legends,355,33.19,11782.45,18.86,5087.15
+04/04/2024,Europe,Xbox,Action,Turbo Racer,548,77.89,42683.72,17.9,32874.52
+04/04/2024,South America,Xbox,Puzzle,Mech Arena,970,77.98,75640.6,16.27,59858.7
+05/04/2024,South America,PC,Shooter,Shadow Strike,141,42.07,5931.87,26.99,2126.28
+05/04/2024,South America,PS5,Adventure,Shadow Strike,377,35.32,13315.64,18.5,6341.14
+05/04/2024,North America,PS5,Shooter,Galaxy Wars,465,60.56,28160.4,26.79,15703.05
+05/04/2024,South America,PC,Puzzle,Shadow Strike,998,76.63,76476.74,22.2,54321.14
+05/04/2024,North America,Switch,Adventure,Turbo Racer,903,55.11,49764.33,20.51,31243.8
+05/04/2024,Europe,PS5,Simulation,Shadow Strike,482,47.6,22943.2,27.39,9741.22
+05/04/2024,Europe,PC,Puzzle,FarmLife Sim,964,69.39,66891.96,37.42,30819.08
+05/04/2024,Europe,PC,RPG,Lost Odyssey,589,75.43,44428.27,24.62,29927.09
+05/04/2024,North America,Xbox,Racing,City Architect,666,74.54,49643.64,39.58,23283.36
+05/04/2024,North America,Xbox,Sports,FarmLife Sim,949,78.33,74335.17,20.99,54415.66
+06/04/2024,North America,Xbox,Simulation,Fishing Frenzy,406,60.65,24623.9,18.89,16954.56
+06/04/2024,Europe,PC,Action,Final Combat,354,36.3,12850.2,38.82,-892.08
+06/04/2024,Europe,PS5,Adventure,Turbo Racer,410,71.27,29220.7,25.02,18962.5
+06/04/2024,North America,Switch,Shooter,Football Hero,159,40.5,6439.5,30.9,1526.4
+06/04/2024,Asia,Xbox,Sports,Football Hero,814,33.6,27350.4,40.83,-5885.22
+06/04/2024,Europe,Xbox,Racing,City Architect,332,30.36,10079.52,31.89,-507.96
+07/04/2024,North America,PC,Shooter,Shadow Strike,591,47.72,28202.52,19.07,16932.15
+07/04/2024,Asia,Switch,Shooter,FarmLife Sim,713,31.32,22331.16,37.61,-4484.77
+07/04/2024,Europe,PS5,Racing,Final Combat,632,69.14,43696.48,16.13,33502.32
+07/04/2024,North America,Xbox,Racing,Dragon Realms,309,64.15,19822.35,17.56,14396.31
+07/04/2024,Asia,Xbox,Simulation,Mech Arena,322,61.42,19777.24,39.68,7000.28
+07/04/2024,South America,PS5,Action,City Architect,808,49.45,39955.6,27.79,17501.28
+07/04/2024,South America,Xbox,RPG,Shadow Strike,922,69.86,64410.92,37.25,30066.42
+07/04/2024,Europe,PC,Action,Final Combat,753,57.46,43267.38,24.73,24645.69
+07/04/2024,Asia,Xbox,Adventure,StarBattle V,731,32.63,23852.53,17.85,10804.18
+08/04/2024,Asia,Switch,Sports,Galaxy Wars,379,49.35,18703.65,39.27,3820.32
+08/04/2024,Europe,Xbox,Sports,Galaxy Wars,667,49.39,32943.13,34.66,9824.91
+08/04/2024,Asia,Switch,RPG,FarmLife Sim,470,49.29,23166.3,23.62,12064.9
+08/04/2024,South America,PS5,Sports,Turbo Racer,483,35.36,17078.88,33.68,811.44
+08/04/2024,Europe,Switch,Puzzle,City Architect,195,61.27,11947.65,28.29,6431.1
+08/04/2024,Asia,PC,Shooter,FarmLife Sim,261,59.58,15550.38,39.15,5332.23
+08/04/2024,North America,Xbox,RPG,Mech Arena,693,50.85,35239.05,44.98,4067.91
+08/04/2024,South America,PC,Shooter,FarmLife Sim,245,58.53,14339.85,33.57,6115.2
+08/04/2024,North America,Switch,Action,GoalMaster 24,517,47.97,24800.49,29.12,9745.45
+08/04/2024,North America,Switch,Simulation,Shadow Strike,368,77.72,28600.96,43.68,12526.72
+08/04/2024,North America,PS5,Action,Mystic Legends,157,36.06,5661.42,17.88,2854.26
+08/04/2024,South America,Switch,Simulation,Mystic Legends,847,40.44,34252.68,24.96,13111.56
+08/04/2024,South America,PC,Adventure,StarBattle V,963,66.01,63567.63,31.52,33213.87
+08/04/2024,North America,PC,Simulation,Football Hero,419,53.71,22504.49,42.86,4546.15
+09/04/2024,South America,Xbox,RPG,Final Combat,924,70.72,65345.28,39.89,28486.92
+09/04/2024,Europe,PS5,Sports,Brain Blox,953,34.61,32983.33,39.2,-4374.27
+09/04/2024,Asia,PS5,RPG,Mech Arena,672,36.96,24837.12,28.82,5470.08
+09/04/2024,North America,PS5,RPG,Shadow Strike,946,42.28,39996.88,16.85,24056.78
+09/04/2024,North America,PS5,RPG,Mystic Legends,260,57.48,14944.8,37.45,5207.8
+09/04/2024,North America,Xbox,Adventure,Mystic Legends,804,68.1,54752.4,18.78,39653.28
+09/04/2024,Europe,PC,Puzzle,FarmLife Sim,536,44.69,23953.84,31.1,7284.24
+10/04/2024,South America,PS5,Racing,Mech Arena,309,35.33,10916.97,39.62,-1325.61
+10/04/2024,Asia,PS5,Sports,Turbo Racer,728,60.11,43760.08,17.58,30961.84
+10/04/2024,Europe,Switch,Simulation,Final Combat,474,45.46,21548.04,16.45,13750.74
+10/04/2024,Europe,PS5,Adventure,Football Hero,707,48.32,34162.24,31.22,12089.7
+10/04/2024,Asia,Xbox,Simulation,Mech Arena,638,73.39,46822.82,42.9,19452.62
+10/04/2024,Asia,Switch,Sports,City Architect,193,70.79,13662.47,43.27,5311.36
+10/04/2024,Asia,Xbox,Adventure,Shadow Strike,139,71.05,9875.95,27.24,6089.59
+10/04/2024,Europe,Xbox,Shooter,Fishing Frenzy,373,61.53,22950.69,36.85,9205.64
+10/04/2024,Europe,Switch,Shooter,Turbo Racer,797,58.92,46959.24,39.33,15613.23
+10/04/2024,South America,Switch,Simulation,Mystic Legends,221,50.94,11257.74,39.75,2472.99
+10/04/2024,South America,Switch,Racing,Shadow Strike,105,56.89,5973.45,21.19,3748.5
+11/04/2024,South America,PC,Puzzle,Dragon Realms,240,53.32,12796.8,31.82,5160
+11/04/2024,South America,Switch,Racing,City Architect,751,36.48,27396.48,39.68,-2403.2
+11/04/2024,Asia,PC,Adventure,Mech Arena,184,65.76,12099.84,41.69,4428.88
+12/04/2024,North America,PC,RPG,Mech Arena,497,32.25,16028.25,37.47,-2594.34
+12/04/2024,North America,PS5,Simulation,Turbo Racer,335,37.73,12639.55,16.15,7229.3
+12/04/2024,Europe,PC,RPG,Brain Blox,656,45.81,30051.36,17.67,18459.84
+12/04/2024,Asia,Xbox,Shooter,Lost Odyssey,130,34.73,4514.9,19.92,1925.3
+12/04/2024,Europe,Switch,Simulation,StarBattle V,579,53.24,30825.96,43.43,5679.99
+12/04/2024,South America,PS5,Sports,StarBattle V,314,32.9,10330.6,20.35,3940.7
+12/04/2024,Europe,Xbox,Adventure,Football Hero,220,70.25,15455,30.65,8712
+12/04/2024,Europe,Switch,Puzzle,GoalMaster 24,540,50.26,27140.4,37.98,6631.2
+12/04/2024,Europe,Switch,Racing,Turbo Racer,449,52.23,23451.27,30.46,9774.73
+12/04/2024,North America,PC,Simulation,GoalMaster 24,179,78.38,14030.02,34.42,7868.84
+13/04/2024,North America,Xbox,Racing,StarBattle V,325,63.32,20579,23.06,13084.5
+13/04/2024,Europe,PS5,Action,Fishing Frenzy,439,54.25,23815.75,29.46,10882.81
+13/04/2024,North America,PC,Puzzle,Dragon Realms,250,66.55,16637.5,27.73,9705
+13/04/2024,South America,PC,Puzzle,City Architect,511,70.58,36066.38,30.89,20281.59
+13/04/2024,Asia,PC,Shooter,Mech Arena,374,41.67,15584.58,30.01,4360.84
+13/04/2024,South America,Switch,Simulation,StarBattle V,898,69.89,62761.22,37.23,29328.68
+13/04/2024,Asia,Switch,Sports,Lost Odyssey,139,45.24,6288.36,24.85,2834.21
+13/04/2024,North America,PS5,Action,Final Combat,275,31.45,8648.75,32,-151.25
+13/04/2024,North America,PS5,Shooter,Shadow Strike,758,38.03,28826.74,44.68,-5040.7
+13/04/2024,Asia,PS5,Action,FarmLife Sim,746,67.93,50675.78,16.4,38441.38
+13/04/2024,South America,PC,RPG,Turbo Racer,933,37.49,34978.17,15.38,20628.63
+13/04/2024,Asia,PS5,Action,Dragon Realms,271,32.48,8802.08,35.02,-688.34
+13/04/2024,Asia,PC,Simulation,Dragon Realms,379,43.3,16410.7,41.06,848.96
+13/04/2024,South America,PC,Shooter,Football Hero,296,68.58,20299.68,26.05,12588.88
+13/04/2024,Asia,Switch,Puzzle,Mech Arena,412,37.55,15470.6,42.04,-1849.88
+13/04/2024,Asia,PC,Adventure,Dragon Realms,590,41.28,24355.2,23.89,10260.1
+14/04/2024,North America,Xbox,Puzzle,Final Combat,840,39.94,33549.6,37.9,1713.6
+14/04/2024,North America,Xbox,RPG,StarBattle V,366,73.96,27069.36,34.34,14500.92
+14/04/2024,Europe,PC,Simulation,Shadow Strike,580,66.75,38715,21.57,26204.4
+14/04/2024,South America,Switch,Shooter,City Architect,285,61.95,17655.75,42.32,5594.55
+14/04/2024,Europe,Switch,Adventure,City Architect,242,30.19,7305.98,19.72,2533.74
+14/04/2024,North America,PS5,Adventure,City Architect,781,64.35,50257.35,20.97,33879.78
+15/04/2024,North America,Xbox,Puzzle,Mech Arena,183,56.87,10407.21,20.81,6598.98
+15/04/2024,South America,Switch,Puzzle,Galaxy Wars,488,54.64,26664.32,28.49,12761.2
+15/04/2024,Asia,Xbox,RPG,Lost Odyssey,240,78.41,18818.4,20.12,13989.6
+15/04/2024,Europe,PC,Puzzle,Lost Odyssey,93,79.06,7352.58,23.48,5168.94
+15/04/2024,North America,PS5,Racing,Galaxy Wars,656,62.41,40940.96,21.53,26817.28
+16/04/2024,North America,Xbox,Racing,FarmLife Sim,536,65.96,35354.56,15.7,26939.36
+16/04/2024,North America,Switch,Adventure,Final Combat,680,58.43,39732.4,29.68,19550
+16/04/2024,Europe,PS5,Racing,Galaxy Wars,529,51.18,27074.22,36.64,7691.66
+16/04/2024,North America,Xbox,Puzzle,Football Hero,643,35,22505,27.91,4558.87
+16/04/2024,South America,Xbox,Adventure,Turbo Racer,214,59.67,12769.38,20.76,8326.74
+17/04/2024,South America,PS5,RPG,Fishing Frenzy,217,61.29,13299.93,42.98,3973.27
+17/04/2024,Asia,Switch,Racing,Galaxy Wars,978,55.51,54288.78,27.15,27736.08
+17/04/2024,South America,Switch,Sports,Final Combat,146,39.66,5790.36,40.7,-151.84
+17/04/2024,North America,PS5,Adventure,Final Combat,484,35.3,17085.2,43.26,-3852.64
+17/04/2024,South America,PC,Racing,GoalMaster 24,211,69.02,14563.22,43.01,5488.11
+17/04/2024,South America,Switch,Shooter,Football Hero,822,57.27,47075.94,22.96,28202.82
+17/04/2024,Asia,PS5,Simulation,Brain Blox,968,36.32,35157.76,24.61,11335.28
+17/04/2024,South America,Xbox,RPG,Mech Arena,217,34.4,7464.8,19.51,3231.13
+17/04/2024,South America,Switch,Puzzle,Final Combat,885,42.32,37453.2,41.63,610.65
+17/04/2024,South America,PC,Sports,Fishing Frenzy,323,74.11,23937.53,21.63,16951.04
+18/04/2024,Asia,Switch,Shooter,StarBattle V,572,45.15,25825.8,42.56,1481.48
+18/04/2024,South America,Switch,Sports,Galaxy Wars,646,42.65,27551.9,42.91,-167.96
+18/04/2024,North America,PS5,Sports,Final Combat,541,72.14,39027.74,22.38,26920.16
+18/04/2024,Europe,Switch,RPG,Shadow Strike,196,45.5,8918,25.52,3916.08
+18/04/2024,Europe,PC,Shooter,Mystic Legends,264,76.03,20071.92,29.87,12186.24
+18/04/2024,Europe,PS5,Puzzle,Dragon Realms,940,69.74,65555.6,32.6,34911.6
+18/04/2024,Europe,PS5,Sports,Mech Arena,781,60.21,47024.01,34.63,19977.98
+18/04/2024,Europe,PS5,Racing,Football Hero,683,78.26,53451.58,18.18,41034.64
+18/04/2024,Asia,PC,Adventure,Football Hero,569,74.21,42225.49,17.69,32159.88
+18/04/2024,North America,PS5,RPG,FarmLife Sim,319,56.2,17927.8,16.7,12600.5
+18/04/2024,South America,PS5,Shooter,Lost Odyssey,849,38.33,32542.17,20.14,15443.31
+18/04/2024,Asia,PS5,Adventure,Turbo Racer,547,34.56,18904.32,43.35,-4808.13
+19/04/2024,Europe,PC,RPG,GoalMaster 24,961,69.06,66366.66,16.56,50452.5
+19/04/2024,South America,PC,Racing,FarmLife Sim,332,45.24,15019.68,31.27,4638.04
+19/04/2024,South America,PS5,Puzzle,StarBattle V,430,65.87,28324.1,24.08,17969.7
+19/04/2024,Europe,PC,Puzzle,Lost Odyssey,175,42.72,7476,25.73,2973.25
+20/04/2024,North America,PS5,Puzzle,Shadow Strike,239,78.85,18845.15,32.77,11013.12
+20/04/2024,South America,Xbox,Adventure,Shadow Strike,516,48.05,24793.8,20.81,14055.84
+20/04/2024,Asia,Switch,RPG,StarBattle V,475,65.01,30879.75,20,21379.75
+20/04/2024,South America,Switch,Simulation,Brain Blox,416,37.81,15728.96,43.41,-2329.6
+20/04/2024,Asia,PS5,Shooter,Football Hero,319,66.58,21239.02,36.09,9726.31
+20/04/2024,North America,Xbox,Shooter,Fishing Frenzy,398,76.6,30486.8,43.84,13038.48
+20/04/2024,Asia,PS5,Adventure,Fishing Frenzy,904,34.4,31097.6,39.23,-4366.32
+20/04/2024,North America,Switch,Shooter,Turbo Racer,747,38.18,28520.46,34.18,2988
+20/04/2024,North America,Switch,Adventure,Galaxy Wars,707,76.18,53859.26,27.7,34275.36
+20/04/2024,North America,PC,Adventure,StarBattle V,363,54.25,19692.75,44.59,3506.58
+20/04/2024,South America,Xbox,Puzzle,Turbo Racer,895,63.06,56438.7,15.11,42915.25
+20/04/2024,Asia,PC,Action,Mech Arena,232,65.42,15177.44,29.47,8340.4
+21/04/2024,North America,PS5,Simulation,Turbo Racer,218,33.18,7233.24,25.67,1637.18
+21/04/2024,South America,Switch,Adventure,Mech Arena,971,46.46,45112.66,37.46,8739
+21/04/2024,Asia,PS5,Sports,Mech Arena,94,62.29,5855.26,33.15,2739.16
+21/04/2024,North America,Switch,Puzzle,Turbo Racer,222,41.81,9281.82,23.03,4169.16
+21/04/2024,Asia,PS5,Action,Football Hero,799,51.27,40964.73,25.37,20694.1
+21/04/2024,Asia,PS5,Simulation,Shadow Strike,577,77.38,44648.26,15.93,35456.65
+22/04/2024,Asia,Xbox,Puzzle,FarmLife Sim,793,76.52,60680.36,18.93,45668.87
+22/04/2024,Asia,Switch,Puzzle,StarBattle V,539,68.26,36792.14,35.31,17760.05
+22/04/2024,Asia,PS5,Action,Shadow Strike,164,41.64,6828.96,32.37,1520.28
+22/04/2024,Asia,Xbox,Sports,GoalMaster 24,848,59.79,50701.92,19.21,34411.84
+22/04/2024,South America,Xbox,RPG,Football Hero,876,54,47304,35.62,16100.88
+22/04/2024,Europe,PC,Racing,Turbo Racer,970,52.77,51186.9,20.99,30826.6
+22/04/2024,Asia,Switch,Sports,Mech Arena,366,44.25,16195.5,18.06,9585.54
+22/04/2024,Asia,PS5,Action,StarBattle V,715,67.88,48534.2,30.05,27048.45
+22/04/2024,North America,Xbox,Puzzle,Final Combat,549,31.04,17040.96,22.39,4748.85
+22/04/2024,North America,Switch,Racing,Mech Arena,218,34.15,7444.7,19.94,3097.78
+22/04/2024,Europe,PS5,Adventure,Turbo Racer,418,58.98,24653.64,17.17,17476.58
+22/04/2024,Europe,Switch,Sports,Galaxy Wars,772,72.53,55993.16,29.49,33226.88
+22/04/2024,South America,PS5,Shooter,Fishing Frenzy,568,48.07,27303.76,20.67,15563.2
+22/04/2024,Asia,Switch,Sports,Galaxy Wars,863,65.07,56155.41,27.4,32509.21
+22/04/2024,Europe,Xbox,Sports,Mystic Legends,160,68.88,11020.8,40.28,4576
+22/04/2024,North America,PS5,Simulation,Fishing Frenzy,101,34.96,3530.96,31.11,388.85
+23/04/2024,Asia,PC,Shooter,Dragon Realms,221,38.06,8411.26,17.56,4530.5
+23/04/2024,Asia,Switch,Puzzle,Galaxy Wars,585,57,33345,19.42,21984.3
+23/04/2024,North America,Switch,Shooter,Mystic Legends,657,72.15,47402.55,34.02,25051.41
+23/04/2024,Asia,PS5,Simulation,Dragon Realms,345,43.24,14917.8,44.14,-310.5
+23/04/2024,Europe,PS5,Simulation,Mech Arena,504,44.88,22619.52,34.08,5443.2
+23/04/2024,Asia,PS5,Sports,Shadow Strike,476,57.23,27241.48,41.47,7501.76
+24/04/2024,Europe,PS5,Racing,Lost Odyssey,901,48.91,44067.91,16.22,29453.69
+24/04/2024,South America,PC,RPG,Football Hero,938,33.62,31535.56,31.99,1528.94
+24/04/2024,South America,PC,Sports,City Architect,473,63.19,29888.87,40.18,10883.73
+24/04/2024,Europe,Switch,Adventure,Shadow Strike,491,34.95,17160.45,36.86,-937.81
+24/04/2024,South America,Xbox,Racing,Dragon Realms,295,51.63,15230.85,28,6970.85
+24/04/2024,North America,PC,Shooter,FarmLife Sim,708,62.2,44037.6,42.44,13990.08
+24/04/2024,North America,Xbox,Puzzle,Fishing Frenzy,743,61.24,45501.32,24.59,27230.95
+24/04/2024,North America,Xbox,Sports,Turbo Racer,653,67.99,44397.47,41.38,17376.33
+24/04/2024,Europe,PS5,Adventure,Lost Odyssey,424,36.78,15594.72,19.76,7216.48
+24/04/2024,North America,PS5,Racing,Galaxy Wars,527,38.39,20231.53,39.83,-758.88
+24/04/2024,South America,Switch,Sports,Mech Arena,488,47.82,23336.16,36.16,5690.08
+24/04/2024,North America,PS5,Adventure,Brain Blox,203,52.6,10677.8,32.44,4092.48
+24/04/2024,North America,PC,Puzzle,FarmLife Sim,128,38.33,4906.24,43.42,-651.52
+25/04/2024,North America,PC,Adventure,FarmLife Sim,629,78.32,49263.28,42.12,22769.8
+25/04/2024,Asia,PC,Simulation,Turbo Racer,591,73.88,43663.08,23.61,29709.57
+25/04/2024,Asia,PS5,Puzzle,Final Combat,476,71.7,34129.2,26.52,21505.68
+25/04/2024,North America,PS5,Racing,Galaxy Wars,777,31.96,24832.92,31.31,505.05
+25/04/2024,North America,Xbox,Simulation,Final Combat,679,33.98,23072.42,32.62,923.44
+25/04/2024,South America,Switch,Simulation,Shadow Strike,136,46.6,6337.6,38.7,1074.4
+26/04/2024,Asia,PC,Shooter,Mystic Legends,896,55.03,49306.88,33.74,19075.84
+26/04/2024,North America,Switch,Simulation,Brain Blox,102,47.34,4828.68,17.49,3044.7
+26/04/2024,South America,PS5,Simulation,Galaxy Wars,959,50.27,48208.93,24.81,24416.14
+26/04/2024,South America,PS5,Action,Brain Blox,923,65.45,60410.35,30.66,32111.17
+26/04/2024,North America,Xbox,Action,StarBattle V,80,52.83,4226.4,44.78,644
+26/04/2024,North America,Xbox,Shooter,City Architect,389,36.25,14101.25,43.77,-2925.28
+26/04/2024,North America,PC,Shooter,Turbo Racer,153,58.44,8941.32,18.44,6120
+26/04/2024,South America,Switch,Sports,Shadow Strike,115,58.4,6716,22.2,4163
+26/04/2024,South America,Switch,Puzzle,Mystic Legends,695,78.71,54703.45,20.49,40462.9
+26/04/2024,Europe,PS5,Sports,GoalMaster 24,788,60.71,47839.48,34.91,20330.4
+26/04/2024,North America,Switch,Action,Galaxy Wars,90,38.2,3438,25.37,1154.7
+26/04/2024,South America,Xbox,Adventure,Final Combat,989,56.26,55641.14,42.7,13410.84
+27/04/2024,North America,PC,Action,Brain Blox,574,56.85,32631.9,31.32,14654.22
+27/04/2024,Asia,PS5,RPG,StarBattle V,432,66.6,28771.2,29.8,15897.6
+27/04/2024,South America,Switch,Action,Dragon Realms,979,41.76,40883.04,22.01,19335.25
+27/04/2024,North America,Xbox,Racing,Brain Blox,776,68.6,53233.6,32.34,28137.76
+27/04/2024,Europe,PC,RPG,StarBattle V,540,31.99,17274.6,25.07,3736.8
+27/04/2024,North America,Switch,Adventure,Shadow Strike,650,37.85,24602.5,31.7,3997.5
+27/04/2024,North America,PC,Puzzle,City Architect,137,78.62,10770.94,18.81,8193.97
+27/04/2024,Asia,Switch,Shooter,Final Combat,298,39.4,11741.2,19.87,5819.94
+27/04/2024,Europe,PS5,Shooter,Turbo Racer,615,40.2,24723,27.93,7546.05
+27/04/2024,Europe,Xbox,Action,Shadow Strike,688,78.99,54345.12,29.82,33828.96
+27/04/2024,Asia,Xbox,Adventure,Lost Odyssey,916,46.61,42694.76,39.21,6778.4
+27/04/2024,South America,PS5,Racing,Galaxy Wars,866,69.33,60039.78,34.52,30145.46
+28/04/2024,North America,Xbox,RPG,Brain Blox,183,59.11,10817.13,28.83,5541.24
+28/04/2024,North America,Xbox,Puzzle,Fishing Frenzy,220,48.32,10630.4,42.67,1243
+28/04/2024,Asia,Xbox,Racing,Turbo Racer,227,47.73,10834.71,27.83,4517.3
+28/04/2024,North America,PS5,Sports,Final Combat,374,47.1,17615.4,39.99,2659.14
+29/04/2024,Asia,PS5,Action,Mystic Legends,555,48.16,26728.8,25.55,12548.55
+29/04/2024,Asia,PC,Shooter,GoalMaster 24,481,74.61,35887.41,34.97,19066.84
+29/04/2024,Europe,PC,Puzzle,City Architect,881,77.5,68277.5,27.27,44252.63
+29/04/2024,Asia,PC,Shooter,FarmLife Sim,639,57.69,36863.91,15.02,27266.13
+29/04/2024,South America,PC,Sports,Lost Odyssey,239,41.93,10021.27,29.21,3040.08
+29/04/2024,South America,PS5,Adventure,GoalMaster 24,852,64.86,55260.72,17.17,40631.88
+29/04/2024,Europe,PS5,Shooter,Brain Blox,234,64.64,15125.76,17.15,11112.66
+29/04/2024,North America,Switch,Shooter,Galaxy Wars,710,64.66,45908.6,28.25,25851.1
+30/04/2024,Asia,PC,Sports,Football Hero,659,32.63,21503.17,24.05,5654.22
+30/04/2024,South America,PC,Sports,Football Hero,937,68.09,63800.33,18.41,46550.16
+30/04/2024,South America,Xbox,Racing,City Architect,572,35.95,20563.4,38.72,-1584.44
+30/04/2024,South America,Switch,Sports,Galaxy Wars,664,61.65,40935.6,24.62,24587.92
+30/04/2024,Asia,Switch,Shooter,FarmLife Sim,641,61.49,39415.09,31.01,19537.68
+01/05/2024,Europe,PS5,Simulation,Shadow Strike,817,63.7,52042.9,35.06,23398.88
+01/05/2024,Asia,Switch,Shooter,Fishing Frenzy,459,37.82,17359.38,26.75,5081.13
+01/05/2024,North America,PS5,Adventure,Lost Odyssey,695,31.98,22226.1,22.85,6345.35
+01/05/2024,Europe,Switch,RPG,StarBattle V,939,71.33,66978.87,28.67,40057.74
+01/05/2024,South America,Switch,Sports,StarBattle V,300,72.33,21699,30.86,12441
+01/05/2024,North America,PC,Puzzle,Turbo Racer,314,64.74,20328.36,17.33,14886.74
+01/05/2024,Asia,Switch,Adventure,Football Hero,63,53.19,3350.97,21.25,2012.22
+01/05/2024,South America,Xbox,Shooter,Mech Arena,748,54.44,40721.12,38.24,12117.6
+01/05/2024,South America,PC,Sports,Brain Blox,488,61.94,30226.72,16.2,22321.12
+02/05/2024,South America,PS5,Simulation,FarmLife Sim,650,34.97,22730.5,34.97,0
+02/05/2024,Asia,Xbox,RPG,Brain Blox,812,30.89,25082.68,35.02,-3353.56
+02/05/2024,North America,Switch,Adventure,Shadow Strike,797,75.73,60356.81,38.4,29752.01
+02/05/2024,Asia,Xbox,Adventure,Mech Arena,899,37.97,34135.03,28.11,8864.14
+02/05/2024,North America,Xbox,Sports,City Architect,375,66.29,24858.75,25.96,15123.75
+02/05/2024,North America,Switch,Sports,FarmLife Sim,206,72.82,15000.92,31.12,8590.2
+02/05/2024,Asia,Switch,Puzzle,Brain Blox,435,38.61,16795.35,39.99,-600.3
+02/05/2024,South America,Xbox,RPG,Dragon Realms,544,58.46,31802.24,25.37,18000.96
+03/05/2024,South America,PS5,Adventure,FarmLife Sim,548,50.36,27597.28,34.28,8811.84
+03/05/2024,South America,PC,Adventure,Shadow Strike,432,78.03,33708.96,42.28,15444
+03/05/2024,South America,PC,Action,GoalMaster 24,376,47.66,17920.16,26.38,8001.28
+03/05/2024,Europe,PC,Puzzle,Turbo Racer,525,43.83,23010.75,16.59,14301
+03/05/2024,South America,PS5,Simulation,Mystic Legends,56,59.08,3308.48,29.84,1637.44
+03/05/2024,Europe,Xbox,Shooter,Mystic Legends,615,51.51,31678.65,35.5,9846.15
+03/05/2024,Asia,PS5,RPG,Brain Blox,578,78.33,45274.74,31.74,26929.02
+04/05/2024,Europe,PC,Action,Shadow Strike,751,34.36,25804.36,34.52,-120.16
+04/05/2024,North America,PC,Action,Fishing Frenzy,819,55.44,45405.36,29.31,21400.47
+04/05/2024,Europe,Switch,Puzzle,Dragon Realms,541,42.92,23219.72,31.63,6107.89
+05/05/2024,Europe,Switch,Sports,GoalMaster 24,468,71.74,33574.32,29.71,19670.04
+05/05/2024,Asia,Xbox,Sports,Lost Odyssey,603,40.17,24222.51,23.07,10311.3
+05/05/2024,South America,Xbox,Racing,Brain Blox,711,49.24,35009.64,30.82,13096.62
+05/05/2024,North America,Switch,Simulation,Mech Arena,310,39.85,12353.5,40.78,-288.3
+05/05/2024,North America,PS5,Action,Fishing Frenzy,502,48.54,24367.08,20.39,14131.3
+05/05/2024,Asia,Switch,Sports,Shadow Strike,954,39.61,37787.94,31.1,8118.54
+05/05/2024,Asia,Xbox,Racing,GoalMaster 24,416,79.3,32988.8,30.8,20176
+05/05/2024,Europe,Xbox,Action,GoalMaster 24,470,60.51,28439.7,20.15,18969.2
+06/05/2024,South America,Switch,Shooter,Galaxy Wars,723,72.4,52345.2,33.92,27821.04
+06/05/2024,Europe,Switch,Racing,Lost Odyssey,273,72.66,19836.18,42.29,8291.01
+06/05/2024,Europe,PS5,Simulation,Mystic Legends,232,43.47,10085.04,31.35,2811.84
+06/05/2024,North America,PS5,Simulation,FarmLife Sim,889,43.74,38884.86,41.99,1555.75
+06/05/2024,South America,Xbox,RPG,Mech Arena,907,46.63,42293.41,28.6,16353.21
+07/05/2024,South America,Switch,RPG,Galaxy Wars,382,56.29,21502.78,29.49,10237.6
+07/05/2024,North America,Xbox,Simulation,Shadow Strike,128,45.95,5881.6,32.41,1733.12
+07/05/2024,South America,Xbox,Puzzle,Turbo Racer,115,32.72,3762.8,23.56,1053.4
+07/05/2024,Asia,Switch,Racing,Mech Arena,715,68.43,48927.45,29.12,28106.65
+07/05/2024,Asia,PC,Action,Fishing Frenzy,309,32.91,10169.19,23.74,2833.53
+07/05/2024,Asia,Switch,Puzzle,Galaxy Wars,693,60.4,41857.2,27.45,22834.35
+07/05/2024,Asia,PS5,Simulation,Dragon Realms,550,46.86,25773,18.85,15405.5
+07/05/2024,Asia,Switch,Sports,Mech Arena,545,62.13,33860.85,26.37,19489.2
+07/05/2024,South America,PS5,Adventure,Lost Odyssey,197,63.11,12432.67,29.12,6696.03
+07/05/2024,Asia,Switch,Adventure,GoalMaster 24,587,39.19,23004.53,22.54,9773.55
+07/05/2024,Asia,Switch,RPG,Mech Arena,376,48.93,18397.68,17.63,11768.8
+08/05/2024,South America,PC,Adventure,StarBattle V,746,67.16,50101.36,36.49,22879.82
+08/05/2024,South America,Xbox,Action,Turbo Racer,59,66.17,3904.03,22.6,2570.63
+08/05/2024,South America,Switch,Shooter,GoalMaster 24,897,50.04,44885.88,22.11,25053.21
+08/05/2024,Europe,Xbox,Adventure,FarmLife Sim,516,60.82,31383.12,32.17,14783.4
+08/05/2024,North America,Switch,Racing,StarBattle V,290,59.03,17118.7,33.53,7395
+08/05/2024,North America,PC,Simulation,Galaxy Wars,944,72.89,68808.16,19.67,50239.68
+08/05/2024,Europe,PS5,RPG,Turbo Racer,680,41.35,28118,42.27,-625.6
+08/05/2024,Europe,PC,Adventure,City Architect,612,54.27,33213.24,31.22,14106.6
+08/05/2024,South America,Switch,Simulation,Football Hero,460,58.83,27061.8,20.73,17526
+08/05/2024,Europe,Xbox,Action,Shadow Strike,734,52.28,38373.52,18.95,24464.22
+08/05/2024,South America,Xbox,Racing,Mech Arena,529,51.58,27285.82,33.6,9511.42
+09/05/2024,South America,PC,Simulation,City Architect,394,66.97,26386.18,29.26,14857.74
+09/05/2024,North America,PS5,Racing,Lost Odyssey,988,50.89,50279.32,26.08,24512.28
+09/05/2024,North America,PC,RPG,Final Combat,62,63.13,3914.06,17.34,2838.98
+09/05/2024,North America,PS5,Sports,Dragon Realms,50,38.22,1911,32.91,265.5
+09/05/2024,South America,Xbox,Adventure,GoalMaster 24,366,70.24,25707.84,16.91,19518.78
+09/05/2024,Europe,PC,Racing,Lost Odyssey,95,57.31,5444.45,39.23,1717.6
+09/05/2024,Europe,PC,Adventure,Brain Blox,927,45.89,42540.03,18.4,25483.23
+09/05/2024,Asia,Switch,Sports,GoalMaster 24,278,72.62,20188.36,15.35,15921.06
+09/05/2024,Asia,PC,Adventure,Final Combat,753,37.66,28357.98,21.7,12017.88
+09/05/2024,Europe,Xbox,Puzzle,Football Hero,132,40.29,5318.28,18.51,2874.96
+09/05/2024,Asia,PC,Puzzle,Lost Odyssey,139,47.14,6552.46,16.64,4239.5
+09/05/2024,Asia,Switch,Action,Shadow Strike,316,60.03,18969.48,22.43,11881.6
+09/05/2024,Europe,PS5,Sports,Shadow Strike,665,52.33,34799.45,35.09,11464.6
+09/05/2024,Europe,PC,RPG,Lost Odyssey,648,65.67,42554.16,15.39,32581.44
+10/05/2024,Asia,Switch,Shooter,Shadow Strike,408,65.03,26532.24,16.09,19967.52
+10/05/2024,South America,PC,Simulation,Brain Blox,421,67.42,28383.82,23.04,18683.98
+10/05/2024,South America,Switch,Action,City Architect,258,34.06,8787.48,28.55,1421.58
+10/05/2024,Europe,Switch,Sports,FarmLife Sim,583,45.05,26264.15,33.64,6652.03
+10/05/2024,Asia,Xbox,Action,Mystic Legends,166,57.85,9603.1,21.3,6067.3
+10/05/2024,Europe,PC,RPG,Mystic Legends,230,76.76,17654.8,24.28,12070.4
+10/05/2024,Europe,Xbox,Puzzle,Lost Odyssey,264,68.11,17981.04,37.81,7999.2
+10/05/2024,North America,PS5,Simulation,Lost Odyssey,134,43.17,5784.78,35.31,1053.24
+10/05/2024,North America,PS5,Puzzle,Lost Odyssey,767,51.67,39630.89,15.63,27642.68
+10/05/2024,Europe,PS5,Action,Lost Odyssey,292,56.42,16474.64,30.08,7691.28
+11/05/2024,Europe,Xbox,Simulation,Final Combat,880,31.61,27816.8,37.6,-5271.2
+11/05/2024,South America,PC,Racing,Fishing Frenzy,238,31.94,7601.72,34.86,-694.96
+11/05/2024,North America,PS5,Puzzle,Mystic Legends,670,61.43,41158.1,33.4,18780.1
+11/05/2024,North America,Switch,Sports,Turbo Racer,547,61.12,33432.64,44.97,8834.05
+11/05/2024,Europe,PS5,Adventure,Brain Blox,459,53.35,24487.65,34.91,8463.96
+11/05/2024,South America,PC,Sports,Fishing Frenzy,92,46.38,4266.96,32.31,1294.44
+11/05/2024,Europe,Switch,Puzzle,Fishing Frenzy,846,68.48,57934.08,36.44,27105.84
+11/05/2024,South America,PC,Shooter,Lost Odyssey,92,53.75,4945,34.74,1748.92
+11/05/2024,North America,PS5,Adventure,Mech Arena,203,39.41,8000.23,31.97,1510.32
+12/05/2024,North America,PC,RPG,Fishing Frenzy,651,63.45,41305.95,27.08,23676.87
+12/05/2024,Europe,Xbox,RPG,StarBattle V,423,36.65,15502.95,22.51,5981.22
+12/05/2024,South America,Switch,Shooter,FarmLife Sim,128,51.79,6629.12,43.21,1098.24
+12/05/2024,Europe,PC,Racing,Final Combat,391,55.67,21766.97,43.37,4809.3
+12/05/2024,Asia,Xbox,Adventure,FarmLife Sim,84,36.3,3049.2,23.11,1107.96
+12/05/2024,Europe,PC,Sports,FarmLife Sim,317,51.88,16445.96,36.61,4840.59
+12/05/2024,North America,Xbox,Adventure,Final Combat,670,63.83,42766.1,19.42,29754.7
+12/05/2024,Europe,Xbox,Action,Mech Arena,595,55.02,32736.9,32.78,13232.8
+13/05/2024,South America,Xbox,Sports,StarBattle V,709,41.77,29614.93,36.04,4062.57
+13/05/2024,North America,PC,Simulation,GoalMaster 24,807,75.55,60968.85,18.67,45902.16
+13/05/2024,Europe,Xbox,Sports,Shadow Strike,260,54.16,14081.6,26.11,7293
+13/05/2024,South America,PS5,RPG,Galaxy Wars,560,58.67,32855.2,23.97,19432
+13/05/2024,North America,Xbox,RPG,Mystic Legends,361,56.64,20447.04,22.5,12324.54
+13/05/2024,Asia,Switch,Sports,Lost Odyssey,670,76.41,51194.7,36.26,26900.5
+13/05/2024,South America,PS5,Shooter,GoalMaster 24,595,30.84,18349.8,19.15,6955.55
+13/05/2024,North America,PS5,Racing,Shadow Strike,712,78.77,56084.24,25.95,37607.84
+13/05/2024,Europe,Xbox,Puzzle,StarBattle V,587,52.12,30594.44,26.2,15215.04
+14/05/2024,Asia,Switch,Puzzle,Final Combat,987,36.71,36232.77,23.57,12969.18
+14/05/2024,Europe,Xbox,Racing,City Architect,128,32.22,4124.16,29.89,298.24
+14/05/2024,North America,Switch,Puzzle,Shadow Strike,551,67.11,36977.61,28.13,21477.98
+14/05/2024,South America,Switch,Simulation,Mech Arena,996,58.21,57977.16,42.79,15358.32
+14/05/2024,South America,PS5,Racing,Galaxy Wars,207,61.28,12684.96,31.84,6094.08
+14/05/2024,Europe,Xbox,Simulation,Final Combat,220,39.9,8778,44.92,-1104.4
+14/05/2024,South America,Switch,Racing,Shadow Strike,220,47.38,10423.6,19.1,6221.6
+14/05/2024,Europe,Xbox,Shooter,GoalMaster 24,665,40.79,27125.35,16.66,16046.45
+14/05/2024,Asia,PS5,Adventure,Galaxy Wars,476,52.76,25113.76,24.49,13456.52
+15/05/2024,South America,Xbox,Sports,Shadow Strike,340,55.08,18727.2,18.39,12474.6
+15/05/2024,Europe,Xbox,Sports,Final Combat,898,76.5,68697,17,53431
+15/05/2024,Asia,Xbox,Action,Lost Odyssey,107,63.34,6777.38,21.77,4447.99
+15/05/2024,North America,PC,Adventure,StarBattle V,124,61.39,7612.36,17.98,5382.84
+15/05/2024,North America,Xbox,RPG,Turbo Racer,476,52.22,24856.72,17.68,16441.04
+15/05/2024,South America,PS5,Puzzle,Turbo Racer,158,52.44,8285.52,41.44,1738
+15/05/2024,South America,PC,Simulation,Brain Blox,589,64.57,38031.73,32.57,18848
+16/05/2024,Europe,Switch,Racing,FarmLife Sim,989,48.33,47798.37,37.45,10760.32
+16/05/2024,Asia,Xbox,Shooter,Football Hero,991,72.19,71540.29,18.53,53177.06
+16/05/2024,Asia,Switch,Simulation,GoalMaster 24,958,34.24,32801.92,15.25,18192.42
+16/05/2024,South America,PS5,Puzzle,Dragon Realms,927,71.59,66363.93,39.32,29914.29
+16/05/2024,South America,Switch,Action,Fishing Frenzy,851,52.88,45000.88,35.25,15003.13
+16/05/2024,North America,PS5,RPG,Mystic Legends,393,71.5,28099.5,15.25,22106.25
+16/05/2024,North America,PC,Racing,Mech Arena,324,52.91,17142.84,38.78,4578.12
+16/05/2024,South America,PC,Puzzle,FarmLife Sim,438,33.92,14856.96,23.59,4524.54
+16/05/2024,Asia,PC,Action,Galaxy Wars,93,74.55,6933.15,24.48,4656.51
+16/05/2024,South America,PS5,Shooter,City Architect,963,50.33,48467.79,20.05,29159.64
+16/05/2024,South America,Switch,Sports,Shadow Strike,269,54.91,14770.79,34.02,5619.41
+17/05/2024,Europe,Xbox,Simulation,GoalMaster 24,845,40.86,34526.7,25.79,12734.15
+17/05/2024,North America,PS5,Shooter,City Architect,807,34.95,28204.65,25.91,7295.28
+17/05/2024,North America,PC,Shooter,GoalMaster 24,437,45.18,19743.66,36.44,3819.38
+17/05/2024,Asia,Xbox,Sports,City Architect,64,76.43,4891.52,28.28,3081.6
+17/05/2024,North America,PS5,Shooter,Dragon Realms,118,42.77,5046.86,25.23,2069.72
+17/05/2024,Asia,PS5,Action,Mystic Legends,389,73.34,28529.26,27.65,17773.41
+18/05/2024,South America,Xbox,Shooter,City Architect,124,76.62,9500.88,28.49,5968.12
+18/05/2024,Asia,PS5,RPG,Lost Odyssey,670,53.19,35637.3,23.35,19992.8
+18/05/2024,North America,Switch,Adventure,Fishing Frenzy,160,77.65,12424,38.78,6219.2
+19/05/2024,Europe,PS5,Shooter,Turbo Racer,671,74.25,49821.75,34.01,27001.04
+19/05/2024,Europe,PS5,Simulation,Final Combat,377,54.28,20463.56,24.76,11129.04
+19/05/2024,South America,PS5,Adventure,City Architect,228,60.15,13714.2,17.16,9801.72
+19/05/2024,Asia,PC,Adventure,Shadow Strike,322,48.66,15668.52,27.78,6723.36
+19/05/2024,Asia,PC,Simulation,Galaxy Wars,877,32.57,28563.89,21.46,9743.47
+19/05/2024,North America,PC,Sports,Mystic Legends,655,52.31,34263.05,43.04,6071.85
+19/05/2024,Asia,Xbox,Action,Football Hero,224,46.68,10456.32,32.39,3200.96
+19/05/2024,North America,PC,RPG,Shadow Strike,537,36.35,19519.95,16.84,10476.87
+20/05/2024,Europe,PC,Sports,Mech Arena,567,68.3,38726.1,38.14,17100.72
+20/05/2024,Europe,Xbox,Puzzle,Mystic Legends,392,57.52,22547.84,35.78,8522.08
+20/05/2024,South America,PS5,Adventure,Turbo Racer,712,71.71,51057.52,31.52,28615.28
+20/05/2024,Europe,PC,Shooter,Football Hero,895,56.97,50988.15,24.77,28819
+20/05/2024,North America,Switch,Sports,GoalMaster 24,762,51.37,39143.94,32.73,14203.68
+20/05/2024,Europe,Xbox,Simulation,GoalMaster 24,761,34.42,26193.62,17.81,12640.21
+20/05/2024,South America,Xbox,Adventure,Turbo Racer,201,46.47,9340.47,29.71,3368.76
+20/05/2024,South America,PC,Sports,Galaxy Wars,578,55.59,32131.02,26.84,16617.5
+20/05/2024,Asia,Switch,Racing,Turbo Racer,589,60.51,35640.39,29.51,18259
+20/05/2024,Europe,Xbox,Action,City Architect,143,55.91,7995.13,27.45,4069.78
+21/05/2024,Europe,Switch,Action,Mech Arena,799,42.9,34277.1,22.24,16507.34
+21/05/2024,Asia,Switch,RPG,Shadow Strike,734,39.87,29264.58,25.02,10899.9
+21/05/2024,South America,PC,Action,Lost Odyssey,785,52.55,41251.75,27.71,19499.4
+21/05/2024,South America,PS5,Adventure,Final Combat,902,37.78,34077.56,35.34,2200.88
+21/05/2024,Europe,Switch,Puzzle,Football Hero,119,59.67,7100.73,20.29,4686.22
+21/05/2024,Europe,PC,Racing,Brain Blox,237,40.93,9700.41,21.96,4495.89
+21/05/2024,South America,PC,Shooter,FarmLife Sim,954,74.66,71225.64,28.93,43626.42
+22/05/2024,North America,Switch,Shooter,Shadow Strike,454,56.77,25773.58,38.99,8072.12
+22/05/2024,Asia,Switch,Simulation,Brain Blox,892,63.31,56472.52,20.45,38231.12
+22/05/2024,North America,Switch,Shooter,Shadow Strike,62,55.9,3465.8,35.94,1237.52
+22/05/2024,Asia,PC,Action,Mech Arena,401,70.25,28170.25,41.12,11681.13
+22/05/2024,North America,Xbox,Adventure,Turbo Racer,249,31.83,7925.67,25.69,1528.86
+22/05/2024,Europe,PS5,Puzzle,City Architect,749,78.27,58624.23,26.83,38528.56
+22/05/2024,South America,PS5,Racing,Fishing Frenzy,968,76.42,73974.56,24.3,50452.16
+23/05/2024,Europe,PC,RPG,Final Combat,322,40.17,12934.74,19.56,6636.42
+23/05/2024,Europe,Xbox,Adventure,GoalMaster 24,352,53.88,18965.76,32.77,7430.72
+23/05/2024,Europe,Xbox,Simulation,FarmLife Sim,810,32.55,26365.5,20.6,9679.5
+23/05/2024,South America,Xbox,Action,City Architect,942,69.13,65120.46,22.7,43737.06
+23/05/2024,South America,PS5,Adventure,Mech Arena,899,67.58,60754.42,22.22,40778.64
+23/05/2024,South America,PC,Simulation,Final Combat,472,68.08,32133.76,21.58,21948
+23/05/2024,North America,Xbox,Sports,StarBattle V,821,63.85,52420.85,25.16,31764.49
+23/05/2024,Asia,PS5,Puzzle,GoalMaster 24,78,52.27,4077.06,21.21,2422.68
+23/05/2024,Europe,PC,Simulation,Turbo Racer,974,41.9,40810.6,22.97,18437.82
+23/05/2024,Asia,Xbox,Shooter,FarmLife Sim,71,77.41,5496.11,20.01,4075.4
+23/05/2024,Asia,PC,Shooter,Football Hero,529,58.77,31089.33,37.69,11151.32
+23/05/2024,South America,Xbox,Adventure,Mech Arena,177,35.41,6267.57,28.15,1285.02
+24/05/2024,North America,Xbox,Shooter,Football Hero,430,30.79,13239.7,30.74,21.5
+24/05/2024,Asia,Switch,Adventure,Dragon Realms,123,33.23,4087.29,16.66,2038.11
+24/05/2024,South America,Xbox,RPG,GoalMaster 24,540,70.63,38140.2,33.88,19845
+24/05/2024,Asia,Switch,Racing,GoalMaster 24,862,71.93,62003.66,42.24,25592.78
+24/05/2024,Asia,Xbox,Puzzle,Mech Arena,175,37.27,6522.25,22.95,2506
+24/05/2024,Asia,PC,Action,Galaxy Wars,942,37.32,35155.44,30.06,6838.92
+24/05/2024,Europe,PC,Shooter,Galaxy Wars,258,34.64,8937.12,43.13,-2190.42
+24/05/2024,Europe,PC,Sports,Galaxy Wars,179,72.17,12918.43,41.92,5414.75
+24/05/2024,Asia,Xbox,Simulation,FarmLife Sim,779,41.41,32258.39,21.92,15182.71
+24/05/2024,Europe,Switch,Action,Galaxy Wars,433,33.49,14501.17,16.99,7144.5
+24/05/2024,Asia,Switch,Action,Brain Blox,988,68.38,67559.44,17.36,50407.76
+24/05/2024,North America,Xbox,Shooter,Turbo Racer,552,52.49,28974.48,32.97,10775.04
+24/05/2024,North America,PC,Simulation,Brain Blox,977,44.45,43427.65,26.95,17097.5
+25/05/2024,South America,PS5,Shooter,StarBattle V,874,71.37,62377.38,26.61,39120.24
+25/05/2024,Asia,PC,Sports,StarBattle V,886,35.96,31860.56,26.16,8682.8
+25/05/2024,North America,PC,Adventure,Shadow Strike,951,32.84,31230.84,37.16,-4108.32
+25/05/2024,Europe,Xbox,Shooter,Turbo Racer,777,65.37,50792.49,20.75,34669.74
+25/05/2024,North America,Xbox,Simulation,Turbo Racer,596,52.28,31158.88,30.96,12706.72
+25/05/2024,North America,PC,Racing,FarmLife Sim,76,70.54,5361.04,22.71,3635.08
+25/05/2024,North America,PS5,Sports,Galaxy Wars,800,38.69,30952,35.64,2440
+25/05/2024,Europe,Switch,Action,Mystic Legends,274,52.96,14511.04,34.44,5074.48
+25/05/2024,Asia,Switch,RPG,Dragon Realms,440,79.14,34821.6,37.36,18383.2
+26/05/2024,Europe,Xbox,Shooter,Brain Blox,840,45.47,38194.8,17.66,23360.4
+26/05/2024,Europe,Switch,Sports,Fishing Frenzy,904,71.31,64464.24,27.98,39170.32
+26/05/2024,South America,PC,RPG,GoalMaster 24,678,75.63,51277.14,39.55,24462.24
+26/05/2024,South America,PS5,Action,Lost Odyssey,556,71.47,39737.32,22,27505.32
+26/05/2024,South America,PC,Action,Dragon Realms,998,34.51,34440.98,16.47,18003.92
+26/05/2024,South America,PS5,Racing,Lost Odyssey,940,46.85,44039,37.86,8450.6
+26/05/2024,Europe,PC,Action,Fishing Frenzy,264,61.17,16148.88,35.57,6758.4
+26/05/2024,Europe,Switch,Racing,Fishing Frenzy,166,79.27,13158.82,19.89,9857.08
+26/05/2024,North America,PS5,Racing,Final Combat,205,78.94,16182.7,20.13,12056.05
+26/05/2024,South America,PS5,Sports,Mech Arena,74,42.87,3172.38,28.47,1065.6
+26/05/2024,South America,PC,RPG,Mech Arena,478,66.34,31710.52,40.05,12566.62
+26/05/2024,South America,Xbox,Sports,Turbo Racer,224,42.19,9450.56,21.89,4547.2
+27/05/2024,North America,Switch,Shooter,Mystic Legends,543,70.1,38064.3,30.4,21557.1
+27/05/2024,Asia,Switch,Sports,Turbo Racer,397,62.42,24780.74,41.96,8122.62
+27/05/2024,North America,Switch,Action,Mech Arena,962,49.68,47792.16,40.71,8629.14
+27/05/2024,Asia,PS5,Adventure,Dragon Realms,661,68.63,45364.43,17.17,34015.06
+27/05/2024,North America,PS5,Adventure,City Architect,50,70.43,3521.5,15.63,2740
+27/05/2024,Asia,Switch,Shooter,Galaxy Wars,547,40.08,21923.76,40.95,-475.89
+27/05/2024,Europe,PC,Simulation,Final Combat,625,67.56,42225,35.82,19837.5
+27/05/2024,Asia,Switch,Puzzle,Mech Arena,734,35.62,26145.08,39.08,-2539.64
+27/05/2024,North America,Switch,Puzzle,Final Combat,911,61.15,55707.65,17.54,39728.71
+28/05/2024,Europe,PC,Action,Fishing Frenzy,631,48.86,30830.66,15.04,21340.42
+28/05/2024,Europe,Xbox,Sports,Lost Odyssey,174,41.93,7295.82,16.13,4489.2
+28/05/2024,North America,Switch,Shooter,Turbo Racer,491,33.64,16517.24,33.44,98.2
+28/05/2024,North America,PS5,Puzzle,City Architect,213,49.13,10464.69,31.57,3740.28
+28/05/2024,Europe,Xbox,RPG,Brain Blox,628,77.58,48720.24,27.87,31217.88
+28/05/2024,Europe,Switch,Racing,Mech Arena,207,75.58,15645.06,31.7,9083.16
+28/05/2024,Europe,PC,Racing,Final Combat,933,67.07,62576.31,38.1,27029.01
+29/05/2024,North America,Xbox,RPG,StarBattle V,603,34.67,20906.01,35.82,-693.45
+29/05/2024,Europe,PS5,Racing,Galaxy Wars,336,49.11,16500.96,18.46,10298.4
+29/05/2024,Europe,PS5,RPG,Final Combat,195,65.11,12696.45,28.45,7148.7
+29/05/2024,Europe,Switch,RPG,Mystic Legends,741,52.63,38998.83,18.93,24971.7
+29/05/2024,North America,PS5,Shooter,Football Hero,660,40.59,26789.4,21.83,12381.6
+29/05/2024,Europe,PS5,Action,Football Hero,759,72.41,54959.19,36.69,27111.48
+30/05/2024,Asia,Xbox,Action,Brain Blox,70,37.83,2648.1,29.59,576.8
+30/05/2024,Europe,PC,RPG,Mech Arena,268,75.99,20365.32,34.34,11162.2
+30/05/2024,North America,PC,Adventure,FarmLife Sim,160,55.93,8948.8,16.16,6363.2
+30/05/2024,Europe,PS5,Racing,Final Combat,148,44.96,6654.08,18.87,3861.32
+30/05/2024,South America,Switch,Puzzle,Brain Blox,672,71.06,47752.32,15.28,37484.16
+30/05/2024,South America,Switch,Adventure,FarmLife Sim,524,66.37,34777.88,28.8,19686.68
+30/05/2024,North America,Xbox,Sports,Turbo Racer,491,38.3,18805.3,37.1,589.2
+30/05/2024,North America,Xbox,Adventure,Final Combat,260,66.85,17381,19.65,12272
+30/05/2024,Europe,Xbox,RPG,City Architect,831,53.42,44392.02,37.39,13320.93
+30/05/2024,Asia,Switch,Puzzle,City Architect,586,53.28,31222.08,20.94,18951.24
+30/05/2024,Asia,PC,Shooter,City Architect,562,69.69,39165.78,41.82,15662.94
+30/05/2024,Asia,Xbox,Puzzle,Brain Blox,105,45.84,4813.2,34.26,1215.9
+30/05/2024,Europe,PS5,Shooter,Lost Odyssey,436,48.78,21268.08,27.14,9435.04
+31/05/2024,Asia,Xbox,Racing,GoalMaster 24,58,66.81,3874.98,21.02,2655.82
+31/05/2024,Europe,Xbox,Adventure,Shadow Strike,970,59.32,57540.4,41.26,17518.2
+31/05/2024,Asia,Xbox,Puzzle,City Architect,567,72.57,41147.19,29.89,24199.56
+31/05/2024,Asia,Xbox,Racing,Football Hero,406,31.96,12975.76,26.95,2034.06
+31/05/2024,North America,PC,Simulation,Shadow Strike,698,31.38,21903.24,31.49,-76.78
+31/05/2024,North America,PS5,Racing,Turbo Racer,228,33.39,7612.92,43.61,-2330.16
+31/05/2024,North America,PS5,Simulation,Galaxy Wars,347,44.26,15358.22,17.58,9257.96
+31/05/2024,North America,Switch,Puzzle,Mech Arena,81,68.89,5580.09,24.46,3598.83
+31/05/2024,South America,PC,Puzzle,Final Combat,269,58.87,15836.03,32.89,6988.62
+31/05/2024,South America,Xbox,Puzzle,City Architect,369,43.77,16151.13,17.18,9811.71
+31/05/2024,Asia,PC,Adventure,Shadow Strike,364,49.54,18032.56,35.32,5176.08
+31/05/2024,North America,PC,Puzzle,Fishing Frenzy,847,34.09,28874.23,33.74,296.45
+31/05/2024,North America,Xbox,Adventure,City Architect,792,47.08,37287.36,23.07,19015.92
+31/05/2024,Europe,Switch,RPG,Mech Arena,295,77.06,22732.7,15.48,18166.1
+31/05/2024,North America,PC,Action,StarBattle V,99,43.4,4296.6,15.27,2784.87
+01/06/2024,North America,PC,Shooter,Shadow Strike,699,44.13,30846.87,23.84,14182.71
+01/06/2024,Europe,Switch,Puzzle,City Architect,584,72.57,42380.88,17.63,32084.96
+01/06/2024,North America,Xbox,Sports,Fishing Frenzy,134,31.22,4183.48,33.03,-242.54
+01/06/2024,North America,Switch,Racing,Brain Blox,974,54.9,53472.6,36.18,18233.28
+01/06/2024,Europe,Xbox,Racing,Fishing Frenzy,815,39.21,31956.15,24.11,12306.5
+01/06/2024,Europe,Switch,Simulation,Lost Odyssey,77,72.18,5557.86,29.46,3289.44
+01/06/2024,Europe,PS5,RPG,GoalMaster 24,166,76.34,12672.44,15.38,10119.36
+01/06/2024,Asia,Xbox,Shooter,Mystic Legends,669,53.25,35624.25,36.36,11299.41
+01/06/2024,North America,PC,Action,Mystic Legends,750,72.5,54375,30.38,31590
+02/06/2024,Asia,PS5,Action,StarBattle V,667,62.94,41980.98,24.62,25559.44
+02/06/2024,Europe,Xbox,Puzzle,Shadow Strike,650,58.45,37992.5,23.87,22477
+02/06/2024,Asia,Xbox,Sports,Fishing Frenzy,551,60.8,33500.8,33.12,15251.68
+02/06/2024,Asia,PS5,Action,Lost Odyssey,832,70.49,58647.68,38.06,26981.76
+02/06/2024,South America,Xbox,RPG,Mech Arena,521,31.05,16177.05,17.23,7200.22
+02/06/2024,South America,PC,RPG,Fishing Frenzy,887,67.84,60174.08,28.9,34539.78
+02/06/2024,Asia,Xbox,Racing,Galaxy Wars,91,38.32,3487.12,38.11,19.11
+02/06/2024,North America,Switch,Sports,Turbo Racer,616,39.74,24479.84,30.55,5661.04
+02/06/2024,South America,PC,Action,Galaxy Wars,229,63.53,14548.37,18.1,10403.47
+02/06/2024,Asia,Switch,RPG,Brain Blox,895,40.87,36578.65,41.01,-125.3
+02/06/2024,North America,PS5,Simulation,Mech Arena,70,54.39,3807.3,17.68,2569.7
+02/06/2024,Europe,PS5,Racing,Shadow Strike,984,39.08,38454.72,40.64,-1535.04
+02/06/2024,South America,PS5,Shooter,Lost Odyssey,920,75.78,69717.6,29.78,42320
+03/06/2024,Asia,PS5,Sports,Lost Odyssey,807,42.63,34402.41,20.74,17665.23
+03/06/2024,North America,Switch,Simulation,Brain Blox,970,64.21,62283.7,17.35,45454.2
+03/06/2024,Asia,PC,Simulation,Mech Arena,648,76.99,49889.52,44.68,20936.88
+03/06/2024,North America,PC,Racing,Mech Arena,951,51.88,49337.88,23.17,27303.21
+03/06/2024,South America,Switch,RPG,Dragon Realms,551,30.65,16888.15,18.28,6815.87
+03/06/2024,Europe,Switch,Puzzle,City Architect,322,72.65,23393.3,30.17,13678.56
+03/06/2024,Europe,PS5,Simulation,Lost Odyssey,57,58.46,3332.22,42.17,928.53
+03/06/2024,South America,PS5,Sports,Football Hero,161,51.06,8220.66,30.51,3308.55
+04/06/2024,Asia,Xbox,Simulation,StarBattle V,481,45.77,22015.37,21.04,11895.13
+04/06/2024,Europe,Xbox,Adventure,GoalMaster 24,824,79.45,65466.8,37.33,34706.88
+05/06/2024,North America,PC,Action,Brain Blox,71,78.94,5604.74,15.68,4491.46
+05/06/2024,North America,Xbox,Shooter,Lost Odyssey,976,52.97,51698.72,25.11,27191.36
+05/06/2024,South America,PS5,Action,Dragon Realms,833,67.66,56360.78,39.62,23357.32
+05/06/2024,South America,PS5,Simulation,Football Hero,660,36.79,24281.4,29.31,4936.8
+05/06/2024,South America,PC,Shooter,Turbo Racer,226,42.15,9525.9,16.97,5690.68
+05/06/2024,Europe,Xbox,Action,City Architect,147,63.29,9303.63,32.98,4455.57
+05/06/2024,Asia,Xbox,Adventure,Galaxy Wars,579,44.48,25753.92,37.58,3995.1
+05/06/2024,North America,Xbox,Action,GoalMaster 24,974,65.32,63621.68,38.49,26132.42
+06/06/2024,Asia,Switch,Racing,Dragon Realms,606,46.44,28142.64,18.91,16683.18
+06/06/2024,Europe,Xbox,Sports,Turbo Racer,156,79.41,12387.96,34.44,7015.32
+06/06/2024,Europe,Xbox,Shooter,City Architect,347,76.65,26597.55,33.7,14903.65
+06/06/2024,Asia,PS5,Adventure,Shadow Strike,255,75.56,19267.8,19.23,14364.15
+06/06/2024,South America,PS5,Adventure,Fishing Frenzy,238,32.86,7820.68,17.69,3610.46
+06/06/2024,Europe,Xbox,Sports,City Architect,812,69.88,56742.56,35.38,28014
+06/06/2024,North America,Xbox,Adventure,FarmLife Sim,648,61.15,39625.2,44.06,11074.32
+06/06/2024,North America,PS5,Shooter,Turbo Racer,475,30.7,14582.5,27.49,1524.75
+07/06/2024,South America,Switch,Racing,Turbo Racer,367,56.49,20731.83,28.72,10191.59
+07/06/2024,South America,Xbox,Shooter,FarmLife Sim,383,37.39,14320.37,41.81,-1692.86
+07/06/2024,South America,PS5,Sports,Football Hero,142,33.63,4775.46,24.81,1252.44
+07/06/2024,South America,PC,Simulation,Galaxy Wars,908,62.04,56332.32,17.57,40378.76
+07/06/2024,Europe,Switch,Simulation,Football Hero,176,73.39,12916.64,34.38,6865.76
+08/06/2024,South America,PS5,Action,Turbo Racer,75,57.63,4322.25,31.86,1932.75
+08/06/2024,South America,PS5,RPG,Final Combat,719,40.19,28896.61,23.41,12064.82
+08/06/2024,Asia,PC,Shooter,Turbo Racer,63,32.38,2039.94,41.42,-569.52
+08/06/2024,South America,PS5,Action,FarmLife Sim,545,79.57,43365.65,30.96,26492.45
+08/06/2024,South America,Xbox,Simulation,City Architect,769,72.59,55821.71,35.99,28145.4
+08/06/2024,Asia,PS5,RPG,GoalMaster 24,938,57.95,54357.1,27.36,28693.42
+08/06/2024,Europe,PS5,Racing,Galaxy Wars,244,64.38,15708.72,27.48,9003.6
+08/06/2024,Asia,PC,Adventure,GoalMaster 24,988,62.36,61611.68,30.11,31863
+08/06/2024,Europe,Xbox,RPG,GoalMaster 24,281,45.77,12861.37,30.7,4234.67
+08/06/2024,North America,Xbox,Racing,Final Combat,996,56.91,56682.36,31.66,25149
+09/06/2024,Asia,PS5,Adventure,Football Hero,477,58.82,28057.14,16.19,20334.51
+09/06/2024,South America,Switch,RPG,FarmLife Sim,631,38.95,24577.45,30.09,5590.66
+09/06/2024,South America,PS5,Adventure,Shadow Strike,946,50.12,47413.52,37.52,11919.6
+09/06/2024,South America,PC,Puzzle,Brain Blox,888,54.54,48431.52,33.46,18719.04
+09/06/2024,Asia,Switch,Puzzle,FarmLife Sim,274,43.7,11973.8,36.6,1945.4
+09/06/2024,Europe,PC,Sports,Lost Odyssey,635,52.02,33032.7,22.73,18599.15
+09/06/2024,Europe,PS5,Shooter,FarmLife Sim,562,73.47,41290.14,34.84,21710.06
+09/06/2024,North America,PC,Racing,Lost Odyssey,327,71.31,23318.37,19.79,16847.04
+09/06/2024,Europe,Xbox,Puzzle,City Architect,757,48.8,36941.6,20.37,21521.51
+09/06/2024,South America,PS5,Adventure,GoalMaster 24,607,49.74,30192.18,40.23,5772.57
+09/06/2024,North America,PC,Simulation,Shadow Strike,471,76.9,36219.9,31.3,21477.6
+09/06/2024,Europe,Xbox,Racing,Brain Blox,249,77.6,19322.4,35.58,10462.98
+09/06/2024,South America,PC,Simulation,Final Combat,416,63.81,26544.96,22.18,17318.08
+09/06/2024,South America,Xbox,Action,Mystic Legends,538,66.26,35647.88,29.93,19545.54
+09/06/2024,North America,PC,Sports,Shadow Strike,638,73.85,47116.3,39.13,22151.36
+10/06/2024,Europe,Switch,Sports,FarmLife Sim,609,46.54,28342.86,28.8,10803.66
+10/06/2024,Europe,PC,Racing,Mystic Legends,469,77.66,36422.54,16.41,28726.25
+10/06/2024,South America,Xbox,RPG,GoalMaster 24,617,31.09,19182.53,17.81,8193.76
+10/06/2024,North America,Switch,Shooter,Final Combat,344,73.71,25356.24,23.43,17296.32
+10/06/2024,North America,Switch,Simulation,Dragon Realms,780,70.78,55208.4,21.65,38321.4
+10/06/2024,Asia,Xbox,RPG,Brain Blox,237,48.98,11608.26,22.51,6273.39
+10/06/2024,South America,Switch,Simulation,Turbo Racer,964,65.6,63238.4,21.32,42685.92
+10/06/2024,North America,PS5,Action,City Architect,462,54.44,25151.28,23.32,14377.44
+11/06/2024,Asia,Switch,Shooter,Mystic Legends,382,49.3,18832.6,20.18,11123.84
+11/06/2024,Europe,PS5,RPG,Fishing Frenzy,869,70.08,60899.52,42.9,23619.42
+11/06/2024,Asia,Switch,Action,Turbo Racer,606,76.38,46286.28,39.18,22543.2
+11/06/2024,Europe,Switch,Simulation,Mech Arena,978,35.46,34679.88,20.89,14249.46
+11/06/2024,North America,PC,Action,FarmLife Sim,755,56.37,42559.35,44.96,8614.55
+11/06/2024,Europe,PS5,Action,Brain Blox,974,42.94,41823.56,15.74,26492.8
+12/06/2024,North America,PS5,Simulation,Football Hero,707,48.1,34006.7,37.95,7176.05
+12/06/2024,North America,PS5,Sports,Dragon Realms,526,57.09,30029.34,26.92,15869.42
+12/06/2024,South America,Switch,Adventure,Final Combat,487,74.95,36500.65,41.89,16100.22
+12/06/2024,Europe,Xbox,Puzzle,Turbo Racer,552,34.53,19060.56,25.65,4901.76
+12/06/2024,Europe,PS5,RPG,Football Hero,340,66.4,22576,43.52,7779.2
+12/06/2024,Asia,Xbox,Action,Fishing Frenzy,190,40.67,7727.3,28.4,2331.3
+12/06/2024,Europe,Switch,Sports,Galaxy Wars,895,65.19,58345.05,39.58,22920.95
+12/06/2024,North America,Switch,Adventure,Galaxy Wars,658,47.5,31255,43.11,2888.62
+12/06/2024,South America,PS5,Sports,Brain Blox,732,38.43,28130.76,19.44,13900.68
+12/06/2024,South America,PS5,Action,Brain Blox,568,76.46,43429.28,39.1,21220.48
+12/06/2024,North America,PC,RPG,Turbo Racer,698,73.47,51282.06,15.85,40218.76
+13/06/2024,Asia,PC,RPG,City Architect,73,64,4672,34.52,2152.04
+13/06/2024,Asia,PS5,Puzzle,GoalMaster 24,328,36.01,11811.28,33.42,849.52
+13/06/2024,Europe,Xbox,Sports,Galaxy Wars,748,44.62,33375.76,19.57,18737.4
+13/06/2024,North America,Xbox,Simulation,StarBattle V,791,51.08,40404.28,42.62,6691.86
+13/06/2024,South America,PS5,Puzzle,Galaxy Wars,557,39.2,21834.4,36.9,1281.1
+13/06/2024,South America,Switch,Shooter,Lost Odyssey,946,76.86,72709.56,32.79,41690.22
+14/06/2024,South America,PS5,Sports,FarmLife Sim,114,71.81,8186.34,19.65,5946.24
+14/06/2024,South America,PC,Racing,City Architect,600,79.19,47514,42.97,21732
+14/06/2024,Europe,Xbox,Puzzle,FarmLife Sim,440,39.51,17384.4,15.16,10714
+14/06/2024,Europe,Switch,Simulation,Galaxy Wars,433,32.51,14076.83,17.2,6629.23
+14/06/2024,Asia,Xbox,Sports,Mystic Legends,338,57.26,19353.88,35,7523.88
+14/06/2024,North America,PC,Shooter,GoalMaster 24,528,62.82,33168.96,26.49,19182.24
+14/06/2024,Asia,Xbox,Action,Turbo Racer,608,76.81,46700.48,33.43,26375.04
+14/06/2024,North America,Xbox,Racing,FarmLife Sim,327,40.23,13155.21,31.86,2736.99
+14/06/2024,South America,Xbox,Sports,Mech Arena,951,63.16,60065.16,41.45,20646.21
+15/06/2024,North America,Switch,Racing,FarmLife Sim,255,77.85,19851.75,43.02,8881.65
+15/06/2024,Europe,PS5,Action,Galaxy Wars,488,47.04,22955.52,43.3,1825.12
+15/06/2024,South America,Switch,Shooter,Dragon Realms,278,67.06,18642.68,34.61,9021.1
+15/06/2024,South America,PS5,Action,StarBattle V,587,46.13,27078.31,15.01,18267.44
+15/06/2024,Asia,PS5,Puzzle,Football Hero,343,35.61,12214.23,36.89,-439.04
+16/06/2024,North America,PC,Racing,Final Combat,489,58.86,28782.54,39.5,9467.04
+16/06/2024,North America,PS5,Shooter,City Architect,147,30.3,4454.1,44.04,-2019.78
+16/06/2024,Asia,PC,RPG,Football Hero,143,58.24,8328.32,27,4467.32
+16/06/2024,Asia,Xbox,Action,Turbo Racer,581,73.79,42871.99,22.88,29578.71
+16/06/2024,North America,PS5,Simulation,City Architect,661,33.52,22156.72,37.14,-2392.82
+16/06/2024,Europe,Xbox,Puzzle,Lost Odyssey,362,45.04,16304.48,27.54,6335
+16/06/2024,North America,PC,Shooter,Football Hero,50,79.16,3958,27.09,2603.5
+16/06/2024,South America,Xbox,Adventure,Dragon Realms,616,33.27,20494.32,22.47,6652.8
+16/06/2024,Europe,PC,Action,Mystic Legends,277,52.36,14503.72,35.15,4767.17
+16/06/2024,Europe,PS5,Puzzle,Final Combat,332,41.01,13615.32,20.27,6885.68
+17/06/2024,Asia,PS5,Adventure,Dragon Realms,722,51.72,37341.84,31.35,14707.14
+17/06/2024,Europe,PC,Racing,Mystic Legends,105,50.94,5348.7,20.76,3168.9
+17/06/2024,South America,Switch,Racing,Mech Arena,354,53.72,19016.88,40.85,4555.98
+18/06/2024,South America,PS5,Sports,Galaxy Wars,68,32.5,2210,39.15,-452.2
+18/06/2024,North America,PS5,Racing,Brain Blox,308,43.94,13533.52,30.61,4105.64
+18/06/2024,Asia,PC,Sports,City Architect,551,62.31,34332.81,43.79,10204.52
+18/06/2024,Asia,Switch,Shooter,Shadow Strike,558,35.34,19719.72,22.96,6908.04
+18/06/2024,Asia,Xbox,Action,Mystic Legends,359,47.84,17174.56,33.46,5162.42
+18/06/2024,Asia,Switch,Action,Turbo Racer,186,55.89,10395.54,36.2,3662.34
+18/06/2024,Europe,PS5,Adventure,Fishing Frenzy,962,64.2,61760.4,32.31,30678.18
+18/06/2024,Asia,PS5,Shooter,Turbo Racer,773,32.98,25493.54,16.32,12878.18
+19/06/2024,Asia,Switch,Adventure,Final Combat,139,62.38,8670.82,42.18,2807.8
+19/06/2024,Europe,PC,RPG,Football Hero,707,75.29,53230.03,42.12,23451.19
+19/06/2024,Asia,Xbox,Racing,Brain Blox,314,55.3,17364.2,22.58,10274.08
+19/06/2024,North America,PC,Action,Turbo Racer,859,53.73,46154.07,35.91,15307.38
+19/06/2024,Europe,Xbox,Sports,FarmLife Sim,275,39.6,10890,43.03,-943.25
+19/06/2024,North America,PC,Adventure,Dragon Realms,417,43.98,18339.66,24.5,8123.16
+20/06/2024,North America,Switch,Puzzle,Football Hero,649,47.15,30600.35,31.68,10040.03
+20/06/2024,Europe,Switch,Adventure,FarmLife Sim,376,61.4,23086.4,19.19,15870.96
+20/06/2024,Asia,PC,RPG,FarmLife Sim,286,61.14,17486.04,21.5,11337.04
+20/06/2024,South America,Switch,Racing,Turbo Racer,608,59.09,35926.72,44.84,8664
+20/06/2024,Europe,Xbox,Simulation,Turbo Racer,849,42.11,35751.39,29.47,10731.36
+20/06/2024,South America,PS5,Racing,Galaxy Wars,670,39.59,26525.3,44.02,-2968.1
+20/06/2024,South America,PC,Adventure,StarBattle V,123,77.53,9536.19,43.32,4207.83
+20/06/2024,Europe,Xbox,Simulation,FarmLife Sim,987,52.44,51758.28,31,21161.28
+21/06/2024,Europe,Switch,Action,StarBattle V,577,77.14,44509.78,42.9,19756.48
+21/06/2024,South America,Switch,Adventure,Mystic Legends,674,34.46,23226.04,16.69,11976.98
+21/06/2024,Europe,Xbox,Simulation,Final Combat,924,36.41,33642.84,20.48,14719.32
+21/06/2024,North America,Xbox,Action,Dragon Realms,878,48.22,42337.16,39.1,8007.36
+21/06/2024,Europe,PC,Sports,Brain Blox,573,51.41,29457.93,17.94,19178.31
+21/06/2024,South America,Switch,Action,Turbo Racer,964,32.8,31619.2,22.87,9572.52
+21/06/2024,Europe,Switch,Racing,Final Combat,740,53.31,39449.4,28.5,18359.4
+21/06/2024,Asia,PC,RPG,Shadow Strike,127,42.91,5449.57,17.36,3244.85
+21/06/2024,Asia,PS5,Puzzle,Galaxy Wars,392,62.31,24425.52,17.23,17671.36
+22/06/2024,Europe,PC,Simulation,Turbo Racer,775,62.19,48197.25,37.43,19189
+22/06/2024,South America,PS5,Puzzle,City Architect,742,39.62,29398.04,18.39,15752.66
+23/06/2024,Europe,PS5,Puzzle,Galaxy Wars,605,39.31,23782.55,16.23,13963.4
+23/06/2024,Asia,PS5,Adventure,StarBattle V,821,54.48,44728.08,31.77,18644.91
+23/06/2024,Asia,PC,Sports,Mech Arena,290,77.3,22417,32.75,12919.5
+23/06/2024,Asia,PC,Sports,Final Combat,958,71.94,68918.52,15.3,54261.12
+23/06/2024,North America,Xbox,Action,Brain Blox,306,53.57,16392.42,27.89,7858.08
+23/06/2024,South America,PS5,Simulation,City Architect,367,42.9,15744.3,18.6,8918.1
+24/06/2024,North America,Switch,Simulation,GoalMaster 24,120,53.71,6445.2,17.27,4372.8
+24/06/2024,Asia,PC,Racing,Mystic Legends,415,46.91,19467.65,15.96,12844.25
+24/06/2024,North America,PS5,Sports,Lost Odyssey,713,65.47,46680.11,41.24,17275.99
+24/06/2024,South America,Switch,Puzzle,FarmLife Sim,759,72.1,54723.9,35.69,27635.19
+24/06/2024,South America,Switch,Shooter,Galaxy Wars,84,78.34,6580.56,25.75,4417.56
+25/06/2024,Asia,Xbox,Action,Fishing Frenzy,481,70.57,33944.17,20.82,23929.75
+25/06/2024,Asia,PS5,Shooter,Dragon Realms,884,76.15,67316.6,42.06,30135.56
+25/06/2024,North America,PS5,Action,Turbo Racer,357,38.73,13826.61,15.01,8468.04
+25/06/2024,South America,Switch,Sports,Shadow Strike,117,79.96,9355.32,35.72,5176.08
+25/06/2024,North America,PC,Action,GoalMaster 24,990,59.38,58786.2,41.01,18186.3
+25/06/2024,Europe,Xbox,RPG,Dragon Realms,493,78.81,38853.33,36.08,21065.89
+25/06/2024,South America,PC,Sports,GoalMaster 24,404,59.81,24163.24,43.01,6787.2
+26/06/2024,South America,Switch,Shooter,Shadow Strike,848,33.84,28696.32,36.61,-2348.96
+26/06/2024,North America,Xbox,Racing,StarBattle V,213,46.3,9861.9,25.4,4451.7
+26/06/2024,Asia,PC,Puzzle,Brain Blox,383,32.45,12428.35,23.76,3328.27
+26/06/2024,Europe,PC,Sports,StarBattle V,240,38.17,9160.8,23.54,3511.2
+26/06/2024,Asia,Switch,Sports,Final Combat,899,56.43,50730.57,33.11,20964.68
+26/06/2024,Europe,PC,Simulation,Mech Arena,592,32.63,19316.96,38.09,-3232.32
+26/06/2024,Europe,Switch,Simulation,Dragon Realms,757,61.57,46608.49,16.97,33762.2
+26/06/2024,Europe,Xbox,RPG,GoalMaster 24,432,68.83,29734.56,18.02,21949.92
+27/06/2024,South America,PS5,Racing,Football Hero,531,59.41,31546.71,42.03,9228.78
+27/06/2024,Europe,Switch,Racing,Football Hero,285,37.14,10584.9,27.11,2858.55
+27/06/2024,North America,Switch,Shooter,FarmLife Sim,570,33.86,19300.2,44.51,-6070.5
+27/06/2024,North America,PC,Sports,Brain Blox,231,38.92,8990.52,35.11,880.11
+27/06/2024,Europe,Xbox,Sports,Shadow Strike,676,50.42,34083.92,25.08,17129.84
+27/06/2024,Asia,Switch,Action,Football Hero,238,50.77,12083.26,18.63,7649.32
+27/06/2024,North America,Xbox,Racing,Dragon Realms,97,52.39,5081.83,18.93,3245.62
+27/06/2024,Asia,Xbox,Sports,Football Hero,480,33.14,15907.2,39.37,-2990.4
+27/06/2024,Asia,Switch,Adventure,Galaxy Wars,50,62.25,3112.5,25.29,1848
+27/06/2024,Europe,PS5,Sports,Dragon Realms,172,41.21,7088.12,38.02,548.68
+27/06/2024,Europe,Switch,Puzzle,Turbo Racer,430,74.78,32155.4,22.58,22446
+27/06/2024,Europe,Switch,Action,Brain Blox,663,46.03,30517.89,27.36,12378.21
+27/06/2024,Europe,Switch,RPG,Fishing Frenzy,101,57.9,5847.9,37.65,2045.25
+27/06/2024,North America,Switch,Simulation,GoalMaster 24,436,75.38,32865.68,40.1,15382.08
+27/06/2024,South America,Xbox,Simulation,Brain Blox,802,56.87,45609.74,41.15,12607.44
+28/06/2024,Asia,PC,Racing,FarmLife Sim,494,70.17,34663.98,40.11,14849.64
+28/06/2024,North America,PC,Shooter,City Architect,648,67.97,44044.56,27.52,26211.6
+28/06/2024,North America,PS5,Sports,Turbo Racer,323,44.12,14250.76,29.47,4731.95
+28/06/2024,Asia,Xbox,Adventure,Final Combat,492,48.33,23778.36,18.87,14494.32
+28/06/2024,Asia,PC,Shooter,Turbo Racer,281,69.81,19616.61,25.57,12431.44
+28/06/2024,North America,PC,RPG,Mystic Legends,343,41.34,14179.62,38.01,1142.19
+28/06/2024,North America,Xbox,Action,City Architect,637,74.44,47418.28,42.35,20441.33
+28/06/2024,Europe,Switch,RPG,Dragon Realms,837,30.84,25813.08,21.23,8043.57
+28/06/2024,Asia,PS5,RPG,StarBattle V,171,49.71,8500.41,24.6,4293.81
+28/06/2024,Asia,PC,RPG,Galaxy Wars,915,77.18,70619.7,21.34,51093.6
+29/06/2024,Europe,PC,Sports,Galaxy Wars,644,37.21,23963.24,26.89,6646.08
+29/06/2024,Asia,PC,Sports,FarmLife Sim,84,39.08,3282.72,26.3,1073.52
+29/06/2024,Asia,PS5,Racing,Mystic Legends,202,72.92,14729.84,28.85,8902.14
+29/06/2024,Europe,PS5,RPG,StarBattle V,383,51.6,19762.8,42.73,3397.21
+29/06/2024,Asia,PS5,Puzzle,Football Hero,88,33.43,2941.84,40.11,-587.84
+30/06/2024,North America,Xbox,Simulation,Dragon Realms,641,33.75,21633.75,26.49,4653.66
+30/06/2024,South America,Xbox,Simulation,Lost Odyssey,969,59.88,58023.72,39.22,20019.54
+30/06/2024,South America,PC,Shooter,Fishing Frenzy,108,53.02,5726.16,37.39,1688.04
+30/06/2024,North America,Xbox,Adventure,StarBattle V,548,54.64,29942.72,20.64,18632
+30/06/2024,Europe,PC,Adventure,Football Hero,155,57.2,8866,36.43,3219.35
+30/06/2024,North America,Switch,Puzzle,Turbo Racer,530,38.78,20553.4,30.04,4632.2
+30/06/2024,South America,PC,Sports,Lost Odyssey,869,64.59,56128.71,43.08,18692.19

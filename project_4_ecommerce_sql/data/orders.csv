@@ -1,0 +1,2001 @@
+order_id,customer_id,order_date,category,product,quantity,price,payment_method
+O0001,C386,2024-09-06,Beauty,Makeup Kit,1,129.15,PayPal
+O0002,C012,2023-12-08,Electronics,Laptop,1,102.53,Gift Card
+O0003,C018,2024-07-29,Home,Vacuum Cleaner,2,83.43,Credit Card
+O0004,C243,2023-09-26,Fashion,T-Shirt,1,113.24,PayPal
+O0005,C348,2024-07-11,Fashion,Jacket,2,87.1,Credit Card
+O0006,C409,2023-09-22,Home,Chair,3,232.69,Credit Card
+O0007,C129,2023-09-28,Sports,Dumbbells,1,215.63,Bank Transfer
+O0008,C418,2023-05-03,Beauty,Perfume,3,192.11,Bank Transfer
+O0009,C223,2024-08-11,Fashion,Dress,3,184.26,PayPal
+O0010,C201,2024-05-27,Home,Coffee Maker,3,249.72,Bank Transfer
+O0011,C199,2023-08-16,Sports,Tennis Racket,2,130.38,Credit Card
+O0012,C174,2024-07-14,Home,Coffee Maker,1,283.18,Bank Transfer
+O0013,C347,2023-10-29,Sports,Bicycle Helmet,2,256.28,Bank Transfer
+O0014,C323,2023-11-12,Fashion,T-Shirt,1,221.07,PayPal
+O0015,C252,2024-08-13,Sports,Tennis Racket,1,74.07,Credit Card
+O0016,C341,2023-09-01,Beauty,Shampoo,3,245.86,Bank Transfer
+O0017,C283,2024-07-24,Beauty,Makeup Kit,3,195.94,Credit Card
+O0018,C205,2023-04-10,Fashion,Sneakers,3,58.18,Credit Card
+O0019,C135,2024-02-09,Fashion,Sneakers,2,81.03,Bank Transfer
+O0020,C190,2024-03-13,Home,Vacuum Cleaner,2,86.0,PayPal
+O0021,C131,2023-11-22,Sports,Tennis Racket,3,65.02,Bank Transfer
+O0022,C431,2023-08-15,Beauty,Hair Dryer,1,281.93,Credit Card
+O0023,C463,2023-07-15,Fashion,Dress,2,185.52,PayPal
+O0024,C241,2023-11-17,Home,Lamp,2,182.04,Credit Card
+O0025,C066,2024-07-02,Home,Cookware,1,135.5,Bank Transfer
+O0026,C231,2023-12-01,Home,Cookware,3,272.31,Credit Card
+O0027,C028,2023-07-29,Sports,Dumbbells,2,108.61,PayPal
+O0028,C012,2023-01-10,Fashion,Jacket,3,122.57,Credit Card
+O0029,C126,2023-06-19,Fashion,T-Shirt,1,36.28,Bank Transfer
+O0030,C414,2024-08-18,Fashion,Dress,2,150.51,Gift Card
+O0031,C155,2024-02-03,Sports,Yoga Mat,1,196.89,Bank Transfer
+O0032,C495,2023-05-12,Electronics,Laptop,3,289.37,Bank Transfer
+O0033,C385,2023-10-25,Home,Coffee Maker,3,220.33,Bank Transfer
+O0034,C070,2024-01-25,Sports,Dumbbells,1,61.89,Bank Transfer
+O0035,C015,2023-07-03,Fashion,Dress,2,285.99,Bank Transfer
+O0036,C195,2024-02-04,Beauty,Skincare Set,2,209.62,Credit Card
+O0037,C291,2024-07-03,Electronics,Monitor,2,46.75,Gift Card
+O0038,C394,2023-05-14,Electronics,Headphones,1,171.36,Bank Transfer
+O0039,C206,2024-01-24,Beauty,Skincare Set,3,54.63,PayPal
+O0040,C360,2023-11-29,Fashion,Jacket,3,128.36,Credit Card
+O0041,C417,2023-12-03,Home,Coffee Maker,3,81.77,Bank Transfer
+O0042,C356,2024-02-18,Electronics,Monitor,3,296.22,Gift Card
+O0043,C286,2023-11-10,Sports,Running Shoes,1,24.74,PayPal
+O0044,C095,2023-03-26,Fashion,Jeans,2,81.01,Bank Transfer
+O0045,C252,2023-05-08,Beauty,Makeup Kit,3,218.71,Gift Card
+O0046,C350,2023-10-09,Sports,Tennis Racket,2,83.83,Bank Transfer
+O0047,C261,2024-06-29,Home,Vacuum Cleaner,3,113.28,Credit Card
+O0048,C436,2023-03-26,Electronics,Headphones,3,133.01,Credit Card
+O0049,C274,2024-05-24,Electronics,Keyboard,2,192.8,Credit Card
+O0050,C371,2024-07-10,Home,Coffee Maker,3,35.44,Credit Card
+O0051,C152,2024-05-26,Home,Coffee Maker,1,244.71,Credit Card
+O0052,C491,2024-02-04,Fashion,Jacket,1,208.68,Credit Card
+O0053,C080,2023-09-06,Sports,Tennis Racket,3,173.54,Bank Transfer
+O0054,C376,2023-10-31,Fashion,Dress,3,15.83,Gift Card
+O0055,C170,2024-06-02,Electronics,Keyboard,3,98.08,Credit Card
+O0056,C373,2023-09-04,Fashion,Dress,2,292.8,Gift Card
+O0057,C056,2023-01-19,Sports,Bicycle Helmet,3,91.39,Credit Card
+O0058,C023,2024-11-06,Electronics,Laptop,1,148.12,Credit Card
+O0059,C248,2023-06-20,Fashion,Dress,2,193.05,PayPal
+O0060,C217,2023-03-13,Electronics,Smartphone,1,277.25,Credit Card
+O0061,C250,2023-03-20,Sports,Yoga Mat,3,148.61,Credit Card
+O0062,C140,2024-08-04,Beauty,Hair Dryer,2,259.56,Credit Card
+O0063,C158,2023-05-24,Beauty,Hair Dryer,3,280.86,Gift Card
+O0064,C147,2024-03-06,Electronics,Smartphone,2,100.88,Credit Card
+O0065,C465,2024-01-24,Fashion,Jeans,3,132.5,Bank Transfer
+O0066,C422,2023-03-01,Beauty,Skincare Set,1,27.18,Credit Card
+O0067,C310,2023-01-04,Sports,Running Shoes,1,221.0,PayPal
+O0068,C448,2023-10-26,Electronics,Keyboard,2,108.52,Credit Card
+O0069,C029,2023-08-15,Electronics,Keyboard,3,135.15,Bank Transfer
+O0070,C319,2024-04-14,Home,Cookware,2,54.05,PayPal
+O0071,C089,2024-10-17,Electronics,Smartphone,1,275.23,PayPal
+O0072,C162,2024-10-18,Sports,Bicycle Helmet,3,18.15,Gift Card
+O0073,C125,2023-06-17,Sports,Dumbbells,2,87.54,Credit Card
+O0074,C107,2023-03-21,Fashion,Sneakers,3,24.89,Gift Card
+O0075,C027,2024-10-25,Beauty,Shampoo,3,58.73,Gift Card
+O0076,C023,2023-12-14,Electronics,Keyboard,1,238.52,Bank Transfer
+O0077,C188,2024-09-02,Fashion,Jeans,3,17.96,Credit Card
+O0078,C107,2023-12-15,Electronics,Keyboard,2,17.12,Bank Transfer
+O0079,C146,2023-03-12,Beauty,Skincare Set,2,114.14,Gift Card
+O0080,C297,2023-07-01,Sports,Yoga Mat,3,293.37,Bank Transfer
+O0081,C011,2024-12-20,Electronics,Keyboard,2,287.07,Credit Card
+O0082,C149,2024-11-30,Electronics,Keyboard,3,209.62,Bank Transfer
+O0083,C255,2023-11-03,Fashion,Jeans,2,74.12,Gift Card
+O0084,C380,2023-09-25,Electronics,Headphones,2,261.04,Bank Transfer
+O0085,C275,2023-11-23,Electronics,Keyboard,2,223.71,PayPal
+O0086,C313,2024-04-10,Electronics,Monitor,3,17.49,Bank Transfer
+O0087,C098,2023-07-22,Sports,Tennis Racket,2,74.06,Credit Card
+O0088,C069,2024-05-08,Sports,Bicycle Helmet,2,201.47,Credit Card
+O0089,C413,2024-04-30,Fashion,T-Shirt,3,45.4,Gift Card
+O0090,C053,2023-10-28,Sports,Running Shoes,2,217.39,Bank Transfer
+O0091,C386,2024-07-12,Electronics,Monitor,2,279.22,PayPal
+O0092,C444,2023-11-24,Electronics,Laptop,3,11.47,Credit Card
+O0093,C089,2023-12-09,Fashion,Sneakers,3,201.57,Gift Card
+O0094,C342,2024-01-07,Beauty,Hair Dryer,2,248.43,PayPal
+O0095,C313,2024-01-12,Fashion,Sneakers,3,200.19,Bank Transfer
+O0096,C435,2023-05-31,Fashion,T-Shirt,1,100.31,Credit Card
+O0097,C120,2024-05-15,Electronics,Headphones,3,264.11,Gift Card
+O0098,C122,2023-05-26,Electronics,Laptop,2,264.52,Credit Card
+O0099,C284,2024-02-19,Fashion,T-Shirt,1,279.06,Bank Transfer
+O0100,C034,2023-09-04,Sports,Bicycle Helmet,1,192.39,Bank Transfer
+O0101,C496,2023-01-10,Fashion,Dress,1,99.45,PayPal
+O0102,C229,2023-06-19,Sports,Tennis Racket,3,125.4,Gift Card
+O0103,C392,2024-10-30,Fashion,Jeans,1,109.49,Bank Transfer
+O0104,C318,2023-07-28,Fashion,T-Shirt,1,171.42,Credit Card
+O0105,C475,2024-02-12,Electronics,Laptop,2,180.91,Credit Card
+O0106,C349,2024-06-09,Fashion,Jacket,2,281.23,PayPal
+O0107,C171,2023-12-13,Electronics,Keyboard,2,265.26,Bank Transfer
+O0108,C339,2023-05-09,Home,Cookware,3,260.88,Credit Card
+O0109,C088,2023-03-07,Fashion,Dress,3,218.95,Bank Transfer
+O0110,C376,2023-04-26,Fashion,Dress,3,86.71,Bank Transfer
+O0111,C115,2023-01-28,Fashion,T-Shirt,2,182.84,Bank Transfer
+O0112,C492,2023-10-17,Sports,Bicycle Helmet,2,252.24,Gift Card
+O0113,C155,2024-06-21,Beauty,Hair Dryer,2,160.25,PayPal
+O0114,C490,2023-02-20,Home,Lamp,1,293.65,Gift Card
+O0115,C332,2023-03-06,Home,Coffee Maker,3,203.68,Credit Card
+O0116,C153,2023-07-22,Fashion,Jeans,2,272.96,Credit Card
+O0117,C381,2024-08-24,Home,Coffee Maker,3,10.08,Bank Transfer
+O0118,C145,2024-09-30,Sports,Bicycle Helmet,1,13.48,Credit Card
+O0119,C083,2023-08-28,Home,Coffee Maker,3,250.85,PayPal
+O0120,C457,2024-09-03,Electronics,Headphones,1,221.89,Credit Card
+O0121,C477,2023-09-07,Fashion,Jacket,2,53.73,Credit Card
+O0122,C472,2024-04-14,Beauty,Shampoo,3,132.45,Bank Transfer
+O0123,C398,2024-08-21,Home,Vacuum Cleaner,1,135.48,Gift Card
+O0124,C399,2024-08-27,Sports,Yoga Mat,1,21.25,PayPal
+O0125,C288,2024-01-14,Home,Chair,1,123.31,Gift Card
+O0126,C271,2023-10-12,Beauty,Perfume,1,249.6,PayPal
+O0127,C443,2024-06-30,Beauty,Perfume,2,95.54,Credit Card
+O0128,C208,2024-06-18,Home,Coffee Maker,2,84.81,Bank Transfer
+O0129,C130,2023-12-17,Home,Coffee Maker,2,175.53,Bank Transfer
+O0130,C384,2024-10-11,Sports,Dumbbells,1,118.41,Credit Card
+O0131,C442,2023-03-21,Fashion,Sneakers,3,177.22,Bank Transfer
+O0132,C047,2023-05-19,Electronics,Headphones,3,198.96,PayPal
+O0133,C168,2024-09-14,Fashion,Jacket,2,184.2,Bank Transfer
+O0134,C439,2024-12-05,Sports,Running Shoes,3,274.72,Gift Card
+O0135,C081,2023-02-09,Sports,Bicycle Helmet,3,110.59,PayPal
+O0136,C074,2024-03-31,Beauty,Skincare Set,1,30.22,Bank Transfer
+O0137,C099,2024-06-27,Beauty,Makeup Kit,2,58.68,Credit Card
+O0138,C402,2024-04-24,Fashion,T-Shirt,3,82.33,PayPal
+O0139,C193,2023-08-03,Home,Cookware,3,245.15,PayPal
+O0140,C168,2023-12-31,Sports,Running Shoes,2,128.21,PayPal
+O0141,C151,2024-01-27,Home,Vacuum Cleaner,3,178.51,PayPal
+O0142,C391,2024-05-07,Home,Cookware,3,131.87,Bank Transfer
+O0143,C478,2023-08-23,Sports,Bicycle Helmet,2,204.24,Gift Card
+O0144,C325,2023-08-27,Home,Cookware,2,106.43,Bank Transfer
+O0145,C217,2023-09-19,Sports,Tennis Racket,3,204.92,Credit Card
+O0146,C412,2023-09-07,Beauty,Hair Dryer,2,170.58,Credit Card
+O0147,C361,2024-04-25,Beauty,Perfume,2,83.7,Credit Card
+O0148,C366,2024-03-04,Home,Coffee Maker,1,257.82,Gift Card
+O0149,C172,2024-12-15,Electronics,Laptop,3,216.43,Credit Card
+O0150,C092,2024-09-06,Home,Lamp,2,25.81,PayPal
+O0151,C059,2023-12-05,Home,Vacuum Cleaner,1,110.82,Gift Card
+O0152,C363,2023-09-21,Electronics,Laptop,1,263.94,PayPal
+O0153,C059,2024-06-05,Electronics,Smartphone,3,54.88,Credit Card
+O0154,C199,2024-12-09,Beauty,Shampoo,2,153.57,PayPal
+O0155,C041,2024-03-18,Fashion,T-Shirt,3,121.43,Credit Card
+O0156,C131,2024-09-25,Fashion,Dress,3,179.08,Bank Transfer
+O0157,C491,2024-10-15,Home,Lamp,2,130.6,Credit Card
+O0158,C285,2024-12-27,Home,Lamp,3,195.98,Credit Card
+O0159,C229,2023-09-23,Fashion,Sneakers,2,106.38,Credit Card
+O0160,C454,2024-10-15,Home,Lamp,2,224.46,PayPal
+O0161,C125,2023-10-19,Electronics,Laptop,2,164.32,Gift Card
+O0162,C050,2024-11-24,Fashion,Dress,2,211.28,Bank Transfer
+O0163,C036,2023-11-05,Sports,Running Shoes,2,157.9,PayPal
+O0164,C465,2023-12-28,Fashion,Jeans,1,24.73,Credit Card
+O0165,C256,2023-02-03,Sports,Bicycle Helmet,3,253.63,Bank Transfer
+O0166,C373,2023-06-28,Sports,Yoga Mat,1,19.44,Credit Card
+O0167,C016,2023-03-31,Beauty,Perfume,3,155.3,Bank Transfer
+O0168,C412,2023-12-09,Home,Chair,2,139.65,Bank Transfer
+O0169,C158,2023-06-25,Beauty,Shampoo,2,115.84,PayPal
+O0170,C445,2024-04-04,Home,Lamp,3,284.31,PayPal
+O0171,C132,2023-12-05,Beauty,Makeup Kit,3,244.07,PayPal
+O0172,C352,2024-10-05,Sports,Bicycle Helmet,1,253.01,PayPal
+O0173,C278,2024-01-25,Sports,Dumbbells,1,284.29,Bank Transfer
+O0174,C436,2024-08-29,Sports,Bicycle Helmet,2,80.03,PayPal
+O0175,C349,2024-02-02,Home,Vacuum Cleaner,1,54.29,Gift Card
+O0176,C424,2024-08-22,Home,Lamp,1,210.53,Bank Transfer
+O0177,C097,2023-04-24,Fashion,Jacket,3,78.76,PayPal
+O0178,C421,2023-01-15,Fashion,T-Shirt,1,140.1,Gift Card
+O0179,C401,2024-06-21,Home,Vacuum Cleaner,1,61.89,PayPal
+O0180,C433,2024-02-13,Beauty,Makeup Kit,1,275.63,Credit Card
+O0181,C012,2024-08-22,Sports,Running Shoes,2,84.09,Gift Card
+O0182,C090,2023-02-25,Home,Lamp,2,244.97,Bank Transfer
+O0183,C403,2024-04-05,Sports,Tennis Racket,3,62.99,PayPal
+O0184,C208,2023-08-30,Sports,Yoga Mat,1,167.2,PayPal
+O0185,C098,2024-09-15,Sports,Running Shoes,3,234.72,Gift Card
+O0186,C358,2023-02-13,Fashion,Jacket,2,134.06,Bank Transfer
+O0187,C089,2024-09-05,Electronics,Headphones,1,227.9,Gift Card
+O0188,C099,2024-09-04,Fashion,Jacket,3,110.56,Credit Card
+O0189,C434,2024-05-12,Sports,Tennis Racket,1,108.24,Gift Card
+O0190,C481,2024-08-11,Beauty,Shampoo,3,97.54,PayPal
+O0191,C311,2024-08-16,Home,Lamp,1,63.77,Gift Card
+O0192,C361,2023-12-31,Fashion,Jacket,3,204.25,Gift Card
+O0193,C385,2024-08-07,Sports,Tennis Racket,2,118.18,Bank Transfer
+O0194,C016,2024-08-08,Electronics,Smartphone,2,129.52,PayPal
+O0195,C064,2023-02-17,Home,Cookware,1,56.92,PayPal
+O0196,C409,2023-09-21,Electronics,Headphones,3,242.75,PayPal
+O0197,C465,2024-01-17,Home,Cookware,1,276.92,PayPal
+O0198,C163,2023-02-23,Sports,Dumbbells,1,85.36,Credit Card
+O0199,C419,2023-10-02,Sports,Bicycle Helmet,3,83.2,PayPal
+O0200,C351,2024-02-20,Fashion,T-Shirt,2,134.9,Credit Card
+O0201,C087,2023-07-07,Sports,Tennis Racket,3,287.3,PayPal
+O0202,C256,2023-09-07,Electronics,Keyboard,1,140.1,Bank Transfer
+O0203,C499,2023-11-08,Fashion,Sneakers,3,13.69,Bank Transfer
+O0204,C452,2023-03-14,Fashion,Jacket,2,244.42,Bank Transfer
+O0205,C190,2023-06-10,Electronics,Laptop,1,146.76,Bank Transfer
+O0206,C456,2023-12-14,Beauty,Skincare Set,2,96.27,PayPal
+O0207,C352,2023-01-11,Home,Vacuum Cleaner,2,22.09,Gift Card
+O0208,C132,2024-10-18,Home,Coffee Maker,1,163.54,Bank Transfer
+O0209,C488,2023-08-01,Sports,Dumbbells,3,116.93,Bank Transfer
+O0210,C369,2024-11-06,Beauty,Hair Dryer,3,219.79,Gift Card
+O0211,C433,2024-01-06,Beauty,Hair Dryer,2,150.55,Gift Card
+O0212,C278,2024-11-26,Electronics,Keyboard,1,204.68,Gift Card
+O0213,C445,2024-01-09,Home,Coffee Maker,3,12.71,Credit Card
+O0214,C183,2023-10-09,Fashion,Jeans,3,159.74,Bank Transfer
+O0215,C242,2024-01-08,Sports,Running Shoes,1,242.96,Gift Card
+O0216,C365,2024-11-10,Sports,Running Shoes,2,98.81,PayPal
+O0217,C485,2024-03-15,Fashion,Dress,3,159.25,PayPal
+O0218,C020,2024-12-18,Sports,Bicycle Helmet,2,141.24,Credit Card
+O0219,C005,2023-10-30,Beauty,Hair Dryer,3,277.2,PayPal
+O0220,C207,2023-07-07,Sports,Dumbbells,1,43.14,Bank Transfer
+O0221,C298,2023-05-01,Fashion,T-Shirt,2,79.45,Bank Transfer
+O0222,C429,2024-12-17,Home,Coffee Maker,1,83.36,Bank Transfer
+O0223,C004,2023-03-17,Sports,Yoga Mat,2,164.0,Gift Card
+O0224,C175,2024-05-08,Home,Vacuum Cleaner,2,279.79,Bank Transfer
+O0225,C110,2023-01-19,Home,Cookware,3,95.66,Credit Card
+O0226,C112,2023-09-14,Beauty,Makeup Kit,1,101.58,Credit Card
+O0227,C397,2023-06-19,Sports,Yoga Mat,1,238.4,Credit Card
+O0228,C433,2023-04-25,Electronics,Keyboard,1,123.45,Gift Card
+O0229,C346,2024-02-22,Home,Chair,3,282.65,Bank Transfer
+O0230,C490,2024-06-04,Beauty,Hair Dryer,1,181.31,Gift Card
+O0231,C149,2023-07-21,Electronics,Keyboard,1,264.35,PayPal
+O0232,C060,2023-09-24,Electronics,Monitor,3,236.14,Credit Card
+O0233,C267,2023-05-01,Beauty,Skincare Set,2,36.99,Bank Transfer
+O0234,C482,2023-07-09,Home,Coffee Maker,3,185.58,Credit Card
+O0235,C141,2024-11-01,Electronics,Headphones,1,253.11,Bank Transfer
+O0236,C019,2023-07-05,Beauty,Shampoo,1,42.89,Bank Transfer
+O0237,C449,2023-05-17,Electronics,Monitor,1,117.2,Bank Transfer
+O0238,C081,2023-02-08,Beauty,Perfume,3,71.69,PayPal
+O0239,C327,2024-10-23,Electronics,Keyboard,2,275.49,Bank Transfer
+O0240,C052,2024-09-15,Home,Vacuum Cleaner,3,275.1,Bank Transfer
+O0241,C298,2023-03-27,Beauty,Hair Dryer,1,213.17,PayPal
+O0242,C134,2024-08-02,Beauty,Shampoo,2,216.17,PayPal
+O0243,C008,2024-11-12,Sports,Yoga Mat,2,291.05,PayPal
+O0244,C177,2024-06-26,Sports,Tennis Racket,3,151.82,Bank Transfer
+O0245,C462,2024-05-20,Home,Cookware,1,234.49,Gift Card
+O0246,C217,2023-05-04,Home,Coffee Maker,1,277.75,Bank Transfer
+O0247,C267,2023-06-19,Beauty,Hair Dryer,1,181.0,Bank Transfer
+O0248,C480,2024-01-18,Fashion,Dress,3,268.43,Credit Card
+O0249,C456,2024-05-07,Fashion,Sneakers,3,16.18,Gift Card
+O0250,C216,2024-06-18,Sports,Yoga Mat,1,190.92,PayPal
+O0251,C040,2023-07-12,Beauty,Shampoo,2,178.48,Credit Card
+O0252,C155,2024-03-29,Sports,Dumbbells,3,28.92,Gift Card
+O0253,C271,2024-03-03,Beauty,Shampoo,3,278.84,Credit Card
+O0254,C256,2023-08-17,Sports,Dumbbells,3,82.09,Gift Card
+O0255,C333,2023-11-12,Fashion,Jacket,1,287.35,Credit Card
+O0256,C235,2024-12-15,Home,Chair,1,100.02,PayPal
+O0257,C472,2023-09-30,Fashion,Jacket,1,187.8,Gift Card
+O0258,C205,2024-02-27,Fashion,Dress,3,219.78,Credit Card
+O0259,C274,2023-03-08,Sports,Running Shoes,3,183.4,PayPal
+O0260,C156,2024-08-12,Fashion,Jacket,1,167.69,PayPal
+O0261,C369,2023-01-26,Home,Chair,3,175.32,Gift Card
+O0262,C266,2023-01-21,Sports,Tennis Racket,1,36.43,Credit Card
+O0263,C147,2024-01-17,Fashion,Sneakers,1,248.32,Bank Transfer
+O0264,C222,2023-09-24,Electronics,Laptop,3,111.13,Credit Card
+O0265,C410,2024-06-14,Electronics,Smartphone,1,15.85,Gift Card
+O0266,C047,2024-07-03,Sports,Yoga Mat,1,242.27,Bank Transfer
+O0267,C259,2024-07-04,Electronics,Smartphone,3,10.43,Gift Card
+O0268,C220,2023-01-18,Electronics,Headphones,1,98.76,Gift Card
+O0269,C461,2023-01-20,Electronics,Monitor,3,235.1,Credit Card
+O0270,C362,2023-06-05,Sports,Yoga Mat,3,228.53,Gift Card
+O0271,C462,2023-08-30,Home,Vacuum Cleaner,1,182.21,Gift Card
+O0272,C292,2023-08-29,Sports,Running Shoes,2,28.06,Credit Card
+O0273,C108,2024-03-25,Electronics,Smartphone,2,43.73,Gift Card
+O0274,C362,2024-03-18,Sports,Bicycle Helmet,1,42.8,PayPal
+O0275,C250,2024-11-09,Beauty,Perfume,2,128.29,Gift Card
+O0276,C200,2024-06-11,Sports,Dumbbells,1,274.59,PayPal
+O0277,C063,2024-10-23,Beauty,Shampoo,3,191.76,Gift Card
+O0278,C413,2024-04-04,Fashion,Jeans,3,154.94,Gift Card
+O0279,C244,2024-01-01,Sports,Bicycle Helmet,3,176.7,Bank Transfer
+O0280,C266,2023-10-19,Fashion,Sneakers,3,190.2,Bank Transfer
+O0281,C163,2024-03-16,Sports,Yoga Mat,3,41.55,Bank Transfer
+O0282,C396,2023-09-03,Sports,Tennis Racket,1,45.18,Gift Card
+O0283,C459,2023-03-04,Electronics,Laptop,1,49.57,Bank Transfer
+O0284,C312,2024-04-14,Fashion,Jacket,1,211.56,PayPal
+O0285,C255,2024-08-16,Fashion,Jeans,2,32.18,Credit Card
+O0286,C453,2024-04-09,Beauty,Makeup Kit,3,38.86,Bank Transfer
+O0287,C310,2024-01-17,Sports,Dumbbells,3,128.65,Credit Card
+O0288,C153,2024-10-08,Home,Coffee Maker,1,28.2,PayPal
+O0289,C423,2023-10-27,Electronics,Smartphone,3,48.64,Gift Card
+O0290,C008,2024-08-16,Fashion,T-Shirt,3,252.24,Bank Transfer
+O0291,C459,2024-10-25,Sports,Yoga Mat,1,128.08,PayPal
+O0292,C328,2023-07-01,Electronics,Headphones,1,101.57,PayPal
+O0293,C215,2024-01-11,Beauty,Skincare Set,2,97.48,Bank Transfer
+O0294,C017,2024-11-25,Electronics,Monitor,2,259.13,Bank Transfer
+O0295,C129,2023-04-05,Sports,Yoga Mat,1,31.16,Gift Card
+O0296,C460,2024-02-11,Sports,Bicycle Helmet,2,248.9,PayPal
+O0297,C075,2023-04-29,Home,Chair,1,298.49,PayPal
+O0298,C207,2023-12-14,Electronics,Headphones,3,140.19,PayPal
+O0299,C386,2024-09-29,Electronics,Smartphone,3,273.43,PayPal
+O0300,C491,2023-01-15,Electronics,Headphones,2,289.74,Bank Transfer
+O0301,C269,2024-10-04,Fashion,Jeans,1,153.32,PayPal
+O0302,C253,2023-04-19,Electronics,Keyboard,1,163.42,Bank Transfer
+O0303,C413,2024-01-30,Home,Cookware,2,124.6,Bank Transfer
+O0304,C348,2024-03-28,Sports,Yoga Mat,3,82.55,Credit Card
+O0305,C197,2024-03-21,Fashion,T-Shirt,3,176.13,Gift Card
+O0306,C119,2024-07-08,Fashion,Sneakers,3,86.0,Gift Card
+O0307,C165,2023-07-04,Home,Vacuum Cleaner,2,181.59,Bank Transfer
+O0308,C439,2024-12-23,Fashion,Sneakers,1,182.74,Bank Transfer
+O0309,C456,2023-08-03,Home,Coffee Maker,3,183.02,Credit Card
+O0310,C450,2023-08-20,Sports,Running Shoes,3,244.48,Gift Card
+O0311,C098,2023-06-21,Fashion,T-Shirt,3,164.06,Gift Card
+O0312,C168,2023-08-08,Beauty,Hair Dryer,2,25.0,PayPal
+O0313,C466,2024-07-14,Home,Chair,3,118.68,Bank Transfer
+O0314,C033,2023-01-07,Sports,Dumbbells,2,17.49,PayPal
+O0315,C075,2023-09-29,Home,Lamp,2,290.2,Gift Card
+O0316,C321,2023-01-18,Beauty,Hair Dryer,3,253.93,Gift Card
+O0317,C089,2024-09-01,Sports,Tennis Racket,1,269.63,Bank Transfer
+O0318,C255,2024-08-19,Electronics,Monitor,3,222.77,Bank Transfer
+O0319,C180,2024-03-26,Fashion,Dress,1,216.06,Bank Transfer
+O0320,C091,2023-08-17,Electronics,Laptop,1,17.39,Gift Card
+O0321,C250,2024-03-24,Home,Cookware,3,177.02,Gift Card
+O0322,C013,2024-09-20,Sports,Tennis Racket,2,13.73,Bank Transfer
+O0323,C214,2023-08-13,Fashion,Sneakers,3,108.06,Credit Card
+O0324,C115,2024-01-21,Sports,Yoga Mat,2,191.18,Credit Card
+O0325,C306,2023-11-07,Fashion,Dress,2,19.22,Bank Transfer
+O0326,C156,2024-04-19,Home,Vacuum Cleaner,3,162.86,Gift Card
+O0327,C189,2023-10-21,Home,Chair,1,88.01,Bank Transfer
+O0328,C118,2023-01-02,Fashion,Dress,1,197.0,PayPal
+O0329,C307,2024-04-19,Sports,Yoga Mat,2,274.01,Bank Transfer
+O0330,C470,2023-08-25,Electronics,Headphones,1,177.12,Bank Transfer
+O0331,C070,2024-08-04,Electronics,Smartphone,1,236.11,Credit Card
+O0332,C271,2023-03-15,Beauty,Makeup Kit,2,143.22,Credit Card
+O0333,C363,2024-07-09,Electronics,Laptop,1,89.5,PayPal
+O0334,C044,2023-03-25,Electronics,Smartphone,2,212.14,PayPal
+O0335,C167,2023-07-25,Sports,Yoga Mat,1,117.14,PayPal
+O0336,C379,2023-05-17,Home,Lamp,2,65.82,Credit Card
+O0337,C473,2023-02-17,Electronics,Laptop,1,220.97,Credit Card
+O0338,C289,2023-05-29,Sports,Dumbbells,3,53.29,Credit Card
+O0339,C134,2024-12-21,Electronics,Keyboard,3,100.84,Credit Card
+O0340,C199,2024-01-12,Home,Lamp,2,125.73,PayPal
+O0341,C203,2024-03-10,Sports,Dumbbells,2,34.5,PayPal
+O0342,C293,2024-01-17,Beauty,Perfume,2,113.88,Credit Card
+O0343,C253,2024-02-02,Sports,Tennis Racket,1,278.8,Gift Card
+O0344,C179,2023-06-09,Beauty,Skincare Set,2,89.85,Gift Card
+O0345,C310,2023-03-17,Fashion,T-Shirt,2,138.59,Gift Card
+O0346,C323,2023-01-17,Sports,Dumbbells,1,249.82,PayPal
+O0347,C152,2023-08-10,Electronics,Headphones,1,251.59,Bank Transfer
+O0348,C042,2023-07-23,Home,Chair,3,229.8,Credit Card
+O0349,C232,2023-04-16,Sports,Running Shoes,3,119.14,Bank Transfer
+O0350,C054,2023-09-02,Electronics,Headphones,1,174.9,PayPal
+O0351,C074,2023-02-07,Sports,Tennis Racket,2,252.23,PayPal
+O0352,C240,2023-08-01,Sports,Dumbbells,1,237.18,Credit Card
+O0353,C283,2023-12-17,Sports,Running Shoes,1,97.63,Credit Card
+O0354,C104,2023-12-22,Fashion,Jeans,1,55.84,Gift Card
+O0355,C104,2024-11-07,Home,Lamp,1,103.93,Gift Card
+O0356,C478,2024-07-18,Sports,Dumbbells,3,277.94,PayPal
+O0357,C399,2023-10-02,Sports,Bicycle Helmet,3,297.75,PayPal
+O0358,C070,2024-07-26,Sports,Running Shoes,1,275.8,Gift Card
+O0359,C409,2023-05-26,Electronics,Keyboard,3,88.1,Bank Transfer
+O0360,C114,2024-07-26,Fashion,Sneakers,2,56.29,Gift Card
+O0361,C057,2024-05-06,Home,Chair,3,163.41,Credit Card
+O0362,C091,2024-08-12,Fashion,Dress,2,186.76,Bank Transfer
+O0363,C053,2023-06-29,Fashion,Dress,2,116.59,Gift Card
+O0364,C133,2023-03-20,Home,Lamp,3,252.61,Bank Transfer
+O0365,C353,2023-03-01,Beauty,Perfume,3,266.63,Gift Card
+O0366,C277,2024-09-04,Home,Lamp,2,203.56,Credit Card
+O0367,C250,2024-12-17,Sports,Tennis Racket,1,80.31,Credit Card
+O0368,C464,2024-03-14,Sports,Dumbbells,3,272.09,Credit Card
+O0369,C244,2024-10-07,Beauty,Shampoo,1,66.87,Bank Transfer
+O0370,C037,2023-03-02,Beauty,Hair Dryer,1,44.84,Credit Card
+O0371,C174,2024-10-03,Electronics,Laptop,3,21.86,PayPal
+O0372,C350,2023-09-08,Beauty,Perfume,2,72.39,PayPal
+O0373,C315,2024-12-27,Home,Vacuum Cleaner,1,146.34,Bank Transfer
+O0374,C474,2023-12-19,Electronics,Headphones,1,127.15,Bank Transfer
+O0375,C484,2024-08-24,Electronics,Headphones,2,219.27,PayPal
+O0376,C056,2023-11-01,Home,Chair,1,168.98,Credit Card
+O0377,C118,2024-06-15,Fashion,Sneakers,3,134.62,Gift Card
+O0378,C163,2024-03-30,Beauty,Perfume,2,209.75,Credit Card
+O0379,C056,2023-01-23,Fashion,Dress,1,24.61,Credit Card
+O0380,C258,2024-03-17,Sports,Running Shoes,3,285.51,PayPal
+O0381,C193,2024-07-30,Electronics,Laptop,3,138.86,Gift Card
+O0382,C040,2024-02-23,Fashion,Dress,3,23.05,PayPal
+O0383,C309,2024-12-01,Electronics,Laptop,2,202.33,PayPal
+O0384,C495,2023-06-26,Home,Lamp,1,187.88,PayPal
+O0385,C343,2023-02-11,Electronics,Headphones,3,218.22,PayPal
+O0386,C010,2023-07-21,Sports,Tennis Racket,3,32.66,Bank Transfer
+O0387,C052,2023-10-14,Fashion,Jacket,3,282.28,PayPal
+O0388,C356,2023-11-20,Electronics,Keyboard,1,269.78,Gift Card
+O0389,C003,2023-08-06,Electronics,Keyboard,2,204.05,Gift Card
+O0390,C278,2023-07-24,Sports,Bicycle Helmet,2,128.19,Gift Card
+O0391,C448,2023-11-18,Home,Vacuum Cleaner,3,78.11,Credit Card
+O0392,C214,2023-06-12,Beauty,Shampoo,3,16.06,Gift Card
+O0393,C295,2023-12-14,Fashion,T-Shirt,1,208.0,Credit Card
+O0394,C180,2023-10-22,Electronics,Headphones,2,223.53,Gift Card
+O0395,C377,2023-08-10,Sports,Tennis Racket,3,147.47,PayPal
+O0396,C135,2024-09-07,Fashion,Jacket,3,119.79,Gift Card
+O0397,C479,2024-08-04,Electronics,Headphones,1,234.54,Bank Transfer
+O0398,C390,2023-08-26,Beauty,Makeup Kit,2,169.42,PayPal
+O0399,C497,2024-09-08,Sports,Bicycle Helmet,3,91.07,Bank Transfer
+O0400,C445,2024-09-27,Home,Coffee Maker,3,65.69,Bank Transfer
+O0401,C213,2023-06-30,Electronics,Monitor,3,262.02,Bank Transfer
+O0402,C295,2024-09-24,Beauty,Perfume,1,162.1,Gift Card
+O0403,C177,2023-11-03,Fashion,Jacket,1,228.96,Gift Card
+O0404,C205,2023-02-18,Beauty,Skincare Set,2,138.11,Gift Card
+O0405,C226,2023-06-28,Sports,Tennis Racket,3,143.69,PayPal
+O0406,C119,2023-08-11,Fashion,Jacket,3,269.03,PayPal
+O0407,C132,2023-02-27,Fashion,Dress,3,130.99,PayPal
+O0408,C260,2023-10-29,Electronics,Headphones,1,49.54,Bank Transfer
+O0409,C443,2023-06-11,Home,Coffee Maker,1,26.21,PayPal
+O0410,C449,2024-04-08,Home,Coffee Maker,1,208.69,Bank Transfer
+O0411,C417,2023-05-09,Fashion,Dress,3,175.27,PayPal
+O0412,C058,2024-02-10,Home,Coffee Maker,1,36.43,Bank Transfer
+O0413,C393,2023-05-24,Beauty,Hair Dryer,1,214.73,Bank Transfer
+O0414,C430,2024-10-04,Home,Vacuum Cleaner,3,112.4,PayPal
+O0415,C076,2023-12-31,Sports,Dumbbells,2,248.13,Credit Card
+O0416,C432,2023-12-02,Sports,Yoga Mat,2,219.6,Credit Card
+O0417,C449,2024-04-19,Electronics,Smartphone,1,229.86,Gift Card
+O0418,C318,2024-04-24,Electronics,Laptop,1,109.36,Credit Card
+O0419,C274,2023-11-19,Electronics,Headphones,2,95.92,PayPal
+O0420,C221,2024-04-23,Sports,Bicycle Helmet,3,160.29,Gift Card
+O0421,C105,2023-10-22,Electronics,Keyboard,1,48.38,Gift Card
+O0422,C131,2023-01-26,Fashion,Sneakers,1,113.57,Gift Card
+O0423,C027,2023-05-25,Home,Lamp,2,246.03,PayPal
+O0424,C466,2024-08-03,Electronics,Laptop,2,240.52,PayPal
+O0425,C296,2024-02-11,Beauty,Hair Dryer,3,121.12,Credit Card
+O0426,C164,2023-10-31,Fashion,Sneakers,1,248.71,Credit Card
+O0427,C012,2023-12-08,Fashion,Jeans,1,21.74,Gift Card
+O0428,C222,2023-04-19,Beauty,Hair Dryer,1,231.96,Gift Card
+O0429,C056,2024-05-15,Sports,Bicycle Helmet,2,128.77,Gift Card
+O0430,C312,2024-04-13,Beauty,Hair Dryer,2,51.59,Gift Card
+O0431,C458,2023-12-22,Sports,Bicycle Helmet,2,45.97,Credit Card
+O0432,C432,2023-12-08,Electronics,Keyboard,2,101.03,PayPal
+O0433,C463,2023-10-08,Home,Chair,3,189.99,Gift Card
+O0434,C006,2024-09-15,Fashion,Jacket,3,290.69,Gift Card
+O0435,C262,2023-03-16,Fashion,T-Shirt,2,186.3,Credit Card
+O0436,C061,2023-02-16,Beauty,Perfume,2,211.41,PayPal
+O0437,C081,2024-09-02,Electronics,Laptop,3,169.57,Gift Card
+O0438,C485,2023-04-28,Home,Chair,1,215.96,Gift Card
+O0439,C239,2024-09-15,Home,Cookware,1,187.63,Gift Card
+O0440,C157,2023-11-20,Home,Chair,1,106.32,Bank Transfer
+O0441,C353,2024-12-03,Fashion,Dress,1,105.31,Bank Transfer
+O0442,C162,2024-05-03,Sports,Bicycle Helmet,3,91.4,Gift Card
+O0443,C381,2023-06-23,Electronics,Monitor,2,121.24,Bank Transfer
+O0444,C189,2023-12-24,Fashion,Jeans,1,147.64,PayPal
+O0445,C288,2024-08-20,Electronics,Smartphone,3,291.03,Gift Card
+O0446,C225,2023-04-25,Sports,Dumbbells,1,19.6,Bank Transfer
+O0447,C026,2023-08-23,Home,Coffee Maker,1,217.49,PayPal
+O0448,C102,2023-11-15,Fashion,T-Shirt,2,182.47,PayPal
+O0449,C437,2024-11-25,Electronics,Keyboard,1,206.82,PayPal
+O0450,C363,2024-11-22,Fashion,Jacket,3,161.46,PayPal
+O0451,C076,2024-03-29,Electronics,Smartphone,1,55.96,PayPal
+O0452,C021,2023-07-30,Beauty,Skincare Set,2,212.76,Bank Transfer
+O0453,C257,2023-01-27,Electronics,Keyboard,3,153.73,Credit Card
+O0454,C443,2024-11-20,Electronics,Smartphone,2,65.47,PayPal
+O0455,C143,2023-01-30,Sports,Running Shoes,2,134.64,PayPal
+O0456,C107,2023-06-01,Fashion,T-Shirt,3,104.32,Credit Card
+O0457,C421,2023-11-29,Sports,Dumbbells,1,103.21,Gift Card
+O0458,C081,2024-06-02,Electronics,Monitor,1,28.56,Credit Card
+O0459,C036,2023-05-23,Home,Cookware,1,295.08,Credit Card
+O0460,C445,2024-11-23,Beauty,Perfume,3,148.75,Credit Card
+O0461,C349,2024-08-03,Beauty,Makeup Kit,2,102.9,Gift Card
+O0462,C092,2023-06-10,Beauty,Makeup Kit,3,163.4,Gift Card
+O0463,C459,2024-11-27,Fashion,Dress,3,101.91,Bank Transfer
+O0464,C216,2024-05-30,Sports,Running Shoes,1,33.71,Credit Card
+O0465,C341,2023-01-16,Fashion,Dress,1,96.15,Bank Transfer
+O0466,C042,2023-01-13,Home,Chair,2,255.11,Credit Card
+O0467,C392,2024-07-05,Home,Vacuum Cleaner,1,266.74,Gift Card
+O0468,C203,2024-04-04,Electronics,Smartphone,2,199.75,PayPal
+O0469,C113,2024-05-31,Beauty,Perfume,3,17.19,Bank Transfer
+O0470,C076,2023-12-05,Beauty,Shampoo,2,270.39,Credit Card
+O0471,C113,2023-03-02,Sports,Yoga Mat,2,69.39,Credit Card
+O0472,C224,2024-04-02,Electronics,Keyboard,1,31.98,Bank Transfer
+O0473,C449,2023-11-15,Beauty,Skincare Set,2,170.82,Credit Card
+O0474,C183,2024-03-30,Home,Vacuum Cleaner,3,37.46,Gift Card
+O0475,C294,2024-08-09,Electronics,Laptop,3,143.24,Credit Card
+O0476,C376,2023-08-15,Beauty,Makeup Kit,1,143.54,Credit Card
+O0477,C291,2024-12-22,Electronics,Headphones,1,253.01,PayPal
+O0478,C217,2023-08-24,Beauty,Skincare Set,1,252.46,Gift Card
+O0479,C132,2024-10-19,Home,Coffee Maker,1,28.32,Gift Card
+O0480,C329,2024-03-04,Electronics,Headphones,2,55.24,Credit Card
+O0481,C033,2024-11-01,Beauty,Perfume,3,228.03,Credit Card
+O0482,C159,2024-09-07,Sports,Dumbbells,3,22.52,Bank Transfer
+O0483,C281,2023-06-16,Sports,Tennis Racket,1,82.14,PayPal
+O0484,C288,2023-12-07,Home,Chair,1,210.93,Bank Transfer
+O0485,C203,2024-11-30,Electronics,Headphones,1,173.52,Gift Card
+O0486,C220,2023-11-08,Sports,Running Shoes,2,108.18,Gift Card
+O0487,C023,2023-05-10,Fashion,Jeans,1,283.89,Gift Card
+O0488,C290,2023-06-22,Beauty,Perfume,3,182.46,Gift Card
+O0489,C448,2023-05-19,Beauty,Shampoo,1,117.75,Gift Card
+O0490,C129,2024-04-28,Fashion,Dress,2,149.22,PayPal
+O0491,C356,2023-04-17,Sports,Bicycle Helmet,3,250.04,Bank Transfer
+O0492,C376,2023-09-02,Beauty,Makeup Kit,3,236.2,Bank Transfer
+O0493,C363,2023-06-23,Electronics,Headphones,1,231.24,Bank Transfer
+O0494,C073,2024-11-16,Beauty,Shampoo,1,96.87,PayPal
+O0495,C380,2023-10-08,Sports,Running Shoes,3,88.75,PayPal
+O0496,C001,2023-03-02,Fashion,Jeans,2,168.92,Bank Transfer
+O0497,C330,2023-02-03,Sports,Tennis Racket,2,85.93,Gift Card
+O0498,C448,2024-11-25,Electronics,Keyboard,2,191.19,Credit Card
+O0499,C114,2024-07-01,Sports,Running Shoes,2,26.44,Credit Card
+O0500,C421,2024-05-25,Fashion,Jacket,3,260.89,PayPal
+O0501,C312,2023-11-12,Fashion,Sneakers,2,83.67,Bank Transfer
+O0502,C087,2023-09-15,Home,Lamp,1,76.73,Gift Card
+O0503,C097,2023-12-30,Sports,Bicycle Helmet,1,190.14,PayPal
+O0504,C238,2023-07-07,Beauty,Hair Dryer,3,77.41,PayPal
+O0505,C266,2024-03-19,Fashion,T-Shirt,1,49.49,Bank Transfer
+O0506,C079,2024-01-09,Home,Lamp,2,89.73,PayPal
+O0507,C022,2023-02-01,Home,Coffee Maker,3,118.95,Credit Card
+O0508,C378,2023-04-09,Fashion,Sneakers,2,47.87,Bank Transfer
+O0509,C050,2024-07-18,Electronics,Laptop,3,171.49,PayPal
+O0510,C137,2024-02-23,Electronics,Monitor,1,101.42,PayPal
+O0511,C055,2023-01-09,Electronics,Monitor,3,193.41,Bank Transfer
+O0512,C095,2023-02-21,Fashion,Dress,3,165.79,Credit Card
+O0513,C021,2024-01-13,Beauty,Perfume,2,119.37,Credit Card
+O0514,C246,2023-05-24,Fashion,Jacket,3,291.34,Bank Transfer
+O0515,C407,2024-07-10,Electronics,Laptop,3,222.62,Gift Card
+O0516,C476,2024-09-02,Beauty,Hair Dryer,3,299.2,Gift Card
+O0517,C337,2024-01-25,Fashion,Jacket,2,158.33,Bank Transfer
+O0518,C063,2024-04-14,Fashion,Dress,3,35.15,Credit Card
+O0519,C324,2024-08-12,Electronics,Monitor,1,289.28,Gift Card
+O0520,C485,2024-01-13,Sports,Yoga Mat,2,29.26,Credit Card
+O0521,C194,2023-05-17,Electronics,Headphones,3,163.04,Bank Transfer
+O0522,C123,2023-07-14,Beauty,Hair Dryer,3,244.61,Gift Card
+O0523,C458,2023-08-19,Electronics,Keyboard,1,157.06,PayPal
+O0524,C426,2023-06-25,Electronics,Headphones,3,185.62,Gift Card
+O0525,C498,2024-09-27,Beauty,Perfume,2,182.25,Gift Card
+O0526,C128,2024-04-23,Electronics,Laptop,1,197.33,PayPal
+O0527,C273,2023-01-18,Home,Cookware,2,201.72,Bank Transfer
+O0528,C104,2023-11-22,Beauty,Skincare Set,1,147.31,Credit Card
+O0529,C301,2024-02-14,Beauty,Skincare Set,3,55.33,Gift Card
+O0530,C390,2023-10-29,Sports,Yoga Mat,3,132.4,Bank Transfer
+O0531,C415,2024-11-01,Sports,Dumbbells,3,286.54,Bank Transfer
+O0532,C255,2023-03-13,Electronics,Headphones,2,125.56,Gift Card
+O0533,C271,2024-05-25,Home,Chair,3,216.74,PayPal
+O0534,C297,2023-12-28,Fashion,T-Shirt,3,217.77,Gift Card
+O0535,C058,2023-01-17,Electronics,Smartphone,3,272.11,Credit Card
+O0536,C091,2023-08-05,Sports,Running Shoes,3,152.85,Credit Card
+O0537,C427,2023-07-19,Home,Lamp,2,18.59,PayPal
+O0538,C415,2024-08-01,Fashion,Jacket,3,154.46,Gift Card
+O0539,C295,2023-05-21,Fashion,Sneakers,2,120.43,Credit Card
+O0540,C043,2023-12-14,Beauty,Hair Dryer,1,274.08,PayPal
+O0541,C255,2024-06-09,Electronics,Keyboard,3,235.05,Bank Transfer
+O0542,C410,2023-10-27,Sports,Running Shoes,2,144.84,Credit Card
+O0543,C477,2023-07-08,Electronics,Headphones,1,43.68,Bank Transfer
+O0544,C152,2024-07-31,Beauty,Perfume,1,293.61,Gift Card
+O0545,C113,2023-10-22,Home,Coffee Maker,3,58.65,Bank Transfer
+O0546,C118,2024-08-30,Beauty,Makeup Kit,3,275.11,Bank Transfer
+O0547,C153,2024-12-21,Sports,Running Shoes,1,196.28,Credit Card
+O0548,C329,2024-07-12,Electronics,Headphones,3,173.27,Credit Card
+O0549,C161,2024-11-05,Beauty,Perfume,3,62.49,Credit Card
+O0550,C170,2024-09-15,Electronics,Laptop,2,250.91,Credit Card
+O0551,C499,2023-10-23,Home,Vacuum Cleaner,2,54.15,Gift Card
+O0552,C136,2024-03-26,Home,Lamp,1,34.12,Gift Card
+O0553,C077,2024-04-03,Fashion,Sneakers,3,101.33,Credit Card
+O0554,C038,2023-12-01,Electronics,Smartphone,3,197.01,Credit Card
+O0555,C004,2024-05-28,Sports,Yoga Mat,3,275.28,Gift Card
+O0556,C170,2023-08-24,Fashion,Jeans,2,23.01,Bank Transfer
+O0557,C222,2024-07-10,Beauty,Hair Dryer,2,76.55,Credit Card
+O0558,C112,2024-06-15,Fashion,Sneakers,1,262.97,PayPal
+O0559,C251,2024-03-01,Home,Vacuum Cleaner,2,104.75,Credit Card
+O0560,C114,2023-09-15,Electronics,Keyboard,2,184.67,Credit Card
+O0561,C162,2024-04-13,Electronics,Headphones,2,44.45,Gift Card
+O0562,C400,2024-10-29,Beauty,Skincare Set,2,201.64,PayPal
+O0563,C405,2023-01-13,Fashion,Sneakers,1,24.11,Gift Card
+O0564,C146,2023-01-26,Beauty,Skincare Set,3,27.34,PayPal
+O0565,C172,2023-04-17,Sports,Dumbbells,2,157.19,Credit Card
+O0566,C193,2023-10-12,Sports,Tennis Racket,2,133.88,Gift Card
+O0567,C242,2024-04-12,Fashion,Sneakers,1,143.57,PayPal
+O0568,C406,2024-01-09,Beauty,Perfume,3,296.12,Bank Transfer
+O0569,C344,2023-07-16,Electronics,Laptop,1,44.26,PayPal
+O0570,C018,2024-02-11,Home,Vacuum Cleaner,1,256.77,PayPal
+O0571,C016,2023-08-19,Electronics,Keyboard,2,78.24,Credit Card
+O0572,C473,2023-02-17,Sports,Tennis Racket,3,209.98,Gift Card
+O0573,C002,2024-09-05,Electronics,Smartphone,1,24.0,PayPal
+O0574,C395,2024-08-26,Sports,Dumbbells,2,168.36,Gift Card
+O0575,C484,2024-06-02,Home,Cookware,3,18.43,Bank Transfer
+O0576,C489,2023-11-13,Home,Vacuum Cleaner,1,66.5,PayPal
+O0577,C099,2023-05-31,Sports,Bicycle Helmet,3,289.66,PayPal
+O0578,C429,2024-09-05,Fashion,Sneakers,2,141.45,PayPal
+O0579,C409,2024-02-08,Sports,Running Shoes,1,187.27,Gift Card
+O0580,C090,2024-09-28,Electronics,Smartphone,3,185.96,Gift Card
+O0581,C038,2024-11-29,Beauty,Skincare Set,2,176.33,Bank Transfer
+O0582,C386,2023-03-28,Fashion,Jacket,2,25.79,Gift Card
+O0583,C325,2023-10-06,Home,Vacuum Cleaner,3,77.12,Gift Card
+O0584,C469,2023-07-29,Home,Cookware,2,204.4,PayPal
+O0585,C430,2023-02-07,Beauty,Perfume,2,29.28,PayPal
+O0586,C412,2024-12-25,Fashion,Jeans,2,52.16,Credit Card
+O0587,C072,2023-04-23,Sports,Bicycle Helmet,3,76.99,Credit Card
+O0588,C173,2024-04-13,Sports,Running Shoes,1,28.63,Gift Card
+O0589,C065,2023-09-29,Electronics,Headphones,3,210.22,Bank Transfer
+O0590,C291,2023-12-08,Electronics,Smartphone,1,158.81,Gift Card
+O0591,C280,2024-04-28,Home,Vacuum Cleaner,2,150.02,Bank Transfer
+O0592,C449,2024-05-06,Fashion,Dress,1,253.07,Bank Transfer
+O0593,C426,2023-04-23,Sports,Bicycle Helmet,3,261.72,Credit Card
+O0594,C447,2024-12-21,Sports,Tennis Racket,3,86.44,Credit Card
+O0595,C279,2024-03-29,Fashion,Jacket,2,174.93,PayPal
+O0596,C128,2023-05-22,Sports,Bicycle Helmet,3,77.32,Credit Card
+O0597,C275,2024-05-21,Beauty,Shampoo,1,70.03,PayPal
+O0598,C361,2024-10-08,Beauty,Makeup Kit,2,239.51,Gift Card
+O0599,C113,2023-05-17,Electronics,Monitor,3,41.08,Credit Card
+O0600,C264,2023-07-24,Home,Coffee Maker,2,13.1,Gift Card
+O0601,C070,2024-09-17,Beauty,Hair Dryer,3,113.72,Gift Card
+O0602,C150,2024-04-04,Home,Lamp,3,120.81,Bank Transfer
+O0603,C446,2023-01-04,Fashion,Dress,1,118.34,PayPal
+O0604,C231,2023-08-25,Home,Lamp,1,51.65,Credit Card
+O0605,C243,2023-02-24,Sports,Running Shoes,2,185.05,Bank Transfer
+O0606,C450,2024-05-06,Fashion,Sneakers,2,223.4,PayPal
+O0607,C247,2023-07-11,Home,Chair,1,279.68,PayPal
+O0608,C356,2024-07-08,Fashion,Dress,3,103.34,PayPal
+O0609,C418,2023-11-12,Sports,Dumbbells,3,249.72,Gift Card
+O0610,C219,2024-02-16,Sports,Tennis Racket,1,130.86,Bank Transfer
+O0611,C159,2024-01-28,Home,Coffee Maker,3,288.33,Credit Card
+O0612,C459,2023-03-09,Home,Cookware,1,123.26,Credit Card
+O0613,C065,2023-02-19,Home,Coffee Maker,3,93.37,Credit Card
+O0614,C097,2024-01-20,Sports,Bicycle Helmet,2,251.89,PayPal
+O0615,C091,2024-08-11,Home,Lamp,1,238.97,PayPal
+O0616,C189,2023-01-31,Electronics,Monitor,1,235.83,Bank Transfer
+O0617,C102,2023-12-30,Beauty,Perfume,3,82.2,Credit Card
+O0618,C173,2023-05-10,Home,Vacuum Cleaner,1,48.56,Bank Transfer
+O0619,C377,2024-03-15,Fashion,Dress,1,219.8,Credit Card
+O0620,C077,2024-12-05,Fashion,T-Shirt,1,105.57,Gift Card
+O0621,C423,2023-04-20,Sports,Bicycle Helmet,1,299.23,Gift Card
+O0622,C128,2024-05-15,Home,Lamp,3,128.69,PayPal
+O0623,C041,2024-08-28,Sports,Running Shoes,3,271.09,PayPal
+O0624,C135,2024-03-07,Sports,Bicycle Helmet,3,151.02,Credit Card
+O0625,C339,2024-12-20,Home,Vacuum Cleaner,1,13.29,PayPal
+O0626,C319,2023-06-05,Beauty,Shampoo,3,136.5,PayPal
+O0627,C402,2023-01-16,Sports,Dumbbells,3,112.89,Credit Card
+O0628,C241,2024-05-08,Beauty,Perfume,3,254.08,PayPal
+O0629,C405,2024-05-18,Electronics,Laptop,3,49.1,Gift Card
+O0630,C287,2023-02-22,Beauty,Skincare Set,2,290.62,Gift Card
+O0631,C430,2023-04-29,Fashion,Jacket,2,61.35,Bank Transfer
+O0632,C392,2024-08-04,Beauty,Hair Dryer,2,198.47,Credit Card
+O0633,C330,2023-04-12,Electronics,Smartphone,1,175.31,Credit Card
+O0634,C499,2024-07-12,Sports,Tennis Racket,2,228.64,Bank Transfer
+O0635,C113,2024-01-18,Sports,Dumbbells,2,177.25,Bank Transfer
+O0636,C005,2023-08-24,Home,Vacuum Cleaner,2,102.13,Gift Card
+O0637,C188,2024-05-02,Electronics,Laptop,1,275.08,Bank Transfer
+O0638,C499,2023-12-12,Beauty,Skincare Set,2,34.6,Credit Card
+O0639,C051,2024-05-10,Beauty,Makeup Kit,1,203.27,Gift Card
+O0640,C016,2024-08-08,Beauty,Skincare Set,3,31.52,PayPal
+O0641,C383,2023-06-03,Beauty,Skincare Set,3,109.27,Bank Transfer
+O0642,C238,2023-11-17,Sports,Bicycle Helmet,2,11.41,Gift Card
+O0643,C254,2023-03-12,Beauty,Shampoo,1,148.8,PayPal
+O0644,C065,2024-04-22,Sports,Dumbbells,3,79.71,Gift Card
+O0645,C063,2023-12-10,Electronics,Keyboard,3,57.32,Credit Card
+O0646,C435,2023-09-04,Home,Cookware,1,36.4,Bank Transfer
+O0647,C484,2023-02-12,Home,Coffee Maker,3,34.33,Credit Card
+O0648,C436,2023-05-13,Sports,Yoga Mat,3,106.31,Bank Transfer
+O0649,C272,2024-09-28,Electronics,Keyboard,1,189.25,Gift Card
+O0650,C047,2023-04-29,Sports,Yoga Mat,2,169.65,PayPal
+O0651,C468,2024-10-26,Sports,Dumbbells,2,256.02,Gift Card
+O0652,C100,2024-12-12,Fashion,Jacket,2,72.65,Credit Card
+O0653,C481,2024-10-26,Home,Chair,3,46.71,PayPal
+O0654,C230,2023-07-02,Fashion,Dress,1,181.32,Gift Card
+O0655,C472,2023-04-29,Home,Lamp,1,109.94,Gift Card
+O0656,C295,2024-03-26,Sports,Bicycle Helmet,2,286.79,PayPal
+O0657,C288,2023-09-27,Electronics,Monitor,2,141.46,Credit Card
+O0658,C197,2023-01-11,Sports,Bicycle Helmet,3,217.13,Gift Card
+O0659,C348,2023-09-25,Fashion,Jeans,1,282.66,Bank Transfer
+O0660,C427,2023-10-14,Fashion,Jeans,1,20.45,Bank Transfer
+O0661,C138,2024-05-26,Electronics,Monitor,2,107.45,Bank Transfer
+O0662,C207,2023-02-05,Home,Vacuum Cleaner,2,154.84,PayPal
+O0663,C069,2024-05-10,Home,Vacuum Cleaner,1,204.35,PayPal
+O0664,C153,2023-10-17,Fashion,T-Shirt,3,223.24,Bank Transfer
+O0665,C032,2024-09-30,Home,Chair,3,222.92,Credit Card
+O0666,C296,2024-05-31,Beauty,Skincare Set,1,80.4,Bank Transfer
+O0667,C348,2023-09-03,Sports,Running Shoes,3,64.33,Gift Card
+O0668,C407,2024-07-14,Sports,Bicycle Helmet,1,196.08,PayPal
+O0669,C234,2024-08-12,Electronics,Laptop,2,41.5,Gift Card
+O0670,C381,2024-07-13,Home,Cookware,2,120.36,Gift Card
+O0671,C062,2023-04-17,Sports,Dumbbells,2,50.66,PayPal
+O0672,C132,2023-11-11,Sports,Running Shoes,1,122.99,Gift Card
+O0673,C389,2023-12-08,Beauty,Skincare Set,1,46.41,PayPal
+O0674,C177,2024-11-30,Home,Vacuum Cleaner,1,251.57,Gift Card
+O0675,C116,2023-11-27,Home,Coffee Maker,1,134.74,Credit Card
+O0676,C252,2023-10-08,Sports,Yoga Mat,1,185.58,Credit Card
+O0677,C464,2023-01-12,Home,Lamp,2,42.03,Bank Transfer
+O0678,C298,2023-03-26,Home,Cookware,3,208.72,Credit Card
+O0679,C209,2024-02-15,Home,Lamp,3,143.6,Credit Card
+O0680,C058,2023-02-10,Electronics,Headphones,1,223.64,Bank Transfer
+O0681,C294,2024-10-21,Electronics,Keyboard,2,44.81,Credit Card
+O0682,C297,2024-10-28,Beauty,Shampoo,2,28.21,Credit Card
+O0683,C229,2023-01-20,Electronics,Monitor,3,295.97,PayPal
+O0684,C067,2023-05-31,Fashion,T-Shirt,1,243.85,Bank Transfer
+O0685,C479,2024-03-29,Beauty,Hair Dryer,2,95.96,PayPal
+O0686,C243,2023-03-29,Sports,Bicycle Helmet,2,279.22,Bank Transfer
+O0687,C005,2024-12-12,Fashion,Jeans,1,41.01,PayPal
+O0688,C002,2024-02-26,Beauty,Makeup Kit,2,283.35,Bank Transfer
+O0689,C237,2023-08-20,Fashion,Dress,2,13.1,PayPal
+O0690,C331,2024-07-25,Home,Coffee Maker,1,270.22,Credit Card
+O0691,C433,2024-04-20,Sports,Yoga Mat,1,289.62,Bank Transfer
+O0692,C452,2024-08-24,Electronics,Smartphone,2,78.79,PayPal
+O0693,C031,2024-07-29,Sports,Tennis Racket,1,106.06,Bank Transfer
+O0694,C142,2024-01-12,Sports,Dumbbells,2,212.88,PayPal
+O0695,C463,2024-07-16,Beauty,Hair Dryer,3,24.18,Credit Card
+O0696,C488,2024-01-15,Electronics,Keyboard,2,48.12,Bank Transfer
+O0697,C418,2024-08-24,Sports,Tennis Racket,2,88.08,PayPal
+O0698,C078,2023-03-19,Home,Coffee Maker,1,258.25,Bank Transfer
+O0699,C089,2024-06-04,Electronics,Headphones,1,15.76,Bank Transfer
+O0700,C105,2023-03-29,Sports,Yoga Mat,1,178.79,Bank Transfer
+O0701,C110,2024-01-29,Fashion,Jeans,1,226.68,Gift Card
+O0702,C123,2023-02-06,Home,Vacuum Cleaner,1,262.87,Bank Transfer
+O0703,C298,2024-05-06,Fashion,T-Shirt,1,188.88,Credit Card
+O0704,C197,2024-10-25,Electronics,Headphones,2,198.59,Bank Transfer
+O0705,C406,2023-11-20,Home,Vacuum Cleaner,2,183.39,Credit Card
+O0706,C287,2024-04-23,Electronics,Monitor,2,237.39,PayPal
+O0707,C498,2023-07-04,Sports,Dumbbells,1,105.73,PayPal
+O0708,C013,2023-01-09,Fashion,Sneakers,3,88.66,PayPal
+O0709,C117,2023-07-15,Electronics,Laptop,2,37.48,PayPal
+O0710,C296,2023-09-21,Sports,Bicycle Helmet,2,285.4,Gift Card
+O0711,C294,2023-12-22,Sports,Running Shoes,2,233.03,PayPal
+O0712,C280,2023-05-04,Home,Vacuum Cleaner,3,90.98,Gift Card
+O0713,C030,2024-12-01,Home,Cookware,1,115.76,Bank Transfer
+O0714,C397,2024-11-29,Electronics,Keyboard,2,257.47,Gift Card
+O0715,C053,2023-12-27,Home,Chair,2,103.99,PayPal
+O0716,C487,2024-10-26,Beauty,Shampoo,2,110.7,Gift Card
+O0717,C328,2023-03-05,Sports,Dumbbells,2,209.4,PayPal
+O0718,C371,2023-03-29,Home,Coffee Maker,1,201.1,Bank Transfer
+O0719,C238,2023-09-10,Fashion,Sneakers,1,100.08,Bank Transfer
+O0720,C370,2023-01-28,Electronics,Monitor,1,256.88,Bank Transfer
+O0721,C335,2024-08-09,Electronics,Headphones,1,135.28,Gift Card
+O0722,C398,2023-09-15,Beauty,Shampoo,2,115.31,Gift Card
+O0723,C363,2024-06-08,Home,Lamp,2,28.82,Gift Card
+O0724,C436,2024-02-01,Home,Lamp,2,274.25,Credit Card
+O0725,C392,2024-01-09,Sports,Tennis Racket,3,76.06,Credit Card
+O0726,C217,2024-06-12,Beauty,Shampoo,1,259.59,Bank Transfer
+O0727,C116,2024-12-23,Home,Chair,2,252.03,PayPal
+O0728,C454,2024-07-13,Home,Lamp,2,204.28,PayPal
+O0729,C488,2023-07-12,Beauty,Perfume,3,124.18,PayPal
+O0730,C068,2024-05-13,Home,Cookware,2,77.33,Gift Card
+O0731,C221,2024-08-29,Sports,Running Shoes,1,19.47,PayPal
+O0732,C432,2024-03-14,Fashion,Jeans,2,29.56,PayPal
+O0733,C095,2023-09-21,Beauty,Hair Dryer,3,288.01,Credit Card
+O0734,C066,2024-07-06,Home,Chair,1,239.84,Bank Transfer
+O0735,C475,2024-12-29,Home,Chair,3,29.2,Credit Card
+O0736,C388,2023-04-08,Beauty,Perfume,2,84.76,Credit Card
+O0737,C383,2024-06-05,Beauty,Hair Dryer,3,169.48,PayPal
+O0738,C390,2023-06-05,Beauty,Makeup Kit,2,27.41,Gift Card
+O0739,C109,2024-01-16,Sports,Dumbbells,1,116.71,Bank Transfer
+O0740,C395,2024-02-19,Fashion,Jeans,1,57.83,PayPal
+O0741,C439,2024-10-29,Electronics,Keyboard,1,253.09,Credit Card
+O0742,C160,2024-07-18,Fashion,Jacket,1,192.89,PayPal
+O0743,C302,2024-02-09,Home,Lamp,3,136.83,Credit Card
+O0744,C326,2023-01-22,Beauty,Hair Dryer,2,78.01,Bank Transfer
+O0745,C049,2024-01-01,Sports,Yoga Mat,3,244.94,Credit Card
+O0746,C132,2024-01-10,Beauty,Makeup Kit,3,260.19,Gift Card
+O0747,C338,2023-09-07,Sports,Running Shoes,3,186.98,Bank Transfer
+O0748,C273,2024-06-28,Sports,Yoga Mat,2,230.82,Bank Transfer
+O0749,C170,2024-10-11,Fashion,T-Shirt,3,23.58,Gift Card
+O0750,C060,2024-09-13,Home,Lamp,3,251.01,PayPal
+O0751,C053,2024-01-07,Beauty,Hair Dryer,2,15.18,PayPal
+O0752,C142,2023-05-28,Beauty,Skincare Set,1,123.2,Credit Card
+O0753,C312,2024-05-23,Beauty,Perfume,3,129.86,Bank Transfer
+O0754,C328,2024-05-25,Sports,Dumbbells,1,16.77,Gift Card
+O0755,C099,2024-01-20,Home,Lamp,3,117.69,PayPal
+O0756,C360,2024-07-23,Beauty,Makeup Kit,2,220.99,Gift Card
+O0757,C110,2023-02-11,Sports,Tennis Racket,3,56.45,PayPal
+O0758,C429,2024-01-12,Home,Vacuum Cleaner,3,101.57,Credit Card
+O0759,C015,2024-06-12,Fashion,Sneakers,1,243.44,Gift Card
+O0760,C254,2023-09-05,Electronics,Laptop,2,88.81,Gift Card
+O0761,C189,2023-01-26,Electronics,Smartphone,2,284.54,PayPal
+O0762,C070,2024-05-08,Sports,Yoga Mat,3,57.67,Credit Card
+O0763,C152,2023-05-05,Home,Cookware,1,294.15,Bank Transfer
+O0764,C161,2023-01-04,Sports,Running Shoes,1,169.56,Credit Card
+O0765,C430,2023-02-11,Beauty,Skincare Set,1,65.31,PayPal
+O0766,C192,2024-10-08,Electronics,Headphones,1,12.55,Bank Transfer
+O0767,C070,2023-03-18,Electronics,Monitor,3,132.66,Bank Transfer
+O0768,C085,2024-07-02,Home,Vacuum Cleaner,1,297.81,Credit Card
+O0769,C060,2023-06-06,Fashion,T-Shirt,1,212.63,PayPal
+O0770,C418,2023-06-11,Electronics,Keyboard,1,106.31,PayPal
+O0771,C286,2023-06-12,Beauty,Shampoo,3,121.65,Gift Card
+O0772,C254,2024-01-03,Beauty,Shampoo,2,31.57,PayPal
+O0773,C493,2024-12-24,Beauty,Makeup Kit,2,291.05,Bank Transfer
+O0774,C343,2023-03-08,Beauty,Skincare Set,1,206.04,Bank Transfer
+O0775,C071,2023-12-30,Home,Cookware,2,60.24,Bank Transfer
+O0776,C002,2023-10-16,Sports,Running Shoes,1,286.29,Credit Card
+O0777,C189,2023-02-22,Beauty,Perfume,2,292.73,PayPal
+O0778,C478,2023-11-21,Home,Chair,1,104.71,Credit Card
+O0779,C339,2024-05-03,Home,Chair,1,291.17,Gift Card
+O0780,C057,2023-10-12,Beauty,Hair Dryer,3,251.23,Bank Transfer
+O0781,C046,2023-04-16,Home,Chair,2,213.59,PayPal
+O0782,C207,2023-09-27,Electronics,Laptop,2,215.34,PayPal
+O0783,C480,2024-03-09,Beauty,Shampoo,3,218.82,Credit Card
+O0784,C264,2024-02-17,Beauty,Makeup Kit,3,141.26,Credit Card
+O0785,C043,2024-03-27,Beauty,Skincare Set,3,115.17,PayPal
+O0786,C209,2023-09-15,Electronics,Smartphone,1,97.35,PayPal
+O0787,C213,2024-09-19,Electronics,Laptop,2,129.46,Gift Card
+O0788,C032,2023-11-15,Fashion,Sneakers,2,75.41,Gift Card
+O0789,C220,2024-06-22,Beauty,Perfume,2,244.17,Gift Card
+O0790,C484,2024-11-24,Home,Cookware,1,220.42,PayPal
+O0791,C107,2023-03-19,Sports,Bicycle Helmet,2,213.25,PayPal
+O0792,C082,2024-11-26,Electronics,Laptop,1,112.19,Credit Card
+O0793,C243,2023-04-26,Electronics,Keyboard,1,296.51,Credit Card
+O0794,C014,2024-05-06,Electronics,Headphones,1,252.74,Bank Transfer
+O0795,C322,2024-10-15,Beauty,Perfume,1,246.68,Bank Transfer
+O0796,C348,2023-07-29,Home,Cookware,1,140.48,PayPal
+O0797,C187,2023-09-08,Beauty,Makeup Kit,3,61.42,PayPal
+O0798,C349,2023-04-20,Sports,Yoga Mat,3,40.2,Bank Transfer
+O0799,C323,2024-03-14,Beauty,Makeup Kit,1,34.5,Credit Card
+O0800,C069,2023-05-09,Beauty,Perfume,1,164.19,Credit Card
+O0801,C371,2023-12-31,Beauty,Shampoo,3,90.84,Bank Transfer
+O0802,C315,2024-09-10,Home,Cookware,3,270.2,Bank Transfer
+O0803,C160,2024-05-13,Home,Cookware,3,112.05,Credit Card
+O0804,C420,2024-01-01,Beauty,Shampoo,3,46.09,Gift Card
+O0805,C459,2024-11-06,Sports,Yoga Mat,2,146.22,Bank Transfer
+O0806,C287,2023-04-27,Home,Lamp,1,61.54,Gift Card
+O0807,C220,2023-07-28,Beauty,Skincare Set,1,54.79,Bank Transfer
+O0808,C373,2023-08-19,Beauty,Makeup Kit,3,228.67,Gift Card
+O0809,C194,2023-09-11,Sports,Yoga Mat,2,245.15,Bank Transfer
+O0810,C162,2023-10-29,Beauty,Skincare Set,1,20.09,PayPal
+O0811,C246,2023-07-08,Home,Cookware,2,96.28,Credit Card
+O0812,C127,2023-05-12,Sports,Yoga Mat,3,192.38,Bank Transfer
+O0813,C436,2024-09-11,Home,Chair,2,33.27,PayPal
+O0814,C370,2023-01-15,Electronics,Laptop,1,44.98,Bank Transfer
+O0815,C448,2023-11-24,Fashion,T-Shirt,3,23.23,Bank Transfer
+O0816,C003,2023-01-23,Sports,Yoga Mat,1,44.63,Bank Transfer
+O0817,C293,2023-02-09,Beauty,Skincare Set,3,125.87,Bank Transfer
+O0818,C348,2023-06-03,Fashion,T-Shirt,2,181.74,Gift Card
+O0819,C166,2023-12-14,Sports,Dumbbells,3,103.18,Gift Card
+O0820,C226,2024-06-15,Fashion,Jeans,1,280.79,Credit Card
+O0821,C322,2023-09-19,Home,Chair,2,169.44,PayPal
+O0822,C160,2024-11-23,Sports,Tennis Racket,1,291.75,Credit Card
+O0823,C056,2024-08-02,Fashion,Jacket,1,202.56,Gift Card
+O0824,C157,2023-09-09,Sports,Running Shoes,1,173.88,Gift Card
+O0825,C496,2023-03-20,Home,Coffee Maker,2,118.09,PayPal
+O0826,C299,2024-10-20,Home,Cookware,3,129.86,PayPal
+O0827,C422,2023-08-05,Beauty,Hair Dryer,1,133.79,PayPal
+O0828,C282,2023-12-16,Sports,Yoga Mat,2,153.87,PayPal
+O0829,C337,2024-06-18,Fashion,Jacket,2,196.2,Gift Card
+O0830,C452,2024-07-12,Sports,Dumbbells,1,184.12,Credit Card
+O0831,C235,2023-06-16,Electronics,Keyboard,3,81.68,Gift Card
+O0832,C018,2024-10-06,Sports,Bicycle Helmet,1,234.79,Bank Transfer
+O0833,C074,2023-01-13,Electronics,Laptop,3,101.42,PayPal
+O0834,C297,2024-12-07,Sports,Tennis Racket,1,146.06,Gift Card
+O0835,C292,2024-11-10,Fashion,Jeans,3,47.88,Credit Card
+O0836,C408,2024-01-19,Fashion,Jeans,1,43.62,Credit Card
+O0837,C081,2024-08-10,Sports,Bicycle Helmet,1,271.57,Bank Transfer
+O0838,C193,2023-05-11,Home,Vacuum Cleaner,1,196.26,Credit Card
+O0839,C143,2024-02-17,Fashion,Jacket,1,189.18,Gift Card
+O0840,C069,2024-03-21,Sports,Running Shoes,1,96.55,Gift Card
+O0841,C162,2023-09-16,Electronics,Headphones,1,60.71,Gift Card
+O0842,C212,2024-07-14,Electronics,Keyboard,3,273.57,Gift Card
+O0843,C143,2023-12-01,Beauty,Shampoo,3,175.49,Credit Card
+O0844,C254,2024-06-09,Beauty,Makeup Kit,2,49.71,Gift Card
+O0845,C140,2024-03-29,Fashion,T-Shirt,2,225.96,Bank Transfer
+O0846,C397,2024-03-01,Beauty,Perfume,1,194.42,PayPal
+O0847,C498,2024-11-03,Home,Chair,2,123.96,Gift Card
+O0848,C374,2023-03-25,Fashion,Jeans,1,141.24,Credit Card
+O0849,C020,2023-04-10,Fashion,T-Shirt,3,116.94,Gift Card
+O0850,C060,2024-09-18,Fashion,Jacket,1,282.72,PayPal
+O0851,C466,2024-09-20,Home,Chair,3,44.62,PayPal
+O0852,C485,2023-12-02,Beauty,Makeup Kit,3,114.87,Gift Card
+O0853,C342,2024-11-19,Sports,Tennis Racket,1,114.08,Gift Card
+O0854,C391,2023-10-02,Fashion,Sneakers,2,14.81,Bank Transfer
+O0855,C155,2023-07-04,Beauty,Skincare Set,1,76.92,Gift Card
+O0856,C371,2023-10-03,Beauty,Hair Dryer,2,103.62,Bank Transfer
+O0857,C489,2024-03-31,Electronics,Keyboard,2,216.28,PayPal
+O0858,C318,2024-01-22,Sports,Yoga Mat,2,33.03,PayPal
+O0859,C233,2024-03-12,Fashion,Jeans,1,229.09,Gift Card
+O0860,C081,2024-06-14,Home,Lamp,2,276.38,Gift Card
+O0861,C205,2023-05-01,Fashion,Jeans,3,77.7,Gift Card
+O0862,C323,2023-04-29,Sports,Running Shoes,3,202.06,Gift Card
+O0863,C275,2024-12-11,Sports,Running Shoes,1,128.55,Gift Card
+O0864,C193,2024-05-13,Electronics,Headphones,2,281.27,PayPal
+O0865,C486,2023-09-21,Home,Coffee Maker,2,27.62,Bank Transfer
+O0866,C292,2024-04-21,Fashion,Sneakers,1,212.64,Credit Card
+O0867,C157,2024-04-09,Fashion,T-Shirt,2,49.54,Gift Card
+O0868,C120,2023-02-21,Electronics,Laptop,3,249.85,PayPal
+O0869,C146,2024-06-21,Beauty,Makeup Kit,2,180.84,Gift Card
+O0870,C121,2024-03-04,Home,Vacuum Cleaner,3,15.47,Bank Transfer
+O0871,C022,2023-05-27,Electronics,Smartphone,1,157.67,Bank Transfer
+O0872,C220,2024-04-05,Home,Cookware,3,147.54,Credit Card
+O0873,C316,2024-01-06,Home,Chair,2,49.67,Credit Card
+O0874,C028,2023-12-10,Electronics,Monitor,1,189.11,Credit Card
+O0875,C330,2023-01-20,Sports,Running Shoes,2,160.06,PayPal
+O0876,C104,2024-07-30,Beauty,Shampoo,2,29.08,Credit Card
+O0877,C460,2024-08-31,Home,Lamp,3,104.91,Bank Transfer
+O0878,C265,2023-10-29,Electronics,Keyboard,3,224.93,Gift Card
+O0879,C489,2023-11-09,Fashion,Sneakers,1,56.02,Bank Transfer
+O0880,C194,2024-08-11,Fashion,T-Shirt,2,46.42,Gift Card
+O0881,C240,2024-03-24,Sports,Yoga Mat,1,247.44,Bank Transfer
+O0882,C268,2023-07-19,Sports,Tennis Racket,1,285.64,Bank Transfer
+O0883,C209,2023-03-29,Beauty,Hair Dryer,2,190.39,PayPal
+O0884,C369,2024-06-14,Electronics,Keyboard,1,80.7,Bank Transfer
+O0885,C047,2024-11-09,Electronics,Smartphone,1,218.15,Credit Card
+O0886,C302,2023-09-20,Beauty,Perfume,2,106.83,Gift Card
+O0887,C122,2024-06-18,Home,Chair,1,20.09,Gift Card
+O0888,C044,2024-06-05,Electronics,Laptop,1,52.88,PayPal
+O0889,C445,2023-07-01,Sports,Bicycle Helmet,2,51.14,PayPal
+O0890,C191,2023-02-14,Electronics,Monitor,3,199.37,Gift Card
+O0891,C278,2023-11-22,Beauty,Shampoo,1,71.44,PayPal
+O0892,C257,2023-06-16,Beauty,Makeup Kit,3,117.35,Bank Transfer
+O0893,C179,2024-10-21,Beauty,Skincare Set,2,244.46,PayPal
+O0894,C035,2023-02-04,Electronics,Smartphone,2,200.48,Gift Card
+O0895,C027,2024-04-14,Fashion,Sneakers,1,145.06,Credit Card
+O0896,C117,2023-06-22,Home,Cookware,3,241.93,Gift Card
+O0897,C420,2023-02-11,Sports,Bicycle Helmet,3,28.1,Gift Card
+O0898,C361,2023-10-03,Electronics,Monitor,3,11.58,PayPal
+O0899,C461,2024-07-07,Electronics,Keyboard,3,209.23,Credit Card
+O0900,C215,2024-12-07,Electronics,Smartphone,1,193.72,Bank Transfer
+O0901,C451,2023-02-08,Home,Vacuum Cleaner,1,137.6,Bank Transfer
+O0902,C212,2024-04-25,Home,Lamp,1,275.16,Bank Transfer
+O0903,C313,2024-09-27,Electronics,Keyboard,3,88.71,PayPal
+O0904,C384,2023-02-08,Home,Coffee Maker,1,42.39,Bank Transfer
+O0905,C409,2023-10-23,Beauty,Hair Dryer,2,280.37,PayPal
+O0906,C430,2023-05-11,Home,Coffee Maker,2,106.73,Gift Card
+O0907,C438,2023-11-19,Beauty,Skincare Set,3,77.28,Bank Transfer
+O0908,C316,2024-05-24,Fashion,Dress,2,44.05,Bank Transfer
+O0909,C276,2023-03-01,Electronics,Headphones,2,164.74,Credit Card
+O0910,C014,2023-03-11,Electronics,Laptop,3,287.89,Bank Transfer
+O0911,C117,2024-04-06,Electronics,Headphones,2,159.27,Gift Card
+O0912,C229,2023-06-18,Fashion,Dress,1,240.61,Bank Transfer
+O0913,C312,2024-09-08,Electronics,Laptop,2,212.38,Credit Card
+O0914,C012,2023-04-11,Sports,Yoga Mat,2,252.01,PayPal
+O0915,C224,2024-09-27,Sports,Bicycle Helmet,3,155.56,Credit Card
+O0916,C055,2024-07-06,Home,Chair,2,246.75,Credit Card
+O0917,C096,2024-11-23,Sports,Dumbbells,3,185.43,PayPal
+O0918,C426,2023-11-06,Sports,Tennis Racket,2,94.6,Bank Transfer
+O0919,C429,2023-05-08,Electronics,Monitor,3,191.77,Credit Card
+O0920,C435,2023-07-22,Home,Lamp,3,204.82,Bank Transfer
+O0921,C219,2023-10-13,Home,Coffee Maker,1,214.98,PayPal
+O0922,C040,2023-07-11,Sports,Bicycle Helmet,1,279.29,Bank Transfer
+O0923,C382,2024-12-10,Fashion,Jacket,3,153.28,Gift Card
+O0924,C017,2023-10-07,Sports,Bicycle Helmet,3,186.68,Gift Card
+O0925,C153,2024-09-13,Beauty,Makeup Kit,1,111.37,Gift Card
+O0926,C221,2024-07-14,Home,Vacuum Cleaner,3,111.45,Gift Card
+O0927,C066,2024-06-21,Electronics,Monitor,3,37.86,Bank Transfer
+O0928,C078,2023-04-05,Home,Vacuum Cleaner,3,47.73,Bank Transfer
+O0929,C123,2023-03-29,Home,Coffee Maker,2,97.95,Bank Transfer
+O0930,C186,2024-03-26,Sports,Bicycle Helmet,3,170.67,Credit Card
+O0931,C396,2024-04-16,Beauty,Perfume,3,157.68,Bank Transfer
+O0932,C116,2024-06-25,Electronics,Monitor,1,45.3,PayPal
+O0933,C311,2023-03-19,Beauty,Shampoo,3,121.39,PayPal
+O0934,C273,2024-04-07,Home,Chair,2,112.17,Bank Transfer
+O0935,C468,2023-08-09,Sports,Bicycle Helmet,3,268.2,Gift Card
+O0936,C063,2024-09-22,Home,Coffee Maker,2,196.21,Bank Transfer
+O0937,C226,2023-11-18,Beauty,Hair Dryer,3,96.89,Credit Card
+O0938,C012,2024-05-26,Beauty,Hair Dryer,2,155.33,Bank Transfer
+O0939,C301,2023-09-08,Sports,Bicycle Helmet,3,276.57,Credit Card
+O0940,C085,2024-11-01,Electronics,Monitor,1,120.19,Bank Transfer
+O0941,C108,2023-10-03,Fashion,T-Shirt,3,283.24,Credit Card
+O0942,C465,2024-03-05,Home,Coffee Maker,2,108.18,PayPal
+O0943,C060,2023-09-05,Sports,Tennis Racket,1,10.01,PayPal
+O0944,C259,2024-12-28,Fashion,Jeans,2,261.69,PayPal
+O0945,C153,2023-10-27,Beauty,Shampoo,3,158.86,Bank Transfer
+O0946,C265,2023-03-06,Fashion,Sneakers,3,127.76,Credit Card
+O0947,C180,2023-09-23,Beauty,Shampoo,3,228.17,PayPal
+O0948,C383,2023-11-25,Fashion,Jacket,2,198.32,Gift Card
+O0949,C440,2023-04-25,Home,Chair,3,119.49,PayPal
+O0950,C344,2024-07-30,Electronics,Keyboard,3,153.32,Gift Card
+O0951,C056,2023-03-06,Sports,Bicycle Helmet,3,142.6,Credit Card
+O0952,C073,2023-03-28,Electronics,Laptop,2,119.33,Bank Transfer
+O0953,C488,2023-04-26,Sports,Bicycle Helmet,3,218.63,PayPal
+O0954,C122,2024-07-30,Fashion,Sneakers,2,155.39,PayPal
+O0955,C390,2023-01-13,Fashion,Dress,2,215.38,Credit Card
+O0956,C081,2023-08-25,Electronics,Smartphone,2,99.87,PayPal
+O0957,C163,2023-03-25,Electronics,Smartphone,2,278.59,PayPal
+O0958,C154,2023-01-12,Beauty,Perfume,3,77.76,PayPal
+O0959,C410,2023-05-14,Sports,Bicycle Helmet,1,249.14,PayPal
+O0960,C001,2023-03-20,Beauty,Makeup Kit,1,74.22,Gift Card
+O0961,C001,2023-12-11,Sports,Bicycle Helmet,3,72.4,Credit Card
+O0962,C266,2023-03-25,Home,Coffee Maker,3,194.81,Gift Card
+O0963,C301,2023-01-31,Sports,Bicycle Helmet,1,297.31,Gift Card
+O0964,C232,2024-08-26,Sports,Dumbbells,1,145.12,Gift Card
+O0965,C309,2024-12-10,Home,Cookware,3,124.18,PayPal
+O0966,C286,2024-11-05,Electronics,Keyboard,1,163.49,PayPal
+O0967,C062,2024-06-29,Sports,Yoga Mat,1,178.94,Credit Card
+O0968,C122,2023-05-16,Home,Chair,3,292.5,Bank Transfer
+O0969,C194,2024-01-30,Home,Chair,1,272.15,Gift Card
+O0970,C489,2023-11-13,Electronics,Keyboard,2,214.4,Bank Transfer
+O0971,C293,2024-11-12,Beauty,Skincare Set,2,55.21,Gift Card
+O0972,C341,2024-07-02,Sports,Tennis Racket,2,179.58,PayPal
+O0973,C267,2024-09-25,Sports,Dumbbells,2,171.78,PayPal
+O0974,C143,2024-05-11,Home,Chair,2,159.48,Credit Card
+O0975,C142,2024-04-13,Fashion,Jacket,2,188.54,Credit Card
+O0976,C389,2024-03-07,Home,Chair,3,56.42,Credit Card
+O0977,C086,2023-10-25,Fashion,Sneakers,3,171.04,Credit Card
+O0978,C026,2024-10-24,Beauty,Perfume,3,223.58,Gift Card
+O0979,C099,2024-05-29,Beauty,Makeup Kit,3,15.72,Credit Card
+O0980,C242,2024-03-23,Sports,Tennis Racket,3,179.85,Gift Card
+O0981,C340,2023-10-27,Sports,Running Shoes,1,68.18,Gift Card
+O0982,C439,2024-02-24,Sports,Tennis Racket,3,59.04,Gift Card
+O0983,C280,2024-07-10,Electronics,Smartphone,2,285.22,Credit Card
+O0984,C210,2023-07-19,Fashion,Dress,2,241.31,Credit Card
+O0985,C153,2023-01-10,Electronics,Laptop,1,262.6,Bank Transfer
+O0986,C382,2024-05-14,Sports,Running Shoes,1,100.26,Bank Transfer
+O0987,C439,2024-07-05,Electronics,Keyboard,1,43.83,Gift Card
+O0988,C251,2023-08-30,Home,Lamp,2,139.55,Gift Card
+O0989,C050,2023-02-22,Sports,Yoga Mat,1,39.42,Bank Transfer
+O0990,C074,2024-05-31,Electronics,Monitor,1,168.39,Credit Card
+O0991,C139,2023-07-05,Home,Cookware,2,36.41,PayPal
+O0992,C455,2024-06-25,Electronics,Monitor,3,76.21,Bank Transfer
+O0993,C331,2024-05-30,Fashion,T-Shirt,3,121.49,PayPal
+O0994,C159,2023-08-06,Fashion,Jacket,3,87.2,Credit Card
+O0995,C356,2024-08-26,Home,Cookware,1,122.01,Gift Card
+O0996,C202,2023-09-25,Fashion,T-Shirt,2,237.94,Gift Card
+O0997,C138,2024-03-18,Beauty,Perfume,3,50.34,Credit Card
+O0998,C336,2024-02-24,Sports,Dumbbells,2,121.92,PayPal
+O0999,C259,2023-08-05,Electronics,Monitor,2,38.93,Credit Card
+O1000,C465,2024-07-27,Home,Cookware,1,37.87,Gift Card
+O1001,C256,2023-07-02,Sports,Dumbbells,1,74.36,PayPal
+O1002,C122,2024-11-17,Beauty,Makeup Kit,3,213.76,Bank Transfer
+O1003,C350,2024-12-17,Beauty,Makeup Kit,1,210.16,PayPal
+O1004,C234,2023-03-07,Fashion,Dress,3,30.97,PayPal
+O1005,C499,2023-04-10,Home,Cookware,2,159.16,PayPal
+O1006,C426,2024-02-07,Home,Vacuum Cleaner,3,212.91,PayPal
+O1007,C166,2023-05-15,Fashion,Jeans,2,117.21,PayPal
+O1008,C428,2024-11-04,Beauty,Skincare Set,1,86.88,PayPal
+O1009,C456,2024-07-13,Electronics,Headphones,1,163.47,Credit Card
+O1010,C281,2024-04-14,Sports,Dumbbells,1,86.22,Credit Card
+O1011,C350,2023-02-19,Electronics,Monitor,1,33.65,PayPal
+O1012,C087,2023-01-17,Fashion,Sneakers,1,298.76,PayPal
+O1013,C241,2023-08-08,Beauty,Hair Dryer,3,145.36,Gift Card
+O1014,C397,2023-07-18,Home,Coffee Maker,2,55.44,Credit Card
+O1015,C222,2023-03-29,Electronics,Laptop,1,255.06,PayPal
+O1016,C412,2023-09-15,Beauty,Shampoo,2,277.82,PayPal
+O1017,C165,2023-03-01,Electronics,Headphones,2,178.47,Credit Card
+O1018,C292,2023-02-02,Electronics,Keyboard,1,14.4,PayPal
+O1019,C488,2024-04-09,Sports,Running Shoes,2,52.18,Bank Transfer
+O1020,C071,2023-09-11,Sports,Bicycle Helmet,1,78.98,Bank Transfer
+O1021,C098,2024-12-25,Beauty,Shampoo,2,272.44,PayPal
+O1022,C231,2024-03-30,Home,Cookware,2,182.59,PayPal
+O1023,C448,2023-01-08,Fashion,Jeans,2,63.41,Gift Card
+O1024,C296,2024-03-25,Beauty,Perfume,3,247.56,PayPal
+O1025,C365,2024-02-29,Home,Chair,1,141.08,Bank Transfer
+O1026,C158,2023-07-31,Fashion,T-Shirt,1,130.49,Bank Transfer
+O1027,C211,2023-09-27,Sports,Yoga Mat,2,238.43,Gift Card
+O1028,C090,2024-10-10,Fashion,Jeans,1,27.05,PayPal
+O1029,C236,2024-12-19,Beauty,Perfume,2,15.7,PayPal
+O1030,C345,2023-07-11,Home,Lamp,1,174.4,Gift Card
+O1031,C250,2024-01-09,Electronics,Monitor,3,32.67,Gift Card
+O1032,C026,2023-07-30,Sports,Running Shoes,3,35.6,Bank Transfer
+O1033,C169,2023-12-31,Sports,Yoga Mat,3,123.27,Gift Card
+O1034,C437,2024-11-08,Home,Lamp,1,69.2,Gift Card
+O1035,C442,2024-05-21,Electronics,Headphones,3,133.72,Gift Card
+O1036,C309,2024-04-20,Sports,Running Shoes,1,284.95,PayPal
+O1037,C177,2024-04-23,Beauty,Makeup Kit,2,147.72,Gift Card
+O1038,C129,2024-12-12,Fashion,Dress,2,276.6,Bank Transfer
+O1039,C085,2023-06-14,Home,Cookware,3,190.64,Credit Card
+O1040,C456,2024-05-14,Home,Chair,1,197.03,Credit Card
+O1041,C223,2023-09-03,Beauty,Shampoo,2,71.71,PayPal
+O1042,C350,2024-02-11,Home,Cookware,1,200.28,PayPal
+O1043,C259,2023-04-07,Fashion,T-Shirt,1,54.2,PayPal
+O1044,C213,2023-04-05,Electronics,Headphones,3,256.59,PayPal
+O1045,C428,2023-05-20,Fashion,Sneakers,2,294.87,PayPal
+O1046,C357,2024-11-18,Electronics,Headphones,1,56.4,Bank Transfer
+O1047,C087,2024-01-23,Electronics,Keyboard,2,102.05,Credit Card
+O1048,C422,2023-12-14,Home,Vacuum Cleaner,3,119.43,Gift Card
+O1049,C174,2024-01-24,Home,Cookware,2,191.46,Bank Transfer
+O1050,C265,2024-09-06,Beauty,Perfume,1,166.94,PayPal
+O1051,C103,2023-01-06,Beauty,Skincare Set,3,287.87,Credit Card
+O1052,C283,2023-10-30,Home,Vacuum Cleaner,1,133.3,Gift Card
+O1053,C452,2023-12-20,Sports,Tennis Racket,1,292.97,Gift Card
+O1054,C060,2024-05-24,Home,Cookware,3,275.47,Credit Card
+O1055,C424,2024-01-03,Sports,Yoga Mat,3,103.3,Bank Transfer
+O1056,C238,2024-09-11,Electronics,Headphones,3,124.17,Credit Card
+O1057,C456,2024-11-21,Electronics,Headphones,1,278.63,Gift Card
+O1058,C262,2024-04-16,Sports,Yoga Mat,2,60.59,Bank Transfer
+O1059,C463,2024-11-04,Home,Cookware,1,95.22,Credit Card
+O1060,C036,2024-06-10,Home,Chair,2,63.93,PayPal
+O1061,C094,2024-08-30,Beauty,Shampoo,2,283.24,Gift Card
+O1062,C369,2024-06-05,Electronics,Headphones,2,218.36,PayPal
+O1063,C466,2024-09-19,Sports,Running Shoes,2,251.8,Bank Transfer
+O1064,C420,2023-12-26,Fashion,Sneakers,3,245.01,Gift Card
+O1065,C138,2023-09-07,Home,Lamp,3,135.12,PayPal
+O1066,C477,2023-04-03,Beauty,Hair Dryer,1,123.93,Gift Card
+O1067,C061,2023-11-24,Sports,Running Shoes,2,288.12,Gift Card
+O1068,C455,2024-02-01,Electronics,Monitor,1,276.36,Gift Card
+O1069,C304,2023-06-10,Electronics,Headphones,2,39.05,Credit Card
+O1070,C077,2023-09-10,Beauty,Skincare Set,3,57.95,Credit Card
+O1071,C242,2024-02-12,Fashion,T-Shirt,2,217.06,PayPal
+O1072,C215,2023-07-16,Home,Cookware,2,293.53,PayPal
+O1073,C475,2023-01-14,Fashion,Jacket,3,186.73,PayPal
+O1074,C174,2024-05-19,Beauty,Shampoo,1,197.15,PayPal
+O1075,C055,2024-05-17,Beauty,Shampoo,1,63.8,Credit Card
+O1076,C244,2023-04-04,Fashion,Jacket,1,31.93,Credit Card
+O1077,C119,2023-12-26,Fashion,Jacket,1,208.17,Credit Card
+O1078,C052,2023-10-30,Beauty,Makeup Kit,1,55.28,Bank Transfer
+O1079,C115,2023-09-05,Electronics,Keyboard,2,74.93,PayPal
+O1080,C276,2023-01-05,Home,Coffee Maker,1,92.36,PayPal
+O1081,C051,2023-11-14,Beauty,Skincare Set,2,236.67,Gift Card
+O1082,C314,2024-05-04,Sports,Bicycle Helmet,2,37.1,PayPal
+O1083,C221,2023-04-27,Sports,Tennis Racket,1,83.57,PayPal
+O1084,C055,2024-08-18,Fashion,T-Shirt,3,121.12,Bank Transfer
+O1085,C369,2023-08-22,Sports,Tennis Racket,3,298.94,Credit Card
+O1086,C111,2024-08-22,Sports,Yoga Mat,1,14.0,PayPal
+O1087,C153,2024-09-15,Fashion,Jacket,2,94.18,PayPal
+O1088,C403,2023-01-19,Electronics,Laptop,3,103.59,Gift Card
+O1089,C113,2023-12-01,Home,Coffee Maker,2,185.91,PayPal
+O1090,C011,2024-02-01,Home,Lamp,1,80.01,Gift Card
+O1091,C377,2023-06-26,Electronics,Keyboard,3,249.65,Gift Card
+O1092,C448,2023-01-09,Fashion,Jeans,1,63.05,PayPal
+O1093,C045,2024-05-30,Beauty,Skincare Set,1,125.7,PayPal
+O1094,C292,2023-01-07,Electronics,Laptop,3,248.26,Credit Card
+O1095,C117,2024-01-30,Electronics,Smartphone,2,77.13,PayPal
+O1096,C423,2024-09-07,Beauty,Hair Dryer,2,282.44,Bank Transfer
+O1097,C231,2024-05-29,Home,Lamp,3,94.14,PayPal
+O1098,C351,2023-10-17,Beauty,Perfume,2,34.98,PayPal
+O1099,C068,2024-09-06,Beauty,Hair Dryer,3,296.08,Credit Card
+O1100,C172,2023-03-16,Electronics,Headphones,1,271.37,Gift Card
+O1101,C291,2024-10-11,Sports,Yoga Mat,3,46.8,Credit Card
+O1102,C465,2024-07-07,Beauty,Skincare Set,1,93.02,Gift Card
+O1103,C179,2024-12-23,Beauty,Makeup Kit,1,130.52,PayPal
+O1104,C474,2024-05-31,Electronics,Headphones,1,172.41,Bank Transfer
+O1105,C471,2023-12-04,Electronics,Smartphone,3,50.6,Gift Card
+O1106,C250,2023-10-25,Beauty,Perfume,1,102.97,PayPal
+O1107,C267,2024-09-01,Home,Vacuum Cleaner,3,247.71,Bank Transfer
+O1108,C219,2023-08-22,Beauty,Shampoo,2,113.56,PayPal
+O1109,C318,2023-10-14,Electronics,Keyboard,3,118.25,PayPal
+O1110,C222,2023-11-19,Beauty,Hair Dryer,1,272.07,PayPal
+O1111,C398,2024-01-14,Home,Lamp,2,66.39,Bank Transfer
+O1112,C030,2023-04-04,Home,Lamp,1,250.26,PayPal
+O1113,C125,2023-03-15,Sports,Running Shoes,2,46.72,Bank Transfer
+O1114,C252,2024-12-21,Electronics,Headphones,3,224.28,Gift Card
+O1115,C116,2023-11-24,Beauty,Skincare Set,3,135.74,Bank Transfer
+O1116,C369,2023-07-27,Fashion,T-Shirt,2,206.0,Credit Card
+O1117,C189,2023-06-29,Sports,Bicycle Helmet,2,214.99,Gift Card
+O1118,C235,2023-03-09,Fashion,Sneakers,1,82.46,PayPal
+O1119,C176,2024-12-28,Fashion,Dress,3,21.59,PayPal
+O1120,C350,2024-12-04,Sports,Dumbbells,3,227.42,PayPal
+O1121,C371,2024-08-16,Electronics,Monitor,2,226.91,Gift Card
+O1122,C040,2024-07-06,Electronics,Monitor,1,69.51,Credit Card
+O1123,C081,2023-11-18,Fashion,Dress,2,106.69,Credit Card
+O1124,C268,2023-11-29,Sports,Dumbbells,2,176.99,Credit Card
+O1125,C056,2024-01-21,Sports,Tennis Racket,2,213.81,Gift Card
+O1126,C387,2024-02-28,Beauty,Shampoo,3,194.19,Credit Card
+O1127,C495,2024-06-27,Beauty,Perfume,1,251.59,Credit Card
+O1128,C340,2023-10-01,Electronics,Smartphone,1,56.12,Bank Transfer
+O1129,C340,2023-03-02,Beauty,Skincare Set,3,206.0,Bank Transfer
+O1130,C197,2024-06-29,Electronics,Laptop,1,181.74,Bank Transfer
+O1131,C461,2024-03-14,Home,Cookware,2,155.24,Gift Card
+O1132,C221,2023-04-23,Fashion,Dress,2,150.81,Credit Card
+O1133,C137,2023-01-16,Home,Coffee Maker,2,200.16,PayPal
+O1134,C362,2024-11-09,Sports,Tennis Racket,3,173.48,Gift Card
+O1135,C388,2023-02-26,Electronics,Laptop,2,211.5,Gift Card
+O1136,C418,2023-01-25,Sports,Yoga Mat,2,36.91,Credit Card
+O1137,C020,2023-05-11,Fashion,Sneakers,3,245.49,Credit Card
+O1138,C296,2024-11-18,Fashion,Jacket,3,232.6,PayPal
+O1139,C304,2024-10-11,Electronics,Monitor,2,83.39,PayPal
+O1140,C227,2023-08-06,Beauty,Skincare Set,1,65.06,Gift Card
+O1141,C417,2023-10-10,Beauty,Makeup Kit,2,126.48,Bank Transfer
+O1142,C043,2024-07-06,Electronics,Keyboard,1,83.98,Credit Card
+O1143,C395,2024-10-21,Sports,Tennis Racket,3,179.31,PayPal
+O1144,C063,2023-09-04,Sports,Tennis Racket,2,137.35,Credit Card
+O1145,C221,2024-03-15,Home,Cookware,2,238.01,PayPal
+O1146,C403,2024-05-15,Fashion,Jeans,3,111.0,Bank Transfer
+O1147,C031,2023-12-07,Home,Lamp,2,129.79,Credit Card
+O1148,C042,2024-09-18,Sports,Bicycle Helmet,2,190.83,Bank Transfer
+O1149,C313,2023-02-16,Sports,Bicycle Helmet,2,167.45,Credit Card
+O1150,C271,2024-03-02,Fashion,Jeans,2,293.92,Bank Transfer
+O1151,C377,2023-09-01,Fashion,Jacket,1,211.79,PayPal
+O1152,C475,2023-07-15,Electronics,Laptop,2,44.23,Gift Card
+O1153,C332,2024-01-03,Electronics,Laptop,2,230.09,Bank Transfer
+O1154,C317,2023-06-24,Fashion,T-Shirt,2,175.85,PayPal
+O1155,C432,2024-06-17,Sports,Bicycle Helmet,3,120.02,PayPal
+O1156,C230,2023-07-14,Home,Cookware,3,195.07,Credit Card
+O1157,C313,2023-01-17,Beauty,Perfume,2,264.19,Credit Card
+O1158,C176,2024-05-18,Fashion,Jeans,1,229.58,PayPal
+O1159,C133,2024-09-08,Home,Vacuum Cleaner,3,216.57,Credit Card
+O1160,C178,2024-01-14,Beauty,Perfume,1,162.6,Gift Card
+O1161,C410,2024-06-20,Beauty,Hair Dryer,2,47.17,PayPal
+O1162,C156,2023-03-28,Fashion,Sneakers,2,220.87,Gift Card
+O1163,C312,2023-01-02,Electronics,Monitor,3,108.86,Bank Transfer
+O1164,C462,2023-03-30,Beauty,Shampoo,1,166.75,Credit Card
+O1165,C276,2023-04-21,Home,Chair,1,252.22,Gift Card
+O1166,C030,2024-04-17,Sports,Yoga Mat,2,53.08,Bank Transfer
+O1167,C427,2023-04-28,Home,Cookware,2,54.9,Bank Transfer
+O1168,C459,2023-08-21,Sports,Tennis Racket,2,189.29,Bank Transfer
+O1169,C425,2024-12-01,Fashion,Dress,1,46.33,Credit Card
+O1170,C440,2023-11-10,Home,Cookware,3,78.66,Bank Transfer
+O1171,C361,2024-09-13,Home,Coffee Maker,3,119.06,PayPal
+O1172,C422,2023-09-06,Beauty,Hair Dryer,2,160.67,Gift Card
+O1173,C084,2024-03-06,Home,Vacuum Cleaner,1,263.17,Credit Card
+O1174,C168,2023-11-20,Sports,Yoga Mat,1,12.9,Gift Card
+O1175,C338,2023-05-31,Electronics,Smartphone,1,36.62,Bank Transfer
+O1176,C393,2023-12-17,Fashion,Jeans,3,23.62,Bank Transfer
+O1177,C387,2024-06-17,Fashion,Dress,3,285.74,Bank Transfer
+O1178,C147,2024-02-14,Electronics,Keyboard,1,180.82,Bank Transfer
+O1179,C274,2023-12-07,Sports,Bicycle Helmet,2,236.59,Bank Transfer
+O1180,C001,2023-01-05,Home,Cookware,3,119.84,Credit Card
+O1181,C425,2024-11-30,Home,Lamp,3,290.65,Credit Card
+O1182,C292,2024-01-18,Beauty,Makeup Kit,3,116.08,Bank Transfer
+O1183,C490,2023-01-14,Electronics,Keyboard,1,143.75,Gift Card
+O1184,C056,2023-06-23,Beauty,Skincare Set,2,127.72,Gift Card
+O1185,C010,2024-03-26,Home,Cookware,3,19.48,Bank Transfer
+O1186,C492,2024-11-26,Sports,Tennis Racket,2,258.23,Gift Card
+O1187,C475,2023-03-10,Beauty,Perfume,1,13.67,Credit Card
+O1188,C408,2024-04-12,Sports,Bicycle Helmet,1,236.01,Bank Transfer
+O1189,C488,2024-03-16,Fashion,Jeans,1,62.19,Bank Transfer
+O1190,C079,2023-04-16,Sports,Dumbbells,2,58.25,Bank Transfer
+O1191,C357,2024-08-26,Home,Cookware,1,295.54,PayPal
+O1192,C189,2023-02-19,Home,Chair,3,63.63,PayPal
+O1193,C417,2023-08-25,Sports,Running Shoes,3,208.48,Bank Transfer
+O1194,C490,2023-10-20,Fashion,Jeans,1,288.67,Credit Card
+O1195,C356,2023-01-28,Beauty,Shampoo,1,179.28,Gift Card
+O1196,C238,2023-04-05,Electronics,Smartphone,3,264.92,PayPal
+O1197,C242,2024-04-11,Beauty,Makeup Kit,1,299.23,PayPal
+O1198,C085,2023-09-18,Home,Lamp,2,95.86,Credit Card
+O1199,C285,2023-06-03,Sports,Dumbbells,3,92.21,Credit Card
+O1200,C056,2024-04-16,Home,Cookware,2,166.88,Bank Transfer
+O1201,C025,2023-01-05,Electronics,Keyboard,1,72.98,Gift Card
+O1202,C142,2023-03-18,Electronics,Headphones,3,10.19,Bank Transfer
+O1203,C113,2024-11-27,Electronics,Headphones,1,125.73,Bank Transfer
+O1204,C045,2023-03-31,Beauty,Hair Dryer,3,292.66,PayPal
+O1205,C178,2024-08-14,Electronics,Monitor,1,245.82,Bank Transfer
+O1206,C404,2024-04-17,Fashion,Sneakers,1,200.32,PayPal
+O1207,C210,2023-07-20,Fashion,Jeans,1,78.99,Credit Card
+O1208,C105,2023-09-07,Electronics,Headphones,3,102.01,Gift Card
+O1209,C030,2023-08-28,Electronics,Laptop,2,299.24,PayPal
+O1210,C169,2024-04-27,Fashion,Sneakers,1,177.63,Gift Card
+O1211,C410,2024-11-08,Beauty,Hair Dryer,3,65.63,PayPal
+O1212,C034,2023-11-30,Electronics,Laptop,3,105.5,PayPal
+O1213,C331,2023-07-14,Beauty,Skincare Set,3,44.16,Credit Card
+O1214,C211,2024-08-22,Beauty,Hair Dryer,3,93.19,Bank Transfer
+O1215,C077,2023-10-11,Sports,Dumbbells,1,204.87,Credit Card
+O1216,C193,2023-07-16,Beauty,Shampoo,1,176.03,PayPal
+O1217,C435,2023-01-05,Sports,Running Shoes,1,245.64,Credit Card
+O1218,C423,2024-02-14,Sports,Yoga Mat,2,190.28,Bank Transfer
+O1219,C123,2023-11-02,Fashion,Jeans,2,220.87,PayPal
+O1220,C052,2023-07-05,Electronics,Headphones,1,44.2,Bank Transfer
+O1221,C247,2024-02-29,Beauty,Perfume,2,105.5,Credit Card
+O1222,C452,2023-03-28,Electronics,Headphones,2,214.65,Bank Transfer
+O1223,C009,2024-01-19,Electronics,Monitor,1,71.59,Credit Card
+O1224,C315,2024-03-25,Home,Chair,2,34.67,Bank Transfer
+O1225,C172,2023-12-01,Fashion,Sneakers,1,119.29,Bank Transfer
+O1226,C280,2024-01-08,Sports,Bicycle Helmet,1,86.64,Gift Card
+O1227,C215,2024-12-25,Electronics,Monitor,1,293.67,PayPal
+O1228,C308,2023-01-11,Beauty,Makeup Kit,2,42.84,Credit Card
+O1229,C229,2023-10-14,Electronics,Monitor,3,118.2,Bank Transfer
+O1230,C479,2024-11-30,Fashion,Jacket,3,176.24,Gift Card
+O1231,C123,2024-04-25,Electronics,Headphones,2,134.66,Gift Card
+O1232,C032,2023-10-20,Beauty,Shampoo,3,20.07,PayPal
+O1233,C111,2023-04-25,Fashion,Jeans,1,121.6,Gift Card
+O1234,C121,2023-03-22,Home,Vacuum Cleaner,2,12.51,Bank Transfer
+O1235,C354,2023-06-10,Home,Chair,1,269.76,Gift Card
+O1236,C162,2024-01-12,Home,Vacuum Cleaner,1,266.0,Gift Card
+O1237,C211,2024-09-14,Home,Chair,3,219.47,Credit Card
+O1238,C236,2023-03-24,Fashion,T-Shirt,2,213.95,Credit Card
+O1239,C109,2023-06-20,Home,Lamp,3,253.16,Credit Card
+O1240,C367,2023-08-11,Sports,Yoga Mat,1,86.62,PayPal
+O1241,C113,2023-09-17,Beauty,Skincare Set,2,139.52,Bank Transfer
+O1242,C391,2024-02-04,Sports,Yoga Mat,2,50.55,PayPal
+O1243,C415,2023-07-13,Electronics,Monitor,3,202.59,Bank Transfer
+O1244,C462,2023-04-09,Fashion,Jeans,1,252.83,PayPal
+O1245,C443,2024-10-07,Sports,Running Shoes,3,243.52,Bank Transfer
+O1246,C375,2023-03-22,Sports,Yoga Mat,3,188.74,Bank Transfer
+O1247,C351,2024-05-20,Sports,Running Shoes,3,152.32,Gift Card
+O1248,C278,2023-01-06,Fashion,Dress,2,129.7,Credit Card
+O1249,C194,2024-05-04,Beauty,Skincare Set,1,23.79,Gift Card
+O1250,C101,2024-07-24,Sports,Running Shoes,2,245.51,Credit Card
+O1251,C142,2024-04-13,Sports,Running Shoes,3,183.63,Credit Card
+O1252,C424,2023-07-02,Home,Cookware,3,12.81,Credit Card
+O1253,C389,2023-01-27,Electronics,Monitor,2,237.36,Bank Transfer
+O1254,C410,2024-07-24,Electronics,Monitor,3,283.17,Credit Card
+O1255,C003,2024-01-26,Beauty,Makeup Kit,1,196.45,PayPal
+O1256,C254,2023-12-13,Sports,Running Shoes,1,29.09,Gift Card
+O1257,C491,2024-07-19,Fashion,Jeans,1,92.38,PayPal
+O1258,C116,2023-10-30,Fashion,Jeans,3,232.13,PayPal
+O1259,C380,2023-08-17,Beauty,Skincare Set,3,123.24,Bank Transfer
+O1260,C142,2023-11-05,Sports,Bicycle Helmet,3,119.27,Gift Card
+O1261,C273,2023-04-09,Electronics,Headphones,1,284.17,Bank Transfer
+O1262,C191,2023-01-23,Fashion,T-Shirt,1,47.33,Credit Card
+O1263,C023,2024-05-30,Sports,Dumbbells,1,81.23,Credit Card
+O1264,C469,2023-03-26,Sports,Bicycle Helmet,3,153.67,PayPal
+O1265,C323,2024-07-10,Sports,Dumbbells,3,38.28,Gift Card
+O1266,C200,2023-01-22,Beauty,Makeup Kit,1,280.59,Bank Transfer
+O1267,C384,2023-01-05,Fashion,Dress,1,187.18,PayPal
+O1268,C041,2024-03-06,Electronics,Keyboard,3,242.53,Credit Card
+O1269,C025,2024-11-08,Home,Vacuum Cleaner,3,292.06,Credit Card
+O1270,C231,2023-02-18,Beauty,Makeup Kit,1,277.57,PayPal
+O1271,C470,2024-02-21,Home,Vacuum Cleaner,3,128.18,Gift Card
+O1272,C152,2024-06-24,Beauty,Perfume,1,216.7,Bank Transfer
+O1273,C347,2023-02-11,Electronics,Smartphone,2,271.68,Credit Card
+O1274,C411,2023-07-08,Fashion,Dress,2,34.08,Gift Card
+O1275,C324,2024-07-28,Beauty,Skincare Set,1,46.71,Credit Card
+O1276,C428,2023-07-19,Sports,Tennis Racket,3,98.98,Bank Transfer
+O1277,C466,2023-12-23,Beauty,Skincare Set,2,234.66,Credit Card
+O1278,C163,2024-05-05,Electronics,Keyboard,3,22.79,Gift Card
+O1279,C213,2023-01-03,Fashion,Jeans,3,242.82,Credit Card
+O1280,C183,2024-02-21,Electronics,Keyboard,2,77.03,Gift Card
+O1281,C252,2023-06-23,Beauty,Shampoo,3,24.99,PayPal
+O1282,C462,2023-10-27,Electronics,Headphones,3,24.58,Bank Transfer
+O1283,C368,2023-03-14,Electronics,Headphones,1,121.72,Bank Transfer
+O1284,C395,2024-02-24,Beauty,Perfume,3,38.95,Credit Card
+O1285,C409,2024-03-16,Fashion,Sneakers,2,43.97,Credit Card
+O1286,C245,2023-03-18,Fashion,Jacket,1,83.86,Bank Transfer
+O1287,C004,2024-04-09,Home,Chair,2,86.0,Gift Card
+O1288,C454,2023-01-03,Electronics,Keyboard,2,206.19,Credit Card
+O1289,C256,2023-01-09,Home,Chair,3,169.42,PayPal
+O1290,C462,2023-06-23,Electronics,Keyboard,2,76.58,PayPal
+O1291,C263,2023-12-22,Beauty,Perfume,1,129.77,Gift Card
+O1292,C023,2024-09-10,Sports,Dumbbells,1,242.0,Bank Transfer
+O1293,C252,2023-12-20,Electronics,Smartphone,2,254.77,PayPal
+O1294,C240,2023-06-17,Home,Chair,1,96.52,Gift Card
+O1295,C225,2024-04-05,Sports,Yoga Mat,1,189.07,PayPal
+O1296,C397,2023-06-05,Sports,Running Shoes,3,95.4,Bank Transfer
+O1297,C177,2024-07-30,Beauty,Makeup Kit,1,52.85,PayPal
+O1298,C208,2023-10-13,Sports,Yoga Mat,3,206.67,Credit Card
+O1299,C390,2024-03-14,Fashion,Sneakers,3,123.52,PayPal
+O1300,C129,2024-10-17,Fashion,T-Shirt,2,67.55,Credit Card
+O1301,C332,2024-05-23,Electronics,Monitor,3,136.46,Bank Transfer
+O1302,C347,2024-03-13,Fashion,Sneakers,1,265.14,Gift Card
+O1303,C385,2023-12-31,Beauty,Skincare Set,3,197.0,Gift Card
+O1304,C470,2023-08-06,Home,Chair,2,175.67,Bank Transfer
+O1305,C474,2023-10-24,Beauty,Skincare Set,1,169.96,PayPal
+O1306,C202,2024-08-23,Fashion,Sneakers,3,55.43,Bank Transfer
+O1307,C358,2023-11-18,Sports,Bicycle Helmet,3,175.27,PayPal
+O1308,C227,2024-01-02,Sports,Bicycle Helmet,1,36.06,Bank Transfer
+O1309,C255,2024-08-05,Electronics,Headphones,1,284.47,Bank Transfer
+O1310,C486,2023-06-02,Beauty,Skincare Set,3,231.32,Bank Transfer
+O1311,C280,2024-12-06,Home,Coffee Maker,2,178.49,Credit Card
+O1312,C148,2023-02-11,Fashion,Dress,1,105.25,Bank Transfer
+O1313,C054,2024-11-28,Electronics,Headphones,1,122.62,Credit Card
+O1314,C350,2023-04-13,Fashion,Dress,3,283.91,Gift Card
+O1315,C346,2024-02-06,Beauty,Perfume,1,231.34,Credit Card
+O1316,C132,2024-05-08,Home,Chair,2,278.84,Credit Card
+O1317,C150,2024-10-28,Beauty,Shampoo,2,284.43,Credit Card
+O1318,C229,2024-08-28,Electronics,Monitor,1,26.86,Credit Card
+O1319,C425,2024-06-07,Fashion,Dress,1,23.76,Bank Transfer
+O1320,C421,2023-07-08,Fashion,Jacket,3,164.59,Credit Card
+O1321,C023,2023-07-16,Fashion,Jacket,2,200.65,Bank Transfer
+O1322,C276,2023-06-08,Electronics,Laptop,2,98.55,Gift Card
+O1323,C184,2024-05-21,Fashion,Dress,3,224.68,Gift Card
+O1324,C489,2024-08-25,Fashion,Sneakers,1,125.65,Bank Transfer
+O1325,C125,2023-05-22,Beauty,Skincare Set,2,275.0,Credit Card
+O1326,C133,2024-10-04,Fashion,Jeans,2,106.4,Bank Transfer
+O1327,C419,2024-03-28,Sports,Dumbbells,2,172.87,Credit Card
+O1328,C458,2023-12-27,Beauty,Shampoo,1,137.69,Credit Card
+O1329,C074,2023-12-21,Electronics,Laptop,2,133.29,Bank Transfer
+O1330,C081,2024-09-13,Electronics,Monitor,2,165.56,Credit Card
+O1331,C242,2023-01-20,Home,Vacuum Cleaner,3,238.82,Gift Card
+O1332,C486,2023-06-10,Electronics,Laptop,3,288.23,PayPal
+O1333,C065,2024-05-03,Sports,Dumbbells,2,111.75,Credit Card
+O1334,C203,2023-01-24,Fashion,Jacket,3,157.03,PayPal
+O1335,C284,2024-11-18,Sports,Bicycle Helmet,3,174.81,Gift Card
+O1336,C131,2024-05-11,Sports,Yoga Mat,2,87.89,Bank Transfer
+O1337,C010,2024-09-24,Electronics,Monitor,1,48.43,Bank Transfer
+O1338,C112,2024-10-23,Electronics,Keyboard,1,193.1,Bank Transfer
+O1339,C251,2023-08-15,Home,Chair,1,209.05,Credit Card
+O1340,C440,2023-04-03,Beauty,Makeup Kit,3,139.99,PayPal
+O1341,C026,2024-10-14,Home,Vacuum Cleaner,1,286.29,Bank Transfer
+O1342,C352,2024-09-06,Electronics,Laptop,2,98.35,Credit Card
+O1343,C304,2023-06-29,Home,Cookware,2,75.45,Credit Card
+O1344,C129,2023-06-05,Beauty,Perfume,1,272.04,Gift Card
+O1345,C328,2023-09-15,Electronics,Smartphone,1,135.61,Bank Transfer
+O1346,C173,2024-04-16,Sports,Dumbbells,3,65.47,Bank Transfer
+O1347,C060,2024-09-25,Home,Cookware,3,280.9,Credit Card
+O1348,C493,2023-04-21,Fashion,Jacket,2,229.89,Credit Card
+O1349,C034,2024-01-07,Home,Cookware,3,186.39,Bank Transfer
+O1350,C466,2024-12-03,Beauty,Perfume,2,183.59,Gift Card
+O1351,C289,2024-11-13,Electronics,Keyboard,3,87.65,Gift Card
+O1352,C348,2023-03-07,Beauty,Skincare Set,3,29.16,Gift Card
+O1353,C191,2023-10-31,Electronics,Laptop,2,207.94,PayPal
+O1354,C224,2024-09-05,Electronics,Laptop,2,12.53,Bank Transfer
+O1355,C447,2024-12-14,Sports,Running Shoes,1,28.56,PayPal
+O1356,C413,2024-04-12,Beauty,Hair Dryer,2,30.38,PayPal
+O1357,C297,2024-02-13,Beauty,Perfume,1,53.91,PayPal
+O1358,C490,2023-04-08,Home,Lamp,2,225.17,PayPal
+O1359,C140,2024-03-09,Sports,Yoga Mat,1,222.15,Credit Card
+O1360,C415,2024-05-03,Fashion,Jeans,3,137.13,Credit Card
+O1361,C032,2023-06-03,Fashion,Jacket,3,220.3,Credit Card
+O1362,C009,2023-05-10,Beauty,Shampoo,3,48.28,Credit Card
+O1363,C406,2023-11-21,Sports,Dumbbells,3,245.82,Gift Card
+O1364,C414,2024-03-08,Electronics,Smartphone,3,154.24,Credit Card
+O1365,C036,2023-12-25,Fashion,T-Shirt,1,253.08,Credit Card
+O1366,C486,2023-06-13,Home,Chair,2,201.38,Gift Card
+O1367,C383,2024-12-10,Home,Cookware,1,212.59,Bank Transfer
+O1368,C430,2023-05-10,Beauty,Hair Dryer,1,171.41,Bank Transfer
+O1369,C008,2024-02-29,Fashion,Dress,2,138.53,Credit Card
+O1370,C490,2023-03-24,Beauty,Makeup Kit,2,205.96,Bank Transfer
+O1371,C376,2023-12-24,Electronics,Monitor,2,226.59,Gift Card
+O1372,C368,2024-04-30,Electronics,Monitor,2,274.59,Bank Transfer
+O1373,C330,2024-07-26,Beauty,Makeup Kit,3,183.66,Credit Card
+O1374,C055,2024-04-03,Electronics,Headphones,2,103.26,PayPal
+O1375,C059,2024-07-18,Electronics,Smartphone,3,60.92,Bank Transfer
+O1376,C385,2023-10-23,Fashion,Dress,1,140.91,Credit Card
+O1377,C405,2023-01-27,Electronics,Smartphone,1,181.48,Credit Card
+O1378,C467,2023-12-27,Home,Cookware,1,92.13,Gift Card
+O1379,C433,2024-10-10,Home,Cookware,3,127.32,Gift Card
+O1380,C479,2024-04-13,Sports,Dumbbells,2,19.79,Gift Card
+O1381,C232,2024-07-11,Fashion,Jeans,1,219.58,Credit Card
+O1382,C020,2023-08-14,Home,Vacuum Cleaner,3,140.75,PayPal
+O1383,C396,2023-03-12,Home,Vacuum Cleaner,1,269.08,PayPal
+O1384,C417,2024-09-23,Electronics,Monitor,1,135.9,Bank Transfer
+O1385,C298,2023-02-02,Fashion,Sneakers,1,11.49,Bank Transfer
+O1386,C129,2024-05-10,Fashion,Sneakers,3,268.9,Credit Card
+O1387,C331,2023-05-20,Beauty,Skincare Set,3,59.43,PayPal
+O1388,C396,2024-08-03,Electronics,Monitor,3,288.42,Credit Card
+O1389,C129,2024-01-08,Home,Coffee Maker,2,148.65,Credit Card
+O1390,C390,2024-08-25,Electronics,Keyboard,2,278.17,Credit Card
+O1391,C068,2024-06-27,Fashion,Sneakers,2,110.01,Credit Card
+O1392,C348,2023-08-11,Electronics,Keyboard,2,204.21,Credit Card
+O1393,C201,2023-12-18,Sports,Bicycle Helmet,2,168.76,Credit Card
+O1394,C497,2024-11-29,Beauty,Perfume,1,243.31,Bank Transfer
+O1395,C363,2023-03-06,Beauty,Skincare Set,3,211.48,Credit Card
+O1396,C429,2024-01-20,Sports,Tennis Racket,2,281.16,Bank Transfer
+O1397,C348,2023-04-11,Electronics,Monitor,1,68.28,PayPal
+O1398,C302,2023-03-15,Beauty,Makeup Kit,3,111.01,PayPal
+O1399,C141,2023-11-18,Beauty,Skincare Set,2,240.28,PayPal
+O1400,C139,2023-10-10,Sports,Bicycle Helmet,1,189.95,Bank Transfer
+O1401,C140,2024-05-24,Sports,Tennis Racket,1,15.94,Credit Card
+O1402,C294,2024-12-06,Sports,Bicycle Helmet,1,23.13,Credit Card
+O1403,C083,2024-09-17,Fashion,T-Shirt,3,134.23,Gift Card
+O1404,C089,2023-03-16,Home,Chair,3,63.15,Gift Card
+O1405,C193,2024-01-28,Sports,Yoga Mat,2,166.12,Gift Card
+O1406,C176,2023-10-04,Home,Cookware,3,164.22,Bank Transfer
+O1407,C068,2023-11-21,Electronics,Monitor,3,207.68,Gift Card
+O1408,C223,2023-05-02,Fashion,Sneakers,1,93.81,Gift Card
+O1409,C330,2024-02-24,Electronics,Monitor,3,76.65,PayPal
+O1410,C239,2024-06-19,Fashion,Sneakers,1,57.73,Gift Card
+O1411,C091,2023-05-09,Home,Vacuum Cleaner,2,160.81,Credit Card
+O1412,C340,2023-04-04,Beauty,Skincare Set,1,184.77,Gift Card
+O1413,C141,2024-09-23,Beauty,Hair Dryer,2,248.34,PayPal
+O1414,C180,2023-07-15,Home,Cookware,3,26.51,Credit Card
+O1415,C242,2024-09-25,Electronics,Monitor,3,197.72,PayPal
+O1416,C466,2023-08-17,Electronics,Monitor,2,294.18,Credit Card
+O1417,C373,2023-07-10,Electronics,Headphones,3,187.99,Bank Transfer
+O1418,C317,2023-01-18,Beauty,Perfume,2,110.16,Gift Card
+O1419,C131,2023-04-24,Fashion,Sneakers,3,67.75,Credit Card
+O1420,C344,2024-07-23,Fashion,Sneakers,1,272.47,Gift Card
+O1421,C069,2024-01-14,Electronics,Laptop,1,140.43,Credit Card
+O1422,C421,2023-04-08,Fashion,Dress,2,227.16,PayPal
+O1423,C269,2023-04-20,Fashion,Dress,3,134.4,Bank Transfer
+O1424,C432,2024-02-09,Beauty,Perfume,1,108.49,Bank Transfer
+O1425,C006,2024-08-27,Fashion,Jacket,3,283.49,Gift Card
+O1426,C469,2024-01-18,Electronics,Keyboard,1,77.3,PayPal
+O1427,C208,2024-11-05,Beauty,Skincare Set,2,294.05,Gift Card
+O1428,C180,2023-09-21,Fashion,T-Shirt,3,117.04,Gift Card
+O1429,C382,2023-06-15,Home,Lamp,3,297.99,Credit Card
+O1430,C085,2023-12-18,Electronics,Monitor,2,248.46,Credit Card
+O1431,C270,2024-03-17,Fashion,Jacket,1,107.21,Gift Card
+O1432,C091,2023-05-29,Fashion,Dress,1,36.27,Credit Card
+O1433,C388,2024-05-19,Fashion,Jeans,1,110.81,Bank Transfer
+O1434,C108,2024-07-19,Home,Coffee Maker,1,27.28,PayPal
+O1435,C460,2023-12-11,Home,Chair,1,288.65,Gift Card
+O1436,C143,2023-12-21,Sports,Bicycle Helmet,2,135.75,Credit Card
+O1437,C072,2023-11-24,Fashion,Dress,3,64.13,Credit Card
+O1438,C345,2023-07-07,Home,Cookware,3,281.35,Bank Transfer
+O1439,C094,2024-06-06,Electronics,Monitor,2,295.46,Credit Card
+O1440,C244,2023-04-07,Electronics,Headphones,1,157.29,PayPal
+O1441,C062,2024-03-18,Home,Lamp,1,108.04,Credit Card
+O1442,C338,2024-02-29,Home,Cookware,2,299.35,Credit Card
+O1443,C361,2023-12-23,Beauty,Hair Dryer,2,112.68,PayPal
+O1444,C002,2024-03-12,Home,Coffee Maker,2,145.3,PayPal
+O1445,C305,2024-03-08,Sports,Bicycle Helmet,2,53.79,Credit Card
+O1446,C457,2024-03-05,Beauty,Perfume,2,242.52,Bank Transfer
+O1447,C300,2024-05-10,Home,Cookware,3,276.39,Credit Card
+O1448,C375,2023-09-16,Sports,Dumbbells,3,245.73,Gift Card
+O1449,C097,2023-03-07,Electronics,Smartphone,1,41.16,Bank Transfer
+O1450,C292,2023-07-12,Electronics,Headphones,1,96.97,Bank Transfer
+O1451,C425,2024-11-21,Fashion,T-Shirt,3,102.52,Bank Transfer
+O1452,C035,2024-04-30,Fashion,Jeans,1,285.82,PayPal
+O1453,C022,2024-01-19,Beauty,Skincare Set,3,61.55,PayPal
+O1454,C114,2024-08-08,Beauty,Perfume,1,62.97,Bank Transfer
+O1455,C096,2024-02-01,Electronics,Smartphone,1,253.23,Gift Card
+O1456,C253,2024-06-23,Fashion,Jeans,3,225.3,Gift Card
+O1457,C307,2023-10-08,Sports,Dumbbells,2,114.34,Credit Card
+O1458,C295,2024-11-17,Home,Cookware,3,25.15,PayPal
+O1459,C104,2024-02-10,Home,Vacuum Cleaner,1,113.74,Gift Card
+O1460,C444,2024-01-20,Sports,Running Shoes,1,216.07,Bank Transfer
+O1461,C168,2023-12-12,Sports,Dumbbells,1,207.95,Credit Card
+O1462,C306,2024-09-14,Home,Chair,1,237.36,Gift Card
+O1463,C277,2024-01-14,Beauty,Skincare Set,1,129.87,Gift Card
+O1464,C169,2024-04-04,Electronics,Smartphone,3,113.88,PayPal
+O1465,C350,2024-02-26,Fashion,Dress,1,179.42,Bank Transfer
+O1466,C352,2024-06-16,Fashion,Sneakers,2,226.09,Credit Card
+O1467,C106,2023-10-03,Beauty,Skincare Set,1,109.23,Bank Transfer
+O1468,C306,2023-03-29,Sports,Tennis Racket,1,224.72,PayPal
+O1469,C018,2024-12-18,Electronics,Headphones,1,144.85,Credit Card
+O1470,C164,2023-01-15,Sports,Bicycle Helmet,2,277.08,Bank Transfer
+O1471,C489,2024-12-11,Sports,Dumbbells,2,99.67,PayPal
+O1472,C459,2023-01-16,Beauty,Hair Dryer,3,80.9,Bank Transfer
+O1473,C423,2024-11-21,Beauty,Hair Dryer,1,80.62,Credit Card
+O1474,C173,2024-11-14,Sports,Bicycle Helmet,2,114.56,Bank Transfer
+O1475,C455,2024-11-26,Sports,Yoga Mat,3,119.06,PayPal
+O1476,C383,2024-07-05,Beauty,Makeup Kit,2,172.44,Gift Card
+O1477,C056,2024-04-04,Fashion,Dress,2,288.67,Bank Transfer
+O1478,C475,2023-04-25,Sports,Dumbbells,2,13.64,Bank Transfer
+O1479,C115,2024-07-07,Beauty,Makeup Kit,2,183.44,PayPal
+O1480,C307,2023-02-06,Home,Chair,3,100.89,PayPal
+O1481,C277,2023-08-25,Sports,Tennis Racket,1,214.53,Gift Card
+O1482,C142,2024-02-16,Electronics,Headphones,3,86.26,Bank Transfer
+O1483,C246,2023-09-28,Fashion,Jacket,1,187.98,Bank Transfer
+O1484,C384,2024-07-14,Sports,Tennis Racket,2,53.82,PayPal
+O1485,C304,2023-07-05,Sports,Dumbbells,3,170.66,Credit Card
+O1486,C158,2023-05-11,Fashion,Jeans,1,120.66,PayPal
+O1487,C020,2024-10-06,Beauty,Hair Dryer,2,132.71,Gift Card
+O1488,C208,2023-09-07,Beauty,Perfume,1,262.54,Gift Card
+O1489,C370,2023-05-30,Electronics,Keyboard,3,235.06,Gift Card
+O1490,C289,2024-05-06,Beauty,Shampoo,1,189.95,Credit Card
+O1491,C398,2023-10-18,Beauty,Makeup Kit,3,273.89,Bank Transfer
+O1492,C495,2024-07-08,Sports,Running Shoes,2,37.5,PayPal
+O1493,C171,2024-05-26,Beauty,Makeup Kit,1,239.57,Bank Transfer
+O1494,C036,2023-02-13,Electronics,Headphones,2,12.81,Credit Card
+O1495,C044,2024-12-14,Sports,Tennis Racket,3,104.24,PayPal
+O1496,C198,2023-09-24,Fashion,Jacket,3,284.33,Credit Card
+O1497,C129,2023-04-10,Electronics,Headphones,1,272.61,Gift Card
+O1498,C482,2023-11-09,Beauty,Hair Dryer,1,218.85,PayPal
+O1499,C399,2023-09-30,Fashion,Sneakers,3,118.57,Bank Transfer
+O1500,C189,2024-07-12,Beauty,Makeup Kit,1,83.84,Credit Card
+O1501,C139,2024-04-24,Fashion,T-Shirt,2,224.79,Bank Transfer
+O1502,C437,2023-01-11,Home,Chair,2,34.83,Credit Card
+O1503,C048,2024-06-22,Beauty,Skincare Set,3,161.5,PayPal
+O1504,C024,2023-11-18,Home,Vacuum Cleaner,1,264.95,Credit Card
+O1505,C384,2024-04-10,Beauty,Skincare Set,1,223.31,PayPal
+O1506,C358,2024-03-31,Beauty,Skincare Set,3,290.33,Gift Card
+O1507,C216,2023-03-27,Fashion,Jacket,2,177.4,PayPal
+O1508,C395,2024-03-21,Beauty,Makeup Kit,2,71.45,Bank Transfer
+O1509,C348,2023-03-27,Beauty,Makeup Kit,2,247.78,Credit Card
+O1510,C197,2023-03-16,Electronics,Laptop,1,33.2,PayPal
+O1511,C117,2024-08-15,Electronics,Laptop,1,246.37,Bank Transfer
+O1512,C455,2023-08-17,Sports,Yoga Mat,3,249.28,PayPal
+O1513,C094,2024-05-30,Electronics,Smartphone,3,135.23,Bank Transfer
+O1514,C237,2023-09-13,Sports,Bicycle Helmet,1,163.32,Gift Card
+O1515,C295,2024-01-26,Beauty,Makeup Kit,1,10.56,Bank Transfer
+O1516,C407,2024-09-11,Home,Vacuum Cleaner,3,214.11,PayPal
+O1517,C118,2023-09-13,Electronics,Laptop,3,279.75,PayPal
+O1518,C388,2024-01-29,Sports,Yoga Mat,2,213.91,Credit Card
+O1519,C289,2023-01-03,Sports,Dumbbells,3,75.4,Credit Card
+O1520,C204,2024-03-02,Beauty,Perfume,1,56.57,Bank Transfer
+O1521,C418,2024-11-14,Fashion,Jeans,2,260.5,PayPal
+O1522,C181,2024-12-17,Fashion,Sneakers,3,271.52,Gift Card
+O1523,C036,2024-12-03,Sports,Dumbbells,2,33.33,Bank Transfer
+O1524,C009,2024-04-04,Sports,Bicycle Helmet,2,18.78,PayPal
+O1525,C069,2023-07-01,Sports,Bicycle Helmet,1,59.05,Gift Card
+O1526,C044,2024-04-09,Sports,Tennis Racket,3,294.88,PayPal
+O1527,C406,2024-12-01,Sports,Running Shoes,2,115.23,Credit Card
+O1528,C426,2023-12-03,Electronics,Laptop,3,189.13,PayPal
+O1529,C067,2023-11-30,Home,Chair,3,87.4,Bank Transfer
+O1530,C376,2023-04-11,Fashion,T-Shirt,3,229.2,Gift Card
+O1531,C213,2023-12-13,Home,Chair,2,224.87,Gift Card
+O1532,C448,2024-10-22,Electronics,Laptop,1,231.79,PayPal
+O1533,C447,2023-08-03,Fashion,Sneakers,1,60.47,Gift Card
+O1534,C029,2023-12-19,Beauty,Perfume,1,39.89,Gift Card
+O1535,C064,2024-06-21,Home,Coffee Maker,1,86.32,Bank Transfer
+O1536,C277,2023-03-13,Beauty,Makeup Kit,2,256.58,Gift Card
+O1537,C002,2023-10-05,Beauty,Shampoo,3,48.1,Credit Card
+O1538,C053,2024-07-18,Fashion,Dress,3,221.45,Bank Transfer
+O1539,C090,2023-06-23,Beauty,Makeup Kit,2,132.19,Gift Card
+O1540,C168,2024-03-27,Home,Lamp,1,122.51,PayPal
+O1541,C261,2023-01-28,Home,Cookware,1,192.84,Bank Transfer
+O1542,C295,2023-12-26,Electronics,Headphones,3,23.49,Gift Card
+O1543,C353,2023-07-23,Sports,Running Shoes,3,264.4,Gift Card
+O1544,C336,2024-10-08,Beauty,Skincare Set,1,78.14,Gift Card
+O1545,C326,2024-02-03,Sports,Bicycle Helmet,1,219.08,Credit Card
+O1546,C409,2023-04-28,Electronics,Keyboard,1,32.24,Credit Card
+O1547,C226,2024-08-31,Beauty,Hair Dryer,3,60.31,Bank Transfer
+O1548,C253,2024-12-04,Sports,Yoga Mat,1,57.69,Credit Card
+O1549,C321,2023-02-08,Electronics,Keyboard,1,64.77,PayPal
+O1550,C282,2023-07-19,Sports,Yoga Mat,2,91.91,Credit Card
+O1551,C082,2023-07-25,Electronics,Monitor,2,132.15,Bank Transfer
+O1552,C418,2024-10-24,Beauty,Skincare Set,1,92.74,Credit Card
+O1553,C355,2024-05-28,Electronics,Headphones,3,138.87,Gift Card
+O1554,C162,2024-02-08,Electronics,Monitor,3,212.27,PayPal
+O1555,C117,2023-07-01,Beauty,Perfume,2,167.12,PayPal
+O1556,C424,2023-10-24,Sports,Bicycle Helmet,2,138.77,PayPal
+O1557,C147,2023-06-08,Electronics,Headphones,2,216.18,Credit Card
+O1558,C336,2024-04-02,Fashion,Sneakers,1,211.96,Gift Card
+O1559,C134,2024-08-24,Beauty,Skincare Set,3,183.25,Gift Card
+O1560,C149,2024-07-15,Electronics,Laptop,1,276.96,Credit Card
+O1561,C351,2024-07-09,Beauty,Skincare Set,1,10.22,PayPal
+O1562,C410,2023-06-22,Fashion,T-Shirt,1,175.91,PayPal
+O1563,C284,2023-06-07,Fashion,Dress,1,26.52,Gift Card
+O1564,C160,2024-01-01,Beauty,Skincare Set,1,160.67,PayPal
+O1565,C020,2023-12-30,Beauty,Shampoo,1,260.31,Credit Card
+O1566,C057,2024-10-07,Sports,Running Shoes,3,65.07,Gift Card
+O1567,C058,2024-03-29,Electronics,Laptop,2,294.67,PayPal
+O1568,C041,2023-05-25,Fashion,Jacket,2,223.53,Gift Card
+O1569,C252,2024-08-24,Fashion,T-Shirt,1,247.2,PayPal
+O1570,C092,2024-04-27,Sports,Yoga Mat,1,242.25,Bank Transfer
+O1571,C315,2023-04-05,Beauty,Perfume,2,49.96,PayPal
+O1572,C324,2024-12-26,Home,Cookware,1,60.22,Credit Card
+O1573,C336,2023-03-31,Electronics,Laptop,2,175.55,PayPal
+O1574,C253,2024-02-09,Sports,Running Shoes,1,172.07,PayPal
+O1575,C229,2024-12-24,Electronics,Headphones,2,126.52,Gift Card
+O1576,C291,2023-05-30,Home,Vacuum Cleaner,2,118.65,Bank Transfer
+O1577,C157,2024-07-31,Fashion,T-Shirt,1,78.74,Credit Card
+O1578,C244,2024-02-21,Fashion,T-Shirt,2,228.46,Gift Card
+O1579,C410,2023-05-13,Home,Chair,1,204.69,PayPal
+O1580,C052,2023-06-21,Fashion,Dress,1,145.49,Credit Card
+O1581,C468,2023-09-03,Sports,Yoga Mat,1,35.44,Credit Card
+O1582,C188,2023-11-10,Beauty,Makeup Kit,2,230.89,Gift Card
+O1583,C431,2024-12-20,Fashion,Jacket,3,30.68,Credit Card
+O1584,C030,2024-05-31,Home,Coffee Maker,3,273.74,PayPal
+O1585,C014,2023-11-06,Sports,Tennis Racket,1,174.52,Bank Transfer
+O1586,C407,2024-10-27,Beauty,Makeup Kit,1,292.26,Gift Card
+O1587,C319,2024-11-04,Fashion,Dress,1,99.99,Bank Transfer
+O1588,C215,2023-07-02,Fashion,T-Shirt,1,290.79,Bank Transfer
+O1589,C075,2023-09-27,Fashion,Jacket,1,181.14,PayPal
+O1590,C104,2024-07-07,Electronics,Monitor,2,29.29,Credit Card
+O1591,C162,2023-08-03,Home,Coffee Maker,2,148.78,Bank Transfer
+O1592,C374,2023-08-10,Sports,Tennis Racket,1,78.26,Credit Card
+O1593,C088,2024-08-19,Beauty,Perfume,1,36.38,Bank Transfer
+O1594,C133,2024-07-02,Home,Coffee Maker,3,72.67,Bank Transfer
+O1595,C114,2023-04-11,Beauty,Hair Dryer,2,52.08,Credit Card
+O1596,C444,2024-04-16,Fashion,Jacket,3,164.09,PayPal
+O1597,C132,2023-07-09,Electronics,Keyboard,1,268.09,Bank Transfer
+O1598,C407,2024-07-01,Electronics,Laptop,2,176.57,Bank Transfer
+O1599,C379,2024-05-18,Fashion,Jacket,1,276.5,Gift Card
+O1600,C386,2023-09-30,Sports,Dumbbells,2,108.4,Credit Card
+O1601,C297,2024-04-06,Beauty,Makeup Kit,1,93.39,PayPal
+O1602,C406,2024-07-25,Beauty,Shampoo,2,189.74,Credit Card
+O1603,C182,2024-11-28,Fashion,Jeans,2,179.21,Gift Card
+O1604,C081,2023-02-20,Home,Cookware,1,60.13,PayPal
+O1605,C458,2023-12-13,Beauty,Shampoo,3,84.13,Gift Card
+O1606,C149,2024-01-28,Sports,Dumbbells,3,132.92,Credit Card
+O1607,C402,2023-01-24,Home,Chair,3,282.42,Gift Card
+O1608,C389,2024-10-15,Home,Vacuum Cleaner,3,44.9,Bank Transfer
+O1609,C027,2024-08-02,Beauty,Hair Dryer,3,147.52,Credit Card
+O1610,C275,2023-03-06,Beauty,Hair Dryer,3,50.2,PayPal
+O1611,C217,2024-05-22,Fashion,Sneakers,1,187.63,Gift Card
+O1612,C399,2024-09-11,Beauty,Perfume,1,170.81,Gift Card
+O1613,C014,2023-02-06,Electronics,Monitor,2,84.31,Gift Card
+O1614,C293,2023-03-24,Beauty,Makeup Kit,3,276.06,Bank Transfer
+O1615,C310,2024-06-03,Beauty,Hair Dryer,3,265.92,Credit Card
+O1616,C396,2024-03-12,Home,Cookware,1,205.99,Bank Transfer
+O1617,C226,2023-04-06,Beauty,Perfume,1,162.28,PayPal
+O1618,C456,2023-08-16,Sports,Running Shoes,2,266.9,Gift Card
+O1619,C479,2023-07-20,Beauty,Hair Dryer,2,271.39,Credit Card
+O1620,C173,2024-07-08,Fashion,Jeans,1,242.54,Bank Transfer
+O1621,C074,2024-04-04,Fashion,Dress,1,260.74,PayPal
+O1622,C345,2024-04-09,Home,Coffee Maker,1,298.27,Gift Card
+O1623,C320,2024-03-10,Home,Coffee Maker,1,235.05,Bank Transfer
+O1624,C214,2024-08-27,Sports,Yoga Mat,2,122.51,Credit Card
+O1625,C466,2023-07-03,Home,Coffee Maker,1,93.03,Credit Card
+O1626,C309,2023-04-11,Sports,Bicycle Helmet,2,221.85,Gift Card
+O1627,C332,2024-06-06,Fashion,Jeans,1,228.53,Gift Card
+O1628,C426,2024-04-01,Fashion,Jacket,2,174.16,PayPal
+O1629,C129,2024-01-23,Sports,Tennis Racket,1,155.59,PayPal
+O1630,C411,2024-08-28,Beauty,Makeup Kit,3,129.54,Gift Card
+O1631,C194,2023-03-03,Home,Lamp,3,158.89,Credit Card
+O1632,C432,2023-01-02,Beauty,Hair Dryer,3,204.28,PayPal
+O1633,C317,2023-12-11,Electronics,Laptop,3,56.58,Credit Card
+O1634,C103,2024-07-19,Fashion,T-Shirt,2,93.92,Bank Transfer
+O1635,C361,2024-12-12,Sports,Running Shoes,1,199.43,Bank Transfer
+O1636,C116,2024-11-06,Electronics,Laptop,3,57.78,Credit Card
+O1637,C211,2023-02-09,Fashion,Sneakers,3,270.54,Bank Transfer
+O1638,C242,2023-12-26,Home,Coffee Maker,2,293.91,Bank Transfer
+O1639,C232,2024-07-23,Home,Coffee Maker,2,84.54,Credit Card
+O1640,C363,2024-04-21,Beauty,Hair Dryer,3,43.35,Gift Card
+O1641,C013,2024-12-04,Sports,Running Shoes,3,225.43,Bank Transfer
+O1642,C378,2023-05-11,Fashion,Jacket,2,229.33,Gift Card
+O1643,C041,2024-02-04,Home,Cookware,3,250.63,Gift Card
+O1644,C456,2023-08-31,Sports,Tennis Racket,2,162.17,Bank Transfer
+O1645,C248,2024-03-28,Electronics,Smartphone,1,112.75,Bank Transfer
+O1646,C438,2024-12-26,Fashion,Dress,2,179.42,Credit Card
+O1647,C472,2023-02-15,Fashion,Jacket,2,271.21,Gift Card
+O1648,C364,2023-04-07,Fashion,Jacket,3,208.81,Credit Card
+O1649,C258,2023-12-24,Home,Vacuum Cleaner,2,253.15,Gift Card
+O1650,C111,2023-11-16,Fashion,T-Shirt,2,213.42,PayPal
+O1651,C311,2024-06-30,Sports,Bicycle Helmet,1,170.44,Credit Card
+O1652,C192,2024-10-22,Electronics,Smartphone,2,57.78,PayPal
+O1653,C080,2023-12-07,Sports,Tennis Racket,3,119.15,PayPal
+O1654,C083,2024-09-27,Home,Cookware,1,231.72,Credit Card
+O1655,C322,2023-06-05,Sports,Bicycle Helmet,2,283.73,PayPal
+O1656,C228,2024-07-14,Sports,Bicycle Helmet,1,36.66,Credit Card
+O1657,C268,2023-06-12,Sports,Bicycle Helmet,1,154.84,Bank Transfer
+O1658,C010,2024-11-15,Beauty,Perfume,2,21.54,Gift Card
+O1659,C445,2023-07-16,Electronics,Headphones,2,263.87,Bank Transfer
+O1660,C332,2023-08-11,Home,Lamp,2,86.94,Credit Card
+O1661,C428,2024-04-16,Fashion,Jacket,1,293.67,Gift Card
+O1662,C182,2024-01-17,Beauty,Perfume,1,35.74,Gift Card
+O1663,C152,2023-01-15,Home,Coffee Maker,2,76.12,Gift Card
+O1664,C391,2024-09-02,Sports,Bicycle Helmet,2,68.75,Credit Card
+O1665,C469,2024-09-24,Fashion,Jeans,1,15.96,Bank Transfer
+O1666,C181,2023-07-17,Home,Cookware,2,84.85,Gift Card
+O1667,C245,2023-09-09,Sports,Bicycle Helmet,2,51.98,PayPal
+O1668,C001,2023-03-14,Home,Coffee Maker,2,182.77,Gift Card
+O1669,C086,2023-08-12,Sports,Running Shoes,3,245.64,Bank Transfer
+O1670,C417,2024-08-20,Fashion,Dress,2,21.32,PayPal
+O1671,C286,2024-11-10,Beauty,Shampoo,3,35.46,Gift Card
+O1672,C203,2023-12-02,Beauty,Makeup Kit,1,219.99,PayPal
+O1673,C151,2023-06-29,Beauty,Hair Dryer,3,142.73,PayPal
+O1674,C131,2024-06-29,Electronics,Monitor,3,73.51,Credit Card
+O1675,C473,2024-11-30,Beauty,Shampoo,1,11.3,Credit Card
+O1676,C344,2024-11-27,Fashion,Jeans,1,210.43,PayPal
+O1677,C456,2023-08-13,Electronics,Monitor,3,125.86,Gift Card
+O1678,C455,2024-12-23,Sports,Dumbbells,1,262.34,Credit Card
+O1679,C428,2023-04-25,Home,Lamp,2,140.7,Gift Card
+O1680,C166,2024-01-12,Electronics,Keyboard,2,274.14,Gift Card
+O1681,C245,2024-08-11,Beauty,Skincare Set,3,129.0,Bank Transfer
+O1682,C269,2023-04-22,Electronics,Keyboard,3,32.29,PayPal
+O1683,C450,2024-10-13,Sports,Dumbbells,3,275.69,PayPal
+O1684,C354,2023-10-08,Sports,Tennis Racket,1,107.2,PayPal
+O1685,C263,2024-06-06,Sports,Dumbbells,2,154.74,Credit Card
+O1686,C315,2024-04-30,Electronics,Headphones,2,133.7,PayPal
+O1687,C363,2024-12-14,Sports,Running Shoes,3,187.37,Credit Card
+O1688,C391,2024-01-02,Sports,Tennis Racket,3,70.33,Bank Transfer
+O1689,C281,2023-02-13,Beauty,Perfume,1,93.27,PayPal
+O1690,C064,2023-02-05,Electronics,Smartphone,2,28.58,Credit Card
+O1691,C053,2023-09-01,Beauty,Makeup Kit,2,196.57,Gift Card
+O1692,C061,2023-06-14,Beauty,Makeup Kit,3,216.1,PayPal
+O1693,C052,2024-08-26,Beauty,Skincare Set,1,236.04,PayPal
+O1694,C465,2024-05-13,Home,Vacuum Cleaner,1,243.8,Gift Card
+O1695,C074,2024-06-24,Electronics,Smartphone,2,49.66,Credit Card
+O1696,C188,2023-04-07,Fashion,Jeans,2,42.3,Gift Card
+O1697,C256,2023-11-11,Sports,Bicycle Helmet,3,166.09,Gift Card
+O1698,C471,2024-03-10,Sports,Running Shoes,3,252.75,Gift Card
+O1699,C126,2023-07-05,Beauty,Hair Dryer,1,141.84,Bank Transfer
+O1700,C051,2023-12-31,Beauty,Hair Dryer,2,262.67,Bank Transfer
+O1701,C444,2024-04-07,Sports,Dumbbells,1,44.3,Gift Card
+O1702,C228,2024-11-10,Fashion,T-Shirt,3,285.04,Gift Card
+O1703,C396,2023-05-06,Electronics,Headphones,3,285.73,PayPal
+O1704,C461,2023-01-20,Beauty,Perfume,1,37.38,PayPal
+O1705,C376,2023-12-19,Sports,Tennis Racket,2,88.55,Gift Card
+O1706,C188,2024-10-03,Sports,Bicycle Helmet,3,92.1,Bank Transfer
+O1707,C404,2023-03-29,Fashion,Sneakers,1,161.92,Gift Card
+O1708,C063,2023-04-17,Fashion,Dress,3,161.9,PayPal
+O1709,C307,2023-04-07,Fashion,Jacket,1,224.67,Bank Transfer
+O1710,C209,2023-10-16,Electronics,Monitor,2,95.84,Credit Card
+O1711,C222,2023-05-30,Fashion,T-Shirt,2,163.42,Gift Card
+O1712,C150,2023-01-10,Sports,Yoga Mat,2,262.08,PayPal
+O1713,C392,2023-05-02,Electronics,Laptop,2,123.23,Bank Transfer
+O1714,C497,2024-07-05,Fashion,Sneakers,1,54.2,Credit Card
+O1715,C242,2024-12-13,Home,Cookware,1,216.3,PayPal
+O1716,C476,2023-12-26,Beauty,Shampoo,1,102.05,PayPal
+O1717,C044,2024-09-03,Home,Vacuum Cleaner,3,174.91,Gift Card
+O1718,C124,2023-11-24,Home,Coffee Maker,1,163.79,Gift Card
+O1719,C106,2023-10-05,Sports,Tennis Racket,1,26.37,Gift Card
+O1720,C470,2024-03-24,Fashion,Dress,1,266.55,Gift Card
+O1721,C443,2024-08-14,Beauty,Makeup Kit,3,254.11,Credit Card
+O1722,C036,2024-10-05,Beauty,Perfume,2,60.81,Bank Transfer
+O1723,C260,2023-03-30,Sports,Running Shoes,1,98.62,PayPal
+O1724,C357,2023-07-26,Electronics,Monitor,3,143.03,PayPal
+O1725,C224,2023-10-09,Electronics,Laptop,2,273.72,Gift Card
+O1726,C251,2023-10-20,Sports,Bicycle Helmet,2,158.29,PayPal
+O1727,C419,2023-01-15,Home,Chair,3,264.91,Credit Card
+O1728,C302,2024-02-24,Fashion,T-Shirt,2,38.7,Gift Card
+O1729,C014,2024-05-12,Home,Chair,1,166.12,PayPal
+O1730,C351,2023-03-30,Beauty,Makeup Kit,2,94.79,Credit Card
+O1731,C243,2023-01-26,Fashion,T-Shirt,3,85.47,Gift Card
+O1732,C488,2024-05-03,Fashion,Dress,3,152.21,Gift Card
+O1733,C347,2024-06-27,Home,Coffee Maker,1,25.1,PayPal
+O1734,C002,2023-01-18,Electronics,Laptop,1,90.35,Credit Card
+O1735,C316,2023-12-30,Sports,Dumbbells,2,90.04,Credit Card
+O1736,C108,2024-11-28,Fashion,Dress,3,280.79,PayPal
+O1737,C087,2023-09-26,Home,Lamp,2,169.06,Gift Card
+O1738,C363,2023-06-06,Fashion,Jacket,1,114.29,PayPal
+O1739,C397,2023-03-03,Beauty,Hair Dryer,2,112.58,PayPal
+O1740,C150,2023-10-01,Fashion,Sneakers,1,97.52,Gift Card
+O1741,C349,2023-07-13,Electronics,Monitor,3,140.23,PayPal
+O1742,C443,2024-03-31,Electronics,Smartphone,3,191.6,Credit Card
+O1743,C486,2024-12-18,Fashion,Sneakers,3,290.03,Credit Card
+O1744,C437,2024-02-18,Electronics,Smartphone,1,169.97,Bank Transfer
+O1745,C133,2023-03-24,Electronics,Smartphone,1,199.39,Gift Card
+O1746,C298,2024-08-07,Home,Coffee Maker,2,222.26,PayPal
+O1747,C154,2023-03-09,Home,Cookware,1,115.33,Gift Card
+O1748,C208,2023-07-22,Sports,Bicycle Helmet,1,26.15,Bank Transfer
+O1749,C009,2024-07-26,Sports,Yoga Mat,1,216.27,Bank Transfer
+O1750,C161,2024-03-11,Home,Coffee Maker,1,22.36,Credit Card
+O1751,C044,2024-02-03,Fashion,T-Shirt,3,92.69,Gift Card
+O1752,C332,2023-11-22,Electronics,Keyboard,1,254.46,Credit Card
+O1753,C356,2024-06-18,Sports,Dumbbells,1,118.31,Gift Card
+O1754,C473,2024-12-17,Electronics,Headphones,2,149.18,Gift Card
+O1755,C244,2024-08-05,Home,Chair,3,186.92,PayPal
+O1756,C267,2024-03-03,Fashion,Dress,1,183.39,Bank Transfer
+O1757,C083,2024-03-26,Beauty,Hair Dryer,3,164.54,PayPal
+O1758,C295,2023-02-05,Electronics,Smartphone,2,136.84,Gift Card
+O1759,C228,2023-05-10,Fashion,Sneakers,2,10.49,Credit Card
+O1760,C149,2024-06-09,Fashion,Sneakers,1,143.85,PayPal
+O1761,C419,2024-10-17,Beauty,Perfume,3,64.1,Bank Transfer
+O1762,C092,2023-06-18,Home,Vacuum Cleaner,1,225.89,Bank Transfer
+O1763,C097,2024-03-20,Fashion,Jacket,3,89.29,Gift Card
+O1764,C050,2023-09-27,Home,Cookware,1,261.33,Bank Transfer
+O1765,C335,2023-09-04,Electronics,Monitor,3,207.69,Gift Card
+O1766,C357,2024-10-08,Electronics,Monitor,2,78.03,Bank Transfer
+O1767,C231,2024-06-13,Beauty,Shampoo,1,62.9,Bank Transfer
+O1768,C050,2024-11-05,Beauty,Skincare Set,1,243.57,Credit Card
+O1769,C486,2024-08-31,Sports,Running Shoes,3,30.23,PayPal
+O1770,C031,2024-06-08,Fashion,Sneakers,2,25.75,Credit Card
+O1771,C009,2024-08-06,Sports,Tennis Racket,3,272.11,Credit Card
+O1772,C298,2023-12-05,Electronics,Keyboard,3,89.09,Bank Transfer
+O1773,C049,2024-08-02,Fashion,T-Shirt,3,20.11,PayPal
+O1774,C203,2024-06-13,Electronics,Laptop,3,32.87,Gift Card
+O1775,C367,2023-02-15,Electronics,Keyboard,2,266.17,Credit Card
+O1776,C192,2023-11-01,Beauty,Perfume,2,215.36,Bank Transfer
+O1777,C404,2024-10-06,Sports,Running Shoes,3,162.27,Gift Card
+O1778,C479,2024-08-20,Home,Chair,2,17.57,Bank Transfer
+O1779,C163,2024-08-22,Home,Cookware,3,245.64,Credit Card
+O1780,C312,2024-01-23,Beauty,Hair Dryer,3,79.01,Gift Card
+O1781,C360,2023-07-10,Home,Lamp,1,167.74,Bank Transfer
+O1782,C206,2024-08-27,Electronics,Laptop,1,114.29,PayPal
+O1783,C206,2023-05-27,Electronics,Laptop,1,216.22,Bank Transfer
+O1784,C409,2024-05-05,Sports,Yoga Mat,3,248.36,Gift Card
+O1785,C407,2023-08-04,Beauty,Skincare Set,2,58.89,Gift Card
+O1786,C432,2023-06-01,Home,Chair,3,235.51,Gift Card
+O1787,C340,2024-10-15,Sports,Running Shoes,3,241.71,PayPal
+O1788,C048,2023-05-24,Sports,Tennis Racket,1,149.83,Bank Transfer
+O1789,C193,2023-12-03,Home,Coffee Maker,1,45.47,Credit Card
+O1790,C211,2024-09-28,Electronics,Monitor,3,241.47,Bank Transfer
+O1791,C199,2024-07-25,Sports,Tennis Racket,1,39.9,Bank Transfer
+O1792,C418,2023-06-17,Electronics,Smartphone,1,243.33,Credit Card
+O1793,C464,2023-02-28,Home,Cookware,3,239.81,Gift Card
+O1794,C268,2024-08-21,Sports,Bicycle Helmet,3,231.56,Credit Card
+O1795,C134,2023-11-16,Fashion,Jeans,1,144.38,Gift Card
+O1796,C148,2024-11-16,Beauty,Makeup Kit,1,81.68,Bank Transfer
+O1797,C341,2023-11-27,Electronics,Keyboard,2,252.24,Bank Transfer
+O1798,C415,2024-01-21,Home,Lamp,2,207.7,Bank Transfer
+O1799,C013,2024-07-29,Fashion,Jeans,2,156.14,PayPal
+O1800,C149,2023-10-24,Electronics,Smartphone,3,81.37,Bank Transfer
+O1801,C080,2024-03-29,Sports,Running Shoes,2,284.29,Gift Card
+O1802,C429,2024-10-10,Beauty,Makeup Kit,2,166.84,PayPal
+O1803,C401,2023-01-20,Home,Lamp,3,196.03,Bank Transfer
+O1804,C361,2023-02-21,Beauty,Skincare Set,3,92.73,Bank Transfer
+O1805,C262,2023-04-16,Home,Cookware,1,250.33,Gift Card
+O1806,C233,2024-01-16,Electronics,Keyboard,1,119.3,Gift Card
+O1807,C422,2023-04-15,Beauty,Shampoo,1,216.04,Credit Card
+O1808,C385,2024-07-10,Home,Coffee Maker,1,287.12,Bank Transfer
+O1809,C110,2023-01-30,Home,Cookware,1,290.81,PayPal
+O1810,C128,2023-01-15,Fashion,Jacket,3,270.55,Credit Card
+O1811,C431,2024-03-03,Electronics,Smartphone,1,53.71,Bank Transfer
+O1812,C393,2023-09-06,Fashion,T-Shirt,3,194.78,Gift Card
+O1813,C231,2024-02-22,Electronics,Laptop,1,223.21,Credit Card
+O1814,C379,2023-10-24,Electronics,Keyboard,1,67.64,Credit Card
+O1815,C087,2023-11-21,Fashion,Jacket,2,276.72,Bank Transfer
+O1816,C394,2024-07-25,Electronics,Smartphone,2,72.85,Credit Card
+O1817,C396,2023-09-04,Electronics,Smartphone,3,143.35,Credit Card
+O1818,C361,2024-08-10,Electronics,Keyboard,2,133.52,Credit Card
+O1819,C139,2023-01-13,Beauty,Skincare Set,1,154.55,Bank Transfer
+O1820,C191,2024-12-03,Electronics,Monitor,2,45.46,PayPal
+O1821,C430,2024-09-01,Home,Cookware,2,46.43,Bank Transfer
+O1822,C209,2024-02-02,Home,Cookware,3,125.09,Bank Transfer
+O1823,C053,2024-05-29,Fashion,Sneakers,1,119.61,Bank Transfer
+O1824,C288,2024-11-20,Electronics,Headphones,2,244.52,Bank Transfer
+O1825,C313,2023-08-06,Beauty,Shampoo,2,96.66,Gift Card
+O1826,C012,2024-09-27,Electronics,Monitor,3,185.42,Bank Transfer
+O1827,C209,2023-12-19,Home,Chair,1,185.83,Bank Transfer
+O1828,C304,2023-05-11,Electronics,Laptop,2,89.72,Credit Card
+O1829,C406,2024-01-12,Sports,Bicycle Helmet,2,249.43,Gift Card
+O1830,C022,2023-03-28,Electronics,Monitor,1,192.13,Credit Card
+O1831,C371,2023-01-28,Beauty,Perfume,3,109.64,Credit Card
+O1832,C017,2023-09-09,Home,Coffee Maker,3,181.95,Credit Card
+O1833,C162,2023-12-27,Home,Cookware,3,283.76,Credit Card
+O1834,C237,2023-11-20,Beauty,Makeup Kit,2,271.8,Credit Card
+O1835,C100,2024-10-02,Electronics,Smartphone,1,245.26,Gift Card
+O1836,C150,2023-12-31,Electronics,Smartphone,1,248.93,Credit Card
+O1837,C275,2024-02-12,Home,Lamp,2,148.6,Gift Card
+O1838,C023,2024-06-18,Electronics,Smartphone,2,101.26,Credit Card
+O1839,C111,2024-10-24,Electronics,Headphones,3,286.69,Bank Transfer
+O1840,C158,2023-09-16,Electronics,Monitor,1,137.29,Gift Card
+O1841,C156,2023-08-07,Sports,Running Shoes,2,163.84,Bank Transfer
+O1842,C032,2023-06-05,Fashion,Sneakers,2,44.63,Credit Card
+O1843,C231,2024-08-10,Home,Coffee Maker,1,126.83,Credit Card
+O1844,C388,2023-08-12,Electronics,Headphones,1,263.94,PayPal
+O1845,C117,2023-04-16,Electronics,Monitor,3,120.95,Bank Transfer
+O1846,C283,2023-11-06,Sports,Tennis Racket,1,132.99,Bank Transfer
+O1847,C337,2024-12-26,Sports,Tennis Racket,1,178.0,Bank Transfer
+O1848,C159,2024-03-22,Fashion,Jacket,3,74.79,PayPal
+O1849,C034,2023-12-11,Home,Coffee Maker,2,164.65,Gift Card
+O1850,C369,2024-01-08,Beauty,Makeup Kit,3,298.92,PayPal
+O1851,C083,2023-11-18,Beauty,Shampoo,3,194.08,PayPal
+O1852,C013,2023-02-04,Beauty,Perfume,3,109.36,PayPal
+O1853,C109,2024-05-20,Electronics,Smartphone,1,39.89,Credit Card
+O1854,C108,2023-05-04,Home,Coffee Maker,3,249.79,PayPal
+O1855,C374,2024-10-25,Electronics,Headphones,1,111.77,Gift Card
+O1856,C292,2024-10-10,Sports,Bicycle Helmet,3,218.51,PayPal
+O1857,C355,2023-01-04,Fashion,Dress,2,112.69,Gift Card
+O1858,C026,2024-01-01,Home,Chair,1,65.6,Gift Card
+O1859,C048,2023-01-23,Electronics,Laptop,3,72.96,Bank Transfer
+O1860,C079,2023-10-16,Electronics,Monitor,3,45.51,Gift Card
+O1861,C059,2023-07-23,Sports,Tennis Racket,3,128.08,Gift Card
+O1862,C407,2024-01-23,Sports,Bicycle Helmet,2,173.12,Gift Card
+O1863,C075,2023-06-09,Beauty,Hair Dryer,2,269.11,Gift Card
+O1864,C310,2024-10-15,Fashion,Dress,3,134.06,Gift Card
+O1865,C315,2024-01-18,Fashion,T-Shirt,3,40.66,Credit Card
+O1866,C213,2024-01-28,Electronics,Headphones,3,289.6,Gift Card
+O1867,C228,2023-02-27,Home,Coffee Maker,2,189.93,Gift Card
+O1868,C047,2024-11-15,Home,Lamp,2,258.23,Credit Card
+O1869,C495,2023-09-29,Home,Vacuum Cleaner,3,63.79,PayPal
+O1870,C392,2024-11-11,Beauty,Perfume,2,124.74,Gift Card
+O1871,C498,2023-11-11,Electronics,Headphones,2,281.3,PayPal
+O1872,C426,2023-10-26,Beauty,Hair Dryer,3,248.35,Credit Card
+O1873,C185,2024-11-28,Fashion,T-Shirt,1,49.02,Bank Transfer
+O1874,C001,2024-06-09,Sports,Dumbbells,3,60.5,Gift Card
+O1875,C204,2023-05-20,Fashion,Sneakers,3,225.35,PayPal
+O1876,C375,2023-06-13,Home,Chair,3,261.85,Credit Card
+O1877,C391,2024-12-17,Sports,Bicycle Helmet,3,157.33,PayPal
+O1878,C490,2024-02-29,Fashion,T-Shirt,1,253.11,Bank Transfer
+O1879,C200,2023-12-19,Home,Coffee Maker,1,199.25,Bank Transfer
+O1880,C199,2024-06-05,Home,Vacuum Cleaner,1,246.71,Bank Transfer
+O1881,C227,2023-09-10,Fashion,Dress,2,244.47,Credit Card
+O1882,C281,2024-11-21,Sports,Running Shoes,3,197.1,PayPal
+O1883,C412,2024-04-06,Fashion,Jacket,1,16.46,PayPal
+O1884,C082,2023-09-13,Beauty,Hair Dryer,3,66.19,Credit Card
+O1885,C396,2023-06-01,Home,Coffee Maker,1,120.01,Credit Card
+O1886,C323,2023-03-29,Home,Vacuum Cleaner,1,288.75,Credit Card
+O1887,C115,2023-02-10,Sports,Yoga Mat,2,267.26,PayPal
+O1888,C082,2024-05-13,Sports,Dumbbells,3,234.87,Credit Card
+O1889,C098,2023-05-05,Beauty,Shampoo,3,268.72,Bank Transfer
+O1890,C040,2023-07-24,Electronics,Smartphone,1,179.92,Gift Card
+O1891,C274,2023-02-15,Sports,Tennis Racket,1,81.33,Bank Transfer
+O1892,C362,2023-04-27,Electronics,Headphones,1,133.87,PayPal
+O1893,C133,2024-03-03,Sports,Running Shoes,1,44.16,Bank Transfer
+O1894,C049,2024-11-20,Electronics,Smartphone,3,38.78,PayPal
+O1895,C351,2023-05-01,Beauty,Perfume,3,48.21,Credit Card
+O1896,C441,2023-10-03,Home,Lamp,2,108.27,Bank Transfer
+O1897,C025,2024-12-01,Fashion,Jeans,1,107.6,PayPal
+O1898,C106,2023-08-17,Sports,Tennis Racket,1,90.25,Gift Card
+O1899,C058,2024-04-06,Beauty,Makeup Kit,2,61.36,Credit Card
+O1900,C061,2024-02-23,Beauty,Skincare Set,1,240.96,PayPal
+O1901,C389,2024-11-05,Electronics,Laptop,2,174.0,PayPal
+O1902,C181,2023-08-21,Electronics,Smartphone,2,167.69,Gift Card
+O1903,C406,2023-01-29,Fashion,Sneakers,3,131.53,Bank Transfer
+O1904,C251,2023-08-11,Sports,Running Shoes,2,267.96,Bank Transfer
+O1905,C302,2023-09-12,Beauty,Perfume,3,165.01,Bank Transfer
+O1906,C339,2023-12-12,Sports,Bicycle Helmet,3,24.34,Gift Card
+O1907,C317,2024-08-04,Beauty,Perfume,3,199.59,Bank Transfer
+O1908,C006,2024-02-24,Beauty,Makeup Kit,3,31.64,PayPal
+O1909,C382,2024-10-22,Home,Coffee Maker,1,87.53,PayPal
+O1910,C131,2023-04-13,Sports,Yoga Mat,1,245.27,Credit Card
+O1911,C114,2024-08-16,Sports,Tennis Racket,1,203.41,Bank Transfer
+O1912,C353,2024-06-30,Electronics,Headphones,2,288.25,PayPal
+O1913,C042,2024-08-12,Sports,Yoga Mat,2,248.88,Gift Card
+O1914,C329,2024-03-15,Home,Lamp,3,233.42,Gift Card
+O1915,C375,2023-02-17,Fashion,Jeans,2,299.24,Bank Transfer
+O1916,C449,2023-06-16,Sports,Running Shoes,1,175.48,PayPal
+O1917,C078,2024-08-23,Fashion,T-Shirt,2,47.59,PayPal
+O1918,C039,2024-05-07,Beauty,Hair Dryer,1,201.07,PayPal
+O1919,C336,2023-05-13,Fashion,Dress,2,102.42,PayPal
+O1920,C119,2023-12-15,Home,Vacuum Cleaner,2,18.44,Credit Card
+O1921,C135,2023-11-27,Beauty,Hair Dryer,2,151.87,PayPal
+O1922,C291,2024-02-17,Fashion,Jacket,2,270.39,Bank Transfer
+O1923,C186,2023-04-08,Beauty,Hair Dryer,2,119.73,Gift Card
+O1924,C143,2024-06-23,Beauty,Skincare Set,1,99.17,Gift Card
+O1925,C153,2023-06-07,Electronics,Headphones,3,238.86,Credit Card
+O1926,C492,2024-05-15,Electronics,Smartphone,3,252.62,Gift Card
+O1927,C497,2024-12-03,Electronics,Monitor,3,156.18,Credit Card
+O1928,C230,2024-09-05,Electronics,Headphones,1,200.84,Bank Transfer
+O1929,C232,2024-02-20,Home,Chair,1,24.74,Gift Card
+O1930,C484,2023-03-07,Sports,Bicycle Helmet,2,127.26,Gift Card
+O1931,C340,2024-10-07,Home,Coffee Maker,3,196.13,Bank Transfer
+O1932,C047,2023-03-30,Fashion,T-Shirt,2,121.36,Bank Transfer
+O1933,C226,2024-03-14,Beauty,Shampoo,1,189.03,Gift Card
+O1934,C306,2023-06-06,Fashion,Jeans,2,149.18,Credit Card
+O1935,C195,2023-04-12,Sports,Yoga Mat,1,89.27,PayPal
+O1936,C041,2024-02-25,Fashion,Dress,1,37.13,Credit Card
+O1937,C498,2024-12-17,Fashion,T-Shirt,2,268.73,Bank Transfer
+O1938,C317,2023-06-28,Electronics,Smartphone,3,67.28,Credit Card
+O1939,C318,2023-03-09,Electronics,Smartphone,1,146.94,PayPal
+O1940,C066,2023-05-26,Beauty,Makeup Kit,1,274.24,PayPal
+O1941,C207,2024-02-18,Home,Cookware,2,21.51,Credit Card
+O1942,C402,2024-11-25,Beauty,Makeup Kit,1,211.63,PayPal
+O1943,C267,2023-06-09,Home,Coffee Maker,1,21.79,PayPal
+O1944,C395,2023-08-08,Fashion,Sneakers,3,253.77,Gift Card
+O1945,C374,2024-04-01,Electronics,Monitor,1,182.18,Credit Card
+O1946,C342,2024-09-11,Home,Coffee Maker,2,19.76,Credit Card
+O1947,C345,2023-11-16,Sports,Tennis Racket,3,159.97,Credit Card
+O1948,C004,2024-06-23,Home,Cookware,1,120.41,Gift Card
+O1949,C273,2024-03-18,Beauty,Hair Dryer,3,16.44,Credit Card
+O1950,C486,2024-07-20,Sports,Tennis Racket,3,55.19,Credit Card
+O1951,C406,2023-12-22,Sports,Tennis Racket,2,142.66,Bank Transfer
+O1952,C397,2024-09-25,Electronics,Headphones,1,137.94,PayPal
+O1953,C051,2023-07-19,Sports,Running Shoes,2,264.31,Bank Transfer
+O1954,C210,2023-11-19,Electronics,Laptop,3,222.51,Bank Transfer
+O1955,C392,2023-06-26,Fashion,Jacket,2,174.52,Bank Transfer
+O1956,C433,2023-09-06,Beauty,Perfume,2,151.99,Bank Transfer
+O1957,C493,2023-05-25,Sports,Running Shoes,3,66.95,Gift Card
+O1958,C489,2024-10-20,Fashion,Dress,3,10.0,Gift Card
+O1959,C171,2023-09-21,Fashion,Sneakers,1,218.06,Bank Transfer
+O1960,C381,2023-09-23,Fashion,Sneakers,2,61.6,Bank Transfer
+O1961,C099,2023-04-18,Home,Cookware,1,234.69,Bank Transfer
+O1962,C331,2024-01-27,Electronics,Smartphone,3,62.74,Bank Transfer
+O1963,C001,2023-04-04,Fashion,T-Shirt,2,64.12,Gift Card
+O1964,C319,2024-08-24,Electronics,Monitor,3,272.96,PayPal
+O1965,C029,2024-08-09,Electronics,Keyboard,1,88.51,Bank Transfer
+O1966,C386,2023-05-18,Home,Coffee Maker,3,93.88,Bank Transfer
+O1967,C250,2024-06-06,Electronics,Keyboard,3,290.26,Credit Card
+O1968,C499,2023-02-02,Beauty,Makeup Kit,2,29.31,Gift Card
+O1969,C308,2023-10-14,Electronics,Headphones,3,264.04,PayPal
+O1970,C454,2023-03-05,Electronics,Headphones,3,248.4,Bank Transfer
+O1971,C189,2023-09-02,Sports,Bicycle Helmet,1,138.08,PayPal
+O1972,C323,2023-12-16,Home,Vacuum Cleaner,3,288.08,Credit Card
+O1973,C491,2023-08-15,Home,Lamp,3,188.84,Credit Card
+O1974,C017,2023-07-01,Fashion,Sneakers,3,41.44,Bank Transfer
+O1975,C181,2023-07-15,Home,Lamp,1,132.58,Credit Card
+O1976,C133,2023-08-06,Sports,Dumbbells,2,59.9,Gift Card
+O1977,C061,2023-07-16,Beauty,Skincare Set,1,95.21,PayPal
+O1978,C128,2023-11-05,Beauty,Hair Dryer,3,97.93,Bank Transfer
+O1979,C262,2024-04-30,Electronics,Laptop,1,72.35,PayPal
+O1980,C357,2024-12-25,Beauty,Shampoo,1,181.75,PayPal
+O1981,C299,2023-05-28,Sports,Dumbbells,1,219.58,PayPal
+O1982,C476,2024-03-29,Fashion,T-Shirt,1,243.0,Gift Card
+O1983,C101,2024-10-01,Fashion,Jeans,2,196.98,Credit Card
+O1984,C300,2023-05-10,Electronics,Smartphone,2,70.41,PayPal
+O1985,C253,2023-02-03,Beauty,Makeup Kit,1,213.08,PayPal
+O1986,C355,2024-10-02,Electronics,Headphones,1,176.79,Bank Transfer
+O1987,C173,2024-10-21,Electronics,Monitor,3,266.35,Bank Transfer
+O1988,C077,2023-04-21,Fashion,T-Shirt,1,69.28,Credit Card
+O1989,C147,2024-04-11,Beauty,Perfume,2,52.78,Gift Card
+O1990,C023,2023-11-03,Home,Coffee Maker,1,170.01,Gift Card
+O1991,C462,2024-03-13,Home,Cookware,2,114.2,Gift Card
+O1992,C377,2024-05-12,Beauty,Perfume,1,165.44,Bank Transfer
+O1993,C243,2024-10-07,Home,Lamp,2,219.07,Credit Card
+O1994,C363,2023-01-11,Fashion,Jacket,2,287.04,Credit Card
+O1995,C269,2023-07-28,Home,Cookware,2,11.36,Credit Card
+O1996,C194,2024-05-01,Fashion,Dress,3,92.22,Credit Card
+O1997,C455,2024-12-17,Beauty,Perfume,2,154.9,PayPal
+O1998,C489,2024-07-15,Fashion,Dress,2,283.97,Gift Card
+O1999,C224,2023-10-29,Electronics,Keyboard,3,207.89,Bank Transfer
+O2000,C122,2023-05-09,Beauty,Perfume,2,178.18,PayPal
