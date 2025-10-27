@@ -52,6 +52,8 @@ DAX, Formulas, Python Scripting
 
 Business Insight Communication
 
+---
+
 Contact
 
 Zac Jackson
